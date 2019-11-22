@@ -1,4 +1,6 @@
 # MOLTEN CORE LOOT PRIORITY
+Below is the priority for loot in Molten Core
+
 | Item                         | Priority (in no particular order, except when bold) | 
 |------------------------------|-----------------------------------------------------| 
 | Aged Core Leather Gloves     | Dagger ROGUE, Feral Druid                           | 
