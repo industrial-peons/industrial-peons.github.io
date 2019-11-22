@@ -37,7 +37,8 @@ Everything in this system is able to be changed by a vote of the raid-ready guil
 
 If we encounter an unforeseen situation that seems outside the bounds of this system, the raid officers, while open to consultation from other players, will make the final decision in-raid.
 
-## DKP Decay: On the first of every month (before the raid if we happen to have a raid on that day), every player loses 20% of their current DKP, rounded up, to discourage hoarding.
+## DKP Decay: 
+On the first of every month (before the raid if we happen to have a raid on that day), every player loses 20% of their current DKP, rounded up, to discourage hoarding.
 
 ## Peons Loot Priority for DKP
 Our system was chosen after Peons voted to have a DKP system, but many also leaning towards a Loot Council system. So aspects of Loot Council have been incorporated into our DKP in the form of “priority classes/specs” for different items. Below is linked the sheet that contains all MC/Onyxia drops, and who has priority to spend DKP on those items. Any items in BOLD get the most priority. All others are listed in no particular order.
@@ -53,8 +54,9 @@ This first round is restricted to priority bids based on our loot spreadsheet (l
 
 *A Note About Raid-Necessary Offspecs:* If the raid’s officers decide that the MT/OT  do not require tank gear, DPS warriors may be forced to take tank gear for an automatic 5 DKP (cheaper than any other gear), or if they are under 5 DKP, all of their remaining DKP.The same goes for enhancement shamans/feral druids/spriests with healing gear.  This effectively makes tank gear loot-council. 
 
-If a player bids up another player for an item that they are not eligible for, the auction may start again from minimum bid.  All bids on all items currently start at 20 DKP.
-The method of bidding may change if it is determined to be too detrimental to raid focus.
+If a player bids up another player for an item that they are not eligible for, the auction may start again from minimum bid. **All bids on all items currently start at 20 DKP.**
+
+*The method of bidding may change if it is determined to be too detrimental to raid focus.*
 
 #### Round 2: 
 If there are no offers in the first round, a second round takes place.  This round obeys the same bidding format as the first, except for two key differences: there are no priority restrictions in the second round, other than that the item be an upgrade for one of the player’s roles within the raids or PVP, and the minimum bid is 10 DKP, or if they are under 10 DKP, all of their remaining DKP.
@@ -80,7 +82,7 @@ Finally, the MT has forced priority on any tank gear deemed essential to raid pr
 ## Loot Council: 
 We need a loot council to make this system function. The mission of this system is to outline every foreseeable event in this document, so that we can make the bid decisions all together as a guild, but a few determinations will need to be made as we go, (such as forcing upgrades upon players who wanted to hoard their DKP for another item). Most issues are solved by DKP and don’t need Loot Council in this system. These are detailed in full-depth below (so keep reading!).
 
-`Note: We will elect our loot council in the coming couple weeks, and every loot council can be recalled through a vote (as shown in [Voting](#voting). Until then, the raid leaders (Grienudele, Boop, Tuncenna, Eryx) will serve as the loot council in the rare times that it is necessary with this system.`
+*Note: We will elect our loot council in the coming couple weeks, and every loot council can be recalled through a vote (as shown in [Voting](#voting). Until then, the raid leaders (Grienudele, Boop, Tuncenna, Eryx) will serve as the loot council in the rare times that it is necessary with this system.*
 
 ## Additional Loot Information
 **Legendary drops** are loot council only.  They can never be bid on, and will go specifically to the individuals who will provide the most obvious numerical advantage to our raids.  i.e., Thunderfury will go to the MT first.
