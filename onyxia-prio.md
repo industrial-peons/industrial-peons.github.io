@@ -1,3 +1,9 @@
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 # ONYXIA LOOT Priority
 
 | Item                         | Priority (in no particular order, except when bold) | 
@@ -11,3 +17,4 @@
 | Shard of the Scale           | Healers                                             | 
 | Viskag the Bloodletter       | Sword ROGUE, Fury WAR                               | 
 | Onyxia Hide Backpack         | All                                                 | 
+{: .tablelines}
