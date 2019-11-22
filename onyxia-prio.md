@@ -3,7 +3,7 @@
 | Item                         | Priority (in no particular order, except when bold) | 
 |------------------------------|-----------------------------------------------------| 
 | Ancient Cornerstone Grimoire | Casters, Healers                                    | 
-| Deathbringer                 | DW Fury WAR, Tanks                                  | 
+| Deathbringer                 | **DW Fury WAR**, Tanks                                  | 
 | Eskhander's Collar           | Tanks, Melee                                        | 
 | Head of Onyxia               | Tanks, Physical DPS, ALL                            | 
 | Ring of Binding              | Tanks                                               | 
