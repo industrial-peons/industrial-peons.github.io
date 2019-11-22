@@ -29,6 +29,7 @@ Note: you will not see up to date values until an officer syncs you.  This is do
 Item-by-item class/spec priority information is available for:
 * [Molten Core Loot Priority](https://industrial-peons.github.io/molten-core-prio)
 * [Onyxia's Lair Loot Priority](https://industrial-peons.github.io/onyxia-prio)
+
 Concerns or suggestions regarding our loot priorities may be voiced in the #loot-discussion text channel on Discord by all members. 
 
 ## Voting: 
