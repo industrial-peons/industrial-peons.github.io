@@ -16,11 +16,14 @@ Our system was chosen after Peons voted to have a DKP system, but many also lean
 
 **If you sign up for a raid, but fail to show without changing your sign-up to "absent", you will get -5 DKP for an “unexcused” absence.** If you cannot attend, please mark “absent” on the raid sign-up. It really helps us plan and makes everything go smoothly.
 
+### World Bosses
+The Industrial Peons are an involved member of the Grobbulus Horde Coalition. This Coalition was set up to help solve Honor farming issues, inform guilds of events/world buff timers, and provide a strong platform to coordinate multiple guilds during world pvp events. The coalition strives to have multiple raids present at each world boss spawn, and has been successful at securing and sharing its lucritive loot. When a World Boss spawns, we encourage members to support the coalition defeat the different bosses and Alliance alike. If a member is present in a world boss raid group and has connected to the Grobbulus Guild Coordination discord server during the fight, 3DKP will be awarded to that member for their assistance. Guild officers will be able to help any new member get set up on the Coalition discord server.
+
 ## DKP BASICS
 
 **We use MonolithDKP**.  All members who ever plan to spend the DKP they earn with us should have it, and keep it up to date.
 
-It can be downloaded at[ https://www.curseforge.com/wow/addons/monolith-dkp](https://www.curseforge.com/wow/addons/monolith-dkp) or with the Twitch Client. Deadly Boss Mods, ClassicThreatMeter, and Details! are also required addons for raiding.
+It can be downloaded at [https://www.curseforge.com/wow/addons/monolith-dkp](https://www.curseforge.com/wow/addons/monolith-dkp) or with the Twitch Client. Deadly Boss Mods, ClassicThreatMeter, and Details! are also required addons for raiding.
 
 To check your DKP, simply install the addon and type /dkp. You may also type !dkp into a raid and every officer in the raid will PM you your dkp.
 
@@ -93,4 +96,33 @@ Finally, the MT has forced priority on any tank gear deemed essential to raid pr
 **Selling Gear:**  Individuals are strictly prohibited from attempting to turn their DKP into gold in any way, shape or form, and are similarly prohibited from buying items from raid members.
 
 **Quest Items:** For items that are a part of a quest chain (currently the example is Ancient Petrified Leaf and  Mature Black Dragon Sinew for hunters), if a player has one of the items, all other individuals bidding DKP on the item must also have the item.
+
+
+### Weekly Peonbank Guild Quest for 3 DKP
+To further help improve the resources availible to the guild through the guild bank, additional DKP is availible to members who complete the weekely guild quest. 
+The two methods to earn this 3DKP are:
+- 25g deposit sent to Peonbank
+- 1 hr of "farming activity" 
+
+**All Deposits must be sent to Peonbank before 12pm Server Time on Saturday for that week. Peonbank will add the DKP before the next raid at this point**
+
+#### Possible activities for Peonbank Quest:
+For the different farming activities, the "honor system" will be used(different than the endless "honor grind"). Each activity shall be ~1 hour, and must be decided in advance that "this is the hour i'm farming for the bank". After you have completed a task, send a letter to Peonbank with the items/money, and saying who did what. 
+
+Activities Include:
+- Fire elemental farming
+- standing in Org & crafting for an hour, all tips/fees to the bank
+- full-guild Strat Live run, all drops to the bank
+- Farming Eye of Shadow in Winterspring, all drops to the bank
+- 1hr of Mage ZF farming
+- DM:T stealth runs
+- 1 hour of herb/mining (Dreamfoil & Lotus top prio, full list pinned)
+- 1 hr farming essence of airs or waters
+- 1 hr of fishing (Winter Squid prio!)
+- any other activity must be approved by an officer in advance. This list will inevitably grow.
+
+**For any activity above, all drops (including vendor gold for drops) must be pooled and go to the guild bank(Peonbank). Please do not send grey items as Peonbank has limited storage/time capacity. Send the gold value of the vendored items in their place.**
+
+
+
 
