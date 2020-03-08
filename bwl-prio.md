@@ -32,13 +32,13 @@ Below is the priority for loot in Blackwing Lair
 | [Circle of Applied Force](https://classic.wowhead.com/item=19432/circle-of-applied-force)                                    | WAR, ROGUE, Enh SHAM                                    |
 | [Claw of Chromaggus](https://classic.wowhead.com/item=19347/claw-of-chromaggus)                                              | **Resto SHAM, LOCK, sPRIEST**                               |
 | [Claw of the Black Drake](https://classic.wowhead.com/item=19365/claw-of-the-black-drake)                                    | DW Fury WAR, ROGUE                                      |
-| [Cloak of Firemaw](https://classic.wowhead.com/item=19398/cloak-of-firemaw)                                                  | **ROGUE, HUNT**, Bear DRUID                                 |
+| [Cloak of Firemaw](https://classic.wowhead.com/item=19398/cloak-of-firemaw)                                                  | <span style="color:orange;font-weight: bold;">ROGUE</span>, <span style="color:orange;font-weight: bold;">HUNT</span>, Bear DRUID                                 |
 | [Cloak of the Brood Lord](https://classic.wowhead.com/item=19378/cloak-of-the-brood-lord)                                    | **Caster DPS**, HEAL                                        |
 | [Crul'shorukh, Edge of Chaos](https://classic.wowhead.com/item=19363/crulshorukh-edge-of-chaos)                              | Fury WAR                                                |
 | [Dragon's Touch](https://classic.wowhead.com/item=19367/dragons-touch)                                                       | **Caster DPS**, HEAL                                        |
 | [Dragonbreath Hand Cannon](https://classic.wowhead.com/item=19368/dragonbreath-hand-cannon)                                  | **Threat Tank**, PvP                                        |
-| [Dragonfang Blade](https://classic.wowhead.com/item=19346/dragonfang-blade)                                                  | Threat TANK  \>  Dagger ROGUE  \>  DW Fury, (HUNT)      |
-| [Drake Fang Talisman](https://classic.wowhead.com/item=19406/drake-fang-talisman)                                            | <span style="color:orange;">Bear TANK</span> > Warrior TANK (Not Grienudele) > ROGUE & WAR |
+| [Dragonfang Blade](https://classic.wowhead.com/item=19346/dragonfang-blade)                                                  | <span style="color:red;font-weight: bold;"> Threat TANK</span>  \>  <span style="color:orange;font-weight: bold;">Dagger ROGUE</span>  \>  DW Fury, (HUNT)      |
+| [Drake Fang Talisman](https://classic.wowhead.com/item=19406/drake-fang-talisman)                                            | <span style="color:red;font-weight: bold;">Bear TANK</span> > <span style="color:orange;font-weight: bold;">Warrior TANK (Not Grienudele)</span>  > ROGUE & WAR |
 | [Drake Talon Cleaver](https://classic.wowhead.com/item=19353/drake-talon-cleaver)                                            | Fury WAR, Enh SHAM                                      |
 | [Drake Talon Pauldrons](https://classic.wowhead.com/item=19394/drake-talon-pauldrons)                                        | **Threat TANK**, WAR                                        |
 | [Ebony Flame Gloves](https://classic.wowhead.com/item=19407/ebony-flame-gloves)                                              | **sPRIEST**, LOCK                                     |
@@ -55,7 +55,7 @@ Below is the priority for loot in Blackwing Lair
 | [Herald of Woe](https://classic.wowhead.com/item=19357/herald-of-woe)                                                        | Enh SHAM, Bear DRUID                                    |
 | [Legguards of the Fallen Crusader](https://classic.wowhead.com/item=19402/legguards-of-the-fallen-crusader)                  | TANK                                                    |
 | [Lok'amir il Romathis](https://classic.wowhead.com/item=19360/lokamir-il-romathis)                                           | **Resto DRUID**, sPRIEST, rSHAM                             |
-| [Maladath, Runed Blade of the Black Flight](https://classic.wowhead.com/item=19351/maladath-runed-blade-of-the-black-flight) | LUFFY > Sword ROGUE, DW Fury WAR,                  |
+| [Maladath, Runed Blade of the Black Flight](https://classic.wowhead.com/item=19351/maladath-runed-blade-of-the-black-flight) | <span style="color:red;font-weight: bold;">LUFFY</span> > Sword ROGUE, DW Fury WAR,                  |
 | [Malfurion's Blessed Bulwark](https://classic.wowhead.com/item=19405/malfurions-blessed-bulwark)                             | **Bear DRUID, Enh SHAM, Fury WAR**                          |
 | [Mantle of the Blackwing Cabal](https://classic.wowhead.com/item=19370/mantle-of-the-blackwing-cabal)                        | **sPRIEST**, LOCK, MAGE<br>                                 |
 | [Mish'undare, Circlet of the Mind Flayer](https://classic.wowhead.com/item=19375/mishundare-circlet-of-the-mind-flayer)      | Caster DPS, HEAL                                        |
