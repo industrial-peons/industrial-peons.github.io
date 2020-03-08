@@ -57,7 +57,7 @@ __**AUCTION INFORMATION**__
 
 **Round 2**: If there are no offers in the first round, a second round takes place.  This round obeys the same bidding format as the first, except for two key differences: there are no priority restrictions in the second round, other than that the item be an upgrade for one of the player’s roles within the raids or PVP, and the minimum bid is 10 DKP, or if they are under 10 DKP, all of their remaining DKP. In the case of MC/Onyxia, this would start at 5 DKP.
 
-**If there are no offers on the second round, one of two things will happen:**(edited)
+**If there are no offers on the second round, one of two things will happen:**
 
 1. The item will be given to an enchanter to disenchant, and the result will be considered guild property
 
