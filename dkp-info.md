@@ -34,13 +34,8 @@ To cancel a bid:  /ra !bid cancel
 
 Note: you will not see up to date values until an officer broadcasts to you. So if you think yours isn’t accurate, contact Grienudele, Boop, Tuncenna, or Eryx.
 
-[
 
-2:30 PM
-
-]
-
-**Ite****m-by-item class/spec priority information** is available here. It was agreed as a guild before Phase 3 launched. This priority sheet is now locked for the phase, but guild officers have the power to remove certain priorities as we continue to progress through the content. 
+**Item-by-item class/spec priority information** is available here. It was agreed as a guild before Phase 3 launched. This priority sheet is now locked for the phase, but guild officers have the power to remove certain priorities as we continue to progress through the content. 
 
 The classes and specs listed next to the items are the priority. The order of the names have no bearing on the order, but bolding represents special priority over other classes listed.
 
@@ -63,12 +58,6 @@ __**AUCTION INFORMATION**__
 **Round 2**: If there are no offers in the first round, a second round takes place.  This round obeys the same bidding format as the first, except for two key differences: there are no priority restrictions in the second round, other than that the item be an upgrade for one of the player’s roles within the raids or PVP, and the minimum bid is 10 DKP, or if they are under 10 DKP, all of their remaining DKP. In the case of MC/Onyxia, this would start at 5 DKP.
 
 **If there are no offers on the second round, one of two things will happen:**(edited)
-
-[
-
-2:40 PM
-
-]
 
 1. The item will be given to an enchanter to disenchant, and the result will be considered guild property
 
