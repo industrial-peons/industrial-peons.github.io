@@ -3,9 +3,10 @@
         border: 1px solid black;
         }
 </style>
+# BLACKWING LAIR LOOT PRIORITY
 
-# MOLTEN CORE LOOT PRIORITY
 Below is the priority for loot in Blackwing Lair
+
 | Item                                                                                                                         | Priority (in no particular order, except when bold)     |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | [Angelista's Grasp](https://classic.wowhead.com/item=19388/angelistas-grasp)                                                 | LOCK, MAGE, sPRIEST                                     |
@@ -77,5 +78,4 @@ Below is the priority for loot in Blackwing Lair
 | [Cloak of Draconic Might](https://classic.wowhead.com/item=19436/cloak-of-draconic-might)                                    | Fury, Tanks, Enh Sham                                   |
 | [Doom's Edge](https://classic.wowhead.com/item=19362/dooms-edge)                                                             | Fury WAR                                                |
 | [Draconic Maul](https://classic.wowhead.com/item=19358/draconic-maul)                                                        | Bear DRUID, PvP                                         |
-
 {: .tablelines}
