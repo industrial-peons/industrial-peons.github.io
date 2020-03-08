@@ -16,7 +16,7 @@ Our system was chosen after Peons voted to have a DKP system, but many also lean
 
 **If you sign up for a raid, but fail to show without changing your sign-up to "absent", you will get -5 DKP for an “unexcused” absence.** If you cannot attend, please mark “absent” on the raid sign-up. It really helps us plan and makes everything go smoothly.
 
-**DKP BASICS**
+## DKP BASICS
 
 **We use MonolithDKP**.  All members who ever plan to spend the DKP they earn with us should have it, and keep it up to date.
 
@@ -32,22 +32,27 @@ Example bid: /ra !bid 30
 
 To cancel a bid:  /ra !bid cancel
 
-Note: you will not see up to date values until an officer broadcasts to you. So if you think yours isn’t accurate, contact Grienudele, Boop, Tuncenna, or Eryx.
+*Note: you will not see up to date values until an officer broadcasts to you. So if you think yours isn’t accurate, contact Grienudele, Boop, Tuncenna, or Eryx.*
 
 
 **Item-by-item class/spec priority information** is available here. It was agreed as a guild before Phase 3 launched. This priority sheet is now locked for the phase, but guild officers have the power to remove certain priorities as we continue to progress through the content. 
 
 The classes and specs listed next to the items are the priority. The order of the names have no bearing on the order, but bolding represents special priority over other classes listed.
 
-[https://docs.google.com/spreadsheets/d/1ZA9wD2F5Iyk3PlDCKsdhZQzpv1iDdJyaxXu-VUIDw1c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ZA9wD2F5Iyk3PlDCKsdhZQzpv1iDdJyaxXu-VUIDw1c/edit?usp=sharing)
+[Blackwing Lair Loot Priority](https://industrial-peons.github.io/bwl-prio)
 
-**Voting:** This system is able to be changed by a vote of the raid-ready guild members. Please contact the raid officers if you would like to propose a vote, and we will post it in #💰loot-information. A vote requires at least 40 raid-ready Peons to vote either way on the proposed change, and changes cannot be made mid-raid. 
+[Molten Core Loot Priority](https://industrial-peons.github.io/molten-core-prio)
+
+[Onyxia Loot Priority](https://industrial-peons.github.io/onyxia-prio)
+
+
+**Voting:** This system is able to be changed by a vote of the raid-ready guild members. Please contact the raid officers if you would like to propose a vote, and we will post it in #💰loot-information on the guild Discord. A vote requires at least 40 raid-ready Peons to vote either way on the proposed change, and changes cannot be made mid-raid. 
 
 If we encounter an unforeseen situation that seems outside the bounds of this system, the raid officers, while open to consultation from other players, will make the final decision in-raid.
 
-**DKP Decay: **On the first of every month, every player loses 20% of their current DKP, rounded up, to discourage hoarding.
+**DKP Decay:** On the first of every month, every player loses 20% of their current DKP, rounded up, to discourage hoarding.
 
-__**AUCTION INFORMATION**__
+## AUCTION INFORMATION
 
 **For epic bind-on-pick-up equipment, the auction has two rounds:**
 
@@ -63,23 +68,23 @@ __**AUCTION INFORMATION**__
 
 2. If the item is deemed an upgrade useful to progression appears to have been ignored due to hoarding, a player is chosen by the officers to receive this item based on whoever the item would be the largest upgrade for.  This player is still charged 20% of their total DKP, rounded up.
 
-**NEGATIVE DKP**
+### NEGATIVE DKP
 
 A player cannot bid more DKP than they have.  In the event a player reaches 0 DKP, they are forbidden from placing bids unless every other player with priority for an item also reaches 0 DKP, in which all players with priority on an item /100 for the item, with the winner being charged 20 DKP and pushed into the negatives.
 
-**CRAFTING RECIPE DROPS AND CRAFTING MATERIALS**
+### CRAFTING RECIPE DROPS AND CRAFTING MATERIALS
 
 Are considered guild property and are never bid on.  They are either distributed via loot council, sold, or stored for later use.  Such stored materials and recipes can be requested by members in good standing for no cost.
 
-**PUGS**
+### PUGS
 
 If we are unable to completely fill a raid with Peons and need to resort to pulling in a few additional members, the loot rules will slightly change when an item is dropped that the non-guild member can use. Each non-guild raider will be permitted to roll on one tier piece and one non-tier piece throughout the raid. When a non-guild member needs the item and rolls, all other eligible guild members (MS > OS) will roll for it as well. If a DKP holding raid member wins the roll, the bidding system will initiate as normal.
 
-**TANK GEARING**
+### TANK GEARING
 
 Finally, the MT has forced priority on any tank gear deemed essential to raid progression by the officers. The OT has forced secondary priority.  The MT and OT cannot refuse these upgrades, and pay either 20% of their current DKP or 20 DKP (whichever is greater) per item for them in all cases, possibly pushing them into the negatives.  Classic WoW’s raid encounters are balanced around the majority of outgoing raid damage being funneled through 1 person out of 39. It isn’t hard to do the math.  Guilds serious about progression gear up their tanks ASAP.  We are no exception.  Tank gear is generally loot-council. Do not expect to bid on it.
 
-**ADDITIONAL LOOT INFORMATION**
+### ADDITIONAL LOOT INFORMATION
 
 **Legendary drops** are loot council only.  They can never be bid on, and will go specifically to the individuals who will provide the most obvious numerical advantage to our raids.  i.e., Thunderfury will go to the MT first.
 
