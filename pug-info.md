@@ -1,7 +1,7 @@
 # Peon Pug Loot System
 
 ## Zul'Gurub
-<Industrial Peons\>**  uses a soft reserve for items looted within Zul'Gurub. 
+**\<Industrial Peons\>**  uses a soft reserve for items looted within Zul'Gurub. 
 
 ### Soft Reserving
 Place your name next to one piece of gear on this document provided by the raid leader.
