@@ -11,16 +11,16 @@ Below is the priority for loot in Molten Core
 |------------------------------|-----------------------------------------------------|
 | Aged Core Leather Gloves     |                                                     |
 | Ancient Petrified Leaf       |                                                     |
-| Aurastone Hammer             | **Resto SHAM**, Resto DRUID                             |
+| Aurastone Hammer             |                             |
 | Azuresong Mageblade          | LOCK, MAGE                                          |
 | Band of Accuria              | MT, Tank WAR, Feral DRUID, ROGUE.                   |
-| Band of Sulfuras             | Casters                                             |
+| Band of Sulfuras             |                                             |
 | Bindings of the Windseeker   | COUNCIL                                             |
 | Blastershot Launcher         |                                                     |
 | Bonereaver's Edge            | 2H Fury WAR, Arms WAR                               |
-| Brutality Blade              | DW Fury WAR, Sword ROGUE                            |
+| Brutality Blade              |                            |
 | Cauterizing Band             | Healers                                             |
-| Choker of Enlightenment      | CASTERS, HEALERS                                    |
+| Choker of Enlightenment      |                                    |
 | Choker of the Fire Lord      | **CASTERS**, HEALERS                                    |
 | Cloak of Shrouded Mists      |                                                     |
 | Core Forged Greaves          |                                                     |
@@ -36,7 +36,7 @@ Below is the priority for loot in Molten Core
 | Eye of Sulfuras              | COUNCIL                                             |
 | Finkle's Lava Dredger        |                                                     |
 | Fire Runed Grimoire          |                                                     |
-| Fireguard Shoulders          | **Feral DRUID**, All who need FR                        |
+| Fireguard Shoulders          |                        |
 | Fireproof Cloak              |                                                     |
 | Flameguard Gauntlets         |                                                     |
 | Flamewalker Legplates        |                                                     |
@@ -67,6 +67,6 @@ Below is the priority for loot in Molten Core
 | The Eye of Divinity          |                                                     |
 | Vendorstrike                 |                                                     |
 | Wild Growth Spaulders        |                                                     |
-| Wristguards of Stability     | Feral DRUID, Arms WAR, Fury WAR, Enh SHAM           |
+| Wristguards of Stability     |           |
 | Wristguards of True Flight   |                                         | 
 {: .tablelines}
