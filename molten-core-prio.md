@@ -1,27 +1,27 @@
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
+---
+layout: default
+title: MC Prio
+---
 
 # MOLTEN CORE LOOT PRIORITY
+
 Below is the priority for loot in Molten Core
 
 | Item                         | Priority (in no particular order, except when bold) |
-|------------------------------|-----------------------------------------------------|
+| ---------------------------- | --------------------------------------------------- |
 | Aged Core Leather Gloves     |                                                     |
 | Ancient Petrified Leaf       |                                                     |
-| Aurastone Hammer             |                             |
+| Aurastone Hammer             |                                                     |
 | Azuresong Mageblade          | LOCK, MAGE                                          |
 | Band of Accuria              | MT, Tank WAR, Feral DRUID, ROGUE.                   |
-| Band of Sulfuras             |                                             |
+| Band of Sulfuras             |                                                     |
 | Bindings of the Windseeker   | COUNCIL                                             |
 | Blastershot Launcher         |                                                     |
 | Bonereaver's Edge            | 2H Fury WAR, Arms WAR                               |
-| Brutality Blade              |                            |
+| Brutality Blade              |                                                     |
 | Cauterizing Band             | Healers                                             |
-| Choker of Enlightenment      |                                    |
-| Choker of the Fire Lord      | **CASTERS**, HEALERS                                    |
+| Choker of Enlightenment      |                                                     |
+| Choker of the Fire Lord      | **CASTERS**, HEALERS                                |
 | Cloak of Shrouded Mists      |                                                     |
 | Core Forged Greaves          |                                                     |
 | Core Hound Tooth             |                                                     |
@@ -36,7 +36,7 @@ Below is the priority for loot in Molten Core
 | Eye of Sulfuras              | COUNCIL                                             |
 | Finkle's Lava Dredger        |                                                     |
 | Fire Runed Grimoire          |                                                     |
-| Fireguard Shoulders          |                        |
+| Fireguard Shoulders          |                                                     |
 | Fireproof Cloak              |                                                     |
 | Flameguard Gauntlets         |                                                     |
 | Flamewalker Legplates        |                                                     |
@@ -45,7 +45,7 @@ Below is the priority for loot in Molten Core
 | Heavy Dark Iron Ring         |                                                     |
 | Magma Tempered Boots         |                                                     |
 | Malistar's Defender          | Resto SHAM                                          |
-| Mana Igniting Cord           | LOCK, **MAGE**, Shadow PRIEST                           |
+| Mana Igniting Cord           | LOCK, **MAGE**, Shadow PRIEST                       |
 | Manastorm Leggings           | Healers                                             |
 | Medallion of Steadfast Might |                                                     |
 | Obsidian Edged Blade         | Arms WAR, 2H Fury WAR                               |
@@ -67,6 +67,7 @@ Below is the priority for loot in Molten Core
 | The Eye of Divinity          |                                                     |
 | Vendorstrike                 |                                                     |
 | Wild Growth Spaulders        |                                                     |
-| Wristguards of Stability     |           |
-| Wristguards of True Flight   |                                         | 
+| Wristguards of Stability     |                                                     |
+| Wristguards of True Flight   |                                                     |
+
 {: .tablelines}

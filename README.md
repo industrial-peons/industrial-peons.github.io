@@ -1,9 +1,11 @@
-## Welcome To Home Page Comrade!
-We are a tight-knit raiding/pvp guild. LGBTQIA+ friendly guild. We are currently using a DKP system to distribute loot. Additional information about our loot system can be found in the #loot-information channel!
+# Dependencies
 
-### DKP
-Information about our system can be found on the 
-[DKP](https://industrial-peons.github.io/dkp-info) page.
+- Ruby
+- Bundle (package manager for Ruby, usually installed automatically when Ruby is installed)
 
-To see a recently updated DKP list, click [here](https://industrial-peons.github.io/dkp/).
+# Building and running the site
 
+```
+bundle install
+bundle exec jekyll serve
+```
