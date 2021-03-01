@@ -2,5 +2,46 @@
 ---
 
 body {
+  background-attachment: fixed;
+  background-image: url("/assets/valleyoftrials.png"); /* Overridden in every page, but here just in case */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.5;
+}
+
+h1 {
+  background-image: url("/assets/sitelogo.png");
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-left: 50px;
+}
+
+.logo {
+  max-height: 128px;
+}
+
+.page {
+  display: flex;
+}
+
+.content,
+.sidebar {
+  background-color: rgba(250, 235, 215, 0.95);
+  color: rgb(116, 59, 12);
+  display: inline;
+  height: min-content;
+  padding: 16px;
+}
+
+.sidebar {
+  margin-left: auto;
+  width: 256px;
+}
+
+.content {
+  margin-right: auto;
+  width: 720px;
 }

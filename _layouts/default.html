@@ -16,29 +16,27 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <style>
+    body {
+      background-image: url("/assets/{{ page.background | default: 'valleyoftrials' }}.png");
+    }
+  </style>
 </head>
 
 <body>
-  <div id="header">
-    <h1>{{ site.title | default: site.github.repository_name }}</h1>
-    <nav>
-      <li class="downloads"><a href="{{site.baseurl}}/dkp/">CURRENT DKP</a></li>
-      <li class="title"><a href="{{site.baseurl}}/onyxia-prio">ONY LOOT PRIO</a></li>
-      <li class="title"><a href="{{site.baseurl}}/molten-core-prio">MC LOOT PRIO</a></li>
-      <li class="title"><a href="{{site.baseurl}}/bwl-prio">BWL PRIO</a></li>
-      <li class="title"><a href="{{site.baseurl}}/dkp-info">DKP INFO</a></li>
-    </nav>
-
-  </div><!-- end header -->
-
-  <div class="wrapper">
-
-    <section>
-
+  <div class="page">
+    <div class="sidebar">
+      <h4>{{ site.title | default: site.github.repository_name }}</h4>
+      <div><a href="{{site.baseurl}}/">HOME</a></div>
+      <div><a href="{{site.baseurl}}/dkp/">CURRENT DKP</a></div>
+      <div><a href="{{site.baseurl}}/onyxia-prio">ONY LOOT PRIO</a></div>
+      <div><a href="{{site.baseurl}}/molten-core-prio">MC LOOT PRIO</a></div>
+      <div><a href="{{site.baseurl}}/bwl-prio">BWL PRIO</a></div>
+      <div><a href="{{site.baseurl}}/dkp-info">DKP INFO</a></div>
+    </div>
+    <div class="content">
       {{ content }}
-
-    </section>
-
+    </div>
   </div>
 </body>
 

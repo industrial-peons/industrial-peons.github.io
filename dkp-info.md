@@ -1,6 +1,7 @@
 ---
 layout: default
 title: DKP Info
+background: goshek
 ---
 
 # Industrial Peons DKP Priority System
