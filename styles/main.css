@@ -54,14 +54,35 @@ h1 {
 
 .sidebar {
   background-position: right;
-  border-bottom-left-radius: 16px;
+  border-radius: 16px 0px 0px 16px;
   height: min-content;
   margin-left: auto;
 }
 
+.sidebar-section {
+  margin-top: 16px;
+  margin-bottom: 0;
+}
+
+.sidebar-link {
+  background-color: brown;
+  border-radius: 16px;
+  color: goldenrod;
+  display: block;
+  font-weight: 700;
+  margin-top: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  text-align: center;
+  text-decoration: none;
+  width: 75%;
+}
+
 .content {
   background-position: left;
-  border-radius: 0 0 16px 16px;
+  border-radius: 0 16px 16px 0px;
   margin-right: auto;
   width: 720px;
 }
