@@ -9,6 +9,17 @@ body {
   background-size: cover;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5;
+  margin-bottom: 24px;
+  margin-top: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: rgb(92, 43, 2);
 }
 
 h1 {
@@ -19,29 +30,28 @@ h1 {
   padding-left: 50px;
 }
 
-.logo {
-  max-height: 128px;
-}
-
 .page {
   display: flex;
 }
 
 .content,
 .sidebar {
-  background-color: rgba(250, 235, 215, 0.95);
-  color: rgb(116, 59, 12);
+  background-image: url("{{site.baseurl}}/assets/backgroundtexture.png");
+  color: rgb(61, 29, 2);
   display: inline;
-  height: min-content;
   padding: 16px;
 }
 
 .sidebar {
+  background-position: right;
+  border-bottom-left-radius: 16px;
+  height: min-content;
   margin-left: auto;
-  width: 256px;
 }
 
 .content {
+  background-position: left;
+  border-radius: 0 0 16px 16px;
   margin-right: auto;
   width: 720px;
 }
