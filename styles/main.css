@@ -22,12 +22,22 @@ h6 {
   color: rgb(92, 43, 2);
 }
 
+h1,
+h2,
+h3 {
+  font-family: "Eagle Lake", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
 h1 {
   background-image: url("{{site.baseurl}}/assets/sitelogo.png");
   background-position: left;
   background-repeat: no-repeat;
   background-size: contain;
   padding-left: 50px;
+}
+
+.center {
+  text-align: center;
 }
 
 .page {
