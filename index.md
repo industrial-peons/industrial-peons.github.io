@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+background: goshek
 ---
 
 # Welcome To Home Page Comrade!
