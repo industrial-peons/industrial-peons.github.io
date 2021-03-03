@@ -5,7 +5,7 @@ title: Ony
 
 # Onyxia
 
-_Kill photo pending_
+![Peons > Sneaky Dragons]({{site.baseurl}}/assets/ony.png)
 
 **We removed our Onyxia loot priorities in Phase 3. They are listed below only for historical value.**
 
