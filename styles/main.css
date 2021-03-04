@@ -18,13 +18,15 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+.sidebar-section {
   color: rgb(92, 43, 2);
 }
 
 h1,
 h2,
-h3 {
+h3,
+.sidebar-section {
   font-family: "Eagle Lake", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -33,7 +35,8 @@ h1 {
   background-position: left;
   background-repeat: no-repeat;
   background-size: contain;
-  padding-left: 50px;
+  font-size: 3em;
+  padding-left: 1.5em;
 }
 
 img {
@@ -53,7 +56,6 @@ img {
 .sidebar {
   background-image: url("{{site.baseurl}}/assets/backgroundtexture.png");
   color: rgb(61, 29, 2);
-  display: inline;
   padding: 16px;
 }
 
@@ -62,12 +64,21 @@ img {
   border-radius: 16px 0px 0px 16px;
   height: min-content;
   margin-left: auto;
+  max-width: 248px;
+}
+
+.sidebar-title {
+  text-align: center;
 }
 
 .sidebar-section {
+  display: block;
+  font-weight: 900;
   text-align: center;
   margin-top: 32px;
   margin-bottom: 0;
+  text-decoration: none;
+  pointer-events: none;
 }
 
 .sidebar-link {
@@ -98,5 +109,66 @@ img {
   background-position: left;
   border-radius: 0 16px 16px 0px;
   margin-right: auto;
-  width: 720px;
+  max-width: 656px;
+}
+
+@media screen and (max-width: 960px) {
+  h1 {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  h2 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .page {
+    display: block;
+    flex-wrap: wrap;
+  }
+
+  .sidebar {
+    border-radius: 0px;
+    margin-right: auto;
+    max-width: 656px;
+    padding-bottom: 0;
+  }
+
+  .sidebar-items {
+    align-items: baseline;
+    display: flex;
+    justify-content: center;
+  }
+
+  .sidebar-section {
+    background-color: brown;
+    border-color: rgb(197, 74, 74);
+    border-radius: 16px;
+    border-style: outset;
+    color: goldenrod;
+    display: block;
+    font-family: "Eagle Lake", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    margin: 8px;
+    padding: 2px;
+    text-align: center;
+    text-decoration: none;
+    pointer-events: unset;
+  }
+
+  .sidebar-section:active {
+    background-color: darkred;
+    border-style: inset;
+    color: rgb(163, 124, 24);
+  }
+
+  .sidebar-link {
+    display: none;
+  }
+
+  .content {
+    border-radius: 0px 0px 16px 16px;
+    margin-left: auto;
+  }
 }
