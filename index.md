@@ -4,13 +4,10 @@ title: Home
 background: goshek
 ---
 
-# Welcome To Home Page Comrade!
+# Welcome!
 
-We are a tight-knit raiding/pvp guild. LGBTQIA+ friendly guild. We are currently using a DKP system to distribute loot. Additional information about our loot system can be found in the #loot-information channel!
+**We are a tight-knit, LGBTQIA+ friendly, pro-feminism, pro-racial equality raiding guild (and yes, [we've downed KT]({{site.baseurl}}/naxx/)).**
 
-## DKP
+We are currently using a DKP system to distribute loot. Additional information about our loot system can be found on the [DKP info]({{site.baseurl}}/dkp-info) page or in the #loot-information channel in our Discord!
 
-Information about our system can be found on the
-[DKP]({{site.baseurl}}/dkp-info) page.
-
-To see a recently updated DKP list, click [here]({{site.baseurl}}/dkp/).
+We also periodically back up our DKP totals to the website. To see a recently updated DKP list, click [here]({{site.baseurl}}/dkp/).
