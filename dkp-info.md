@@ -40,7 +40,7 @@ To help improve the resources available to the guild through the guild bank, add
 
 Only the highest eligible tier will apply, and the Peonbank weekly quest resets every Saturday at noon.
 
-## How DKP is spent
+## How Dkp Is Spent
 
 **We use MonolithDKP**. All members who ever plan to spend the DKP they earn with us should have it, and keep it up to date. It can be downloaded at [https://www.curseforge.com/wow/addons/monolith-dkp](https://www.curseforge.com/wow/addons/monolith-dkp) or with any number of WoW addon managers, such as WoWUp.
 
@@ -56,7 +56,7 @@ To cancel a bid: `/ra !bid cancel`
 
 _Note: you will not see up to date values until an officer broadcasts to you. So if you think yours isn’t accurate, make a post in the #dkp-helpdesk channel on our Discord and an officer with DKP push permissions will help you._
 
-### Item-by-item class/spec priority information
+### Per-item Priority Information
 
 Item priorities are available on each individual raid's page. We agree on each priority table as a guild before each new content phase starts. We lock the priority sheet once the phase begins, but it can still be changed by a group vote.
 
@@ -72,11 +72,15 @@ The classes and specs listed next to the items are the priority. The order of th
 
 The MT has forced priority on any tank gear deemed essential to raid progression by the officers. The OT has forced secondary priority. The MT and OT cannot refuse these upgrades, and pay either 20% of their current DKP or 20 DKP (whichever is greater) per item for them in all cases, possibly pushing them into the negatives. Classic WoW’s raid encounters are balanced around the majority of outgoing raid damage being funneled through 1 person out of 39. It isn’t hard to do the math. Guilds serious about progression gear up their tanks ASAP. We are no exception. Tank gear is generally loot council. Do not expect to bid on it.
 
-### Automatic priority loosening
+### Automatic Priority Loosening
 
 If an item that is currently locked under a priority ever goes for less than 40 DKP in one of our raids, it loses it opens up to the next priority tier. For instance, if an item with a bolded priority of rogues and a non-bolded priority of all physical classes goes for less than 40 DKP, it would lose the bolded priority. If it goes for under 40 DKP again, it would even lose the non-bolded priority.
 
-### Additional Loot Information
+### Selling Gear
+
+Individuals are strictly prohibited from attempting to turn their DKP into gold in any way, shape or form, and are similarly prohibited from buying items from raid members.
+
+### Other Loot Types
 
 **Crafting recipes and materials** are considered guild property and are never bid on. They are either distributed via loot council, sold, or stored for later use. Such stored materials and recipes can be requested by members in good standing for no cost.
 
@@ -84,11 +88,9 @@ If an item that is currently locked under a priority ever goes for less than 40 
 
 **Sidegrades:** Let DKP handle it. If somebody wins, they win, regardless of who’s bidding, or what they’re wearing.
 
-**Selling Gear:** Individuals are strictly prohibited from attempting to turn their DKP into gold in any way, shape or form, and are similarly prohibited from buying items from raid members.
-
 **Quest Items:** For quest chains that require multiple items from raids, if a player has one of the items, all other individuals bidding DKP on the item must also have the item. For example, if Mature Black Dragon Sinew drops and some of the raiders have the Ancient Petrified Leaf and some don't, only raiders who do have it may bid.
 
-### Auction information
+### Auction Information
 
 **For epic bind-on-pick-up equipment, the auction has two rounds:**
 
@@ -127,9 +129,9 @@ This system is able to be changed by a vote of the raid-ready guild members. Ple
 
 If we encounter an unforeseen situation that seems outside the bounds of this system, the raid officers, while open to consultation from other players, will make the final decision in-raid.
 
-## Non-guild raiders
+## Non-guild Raiders
 
-### Guest DKP raiders
+### Guest DKP Raiders
 
 40 is a lot of people, and especially with the rapidly approaching reduction to 25-person raids, it's not always possible to make sure that everyone in the raid has an **\<Industrial Peons\>** guild tag. Non-guild members who raid with us regularly may request to be added to our DKP system, which will allow them to accrue and spend DKP at exactly the same rate as other members, including access to the **Peonbank weekly quest.** This option is particularly popular with members of RP guilds who enjoy raiding with us.
 
