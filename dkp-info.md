@@ -24,7 +24,7 @@ We issue different DKP values depending on whether the raid in question is _prog
 We also have attendance modifiers for raids:
 
 - **5 DKP** will be awarded for being present in the raid before the first pull.
-- **60 DKP** will be given as a seed to new raid members at the end of their first raid in our DKP system.
+- **60 DKP** will be given as a seed to new guild members at the end of their first raid.
 
 ### World Bosses
 
@@ -40,9 +40,9 @@ To help improve the resources available to the guild through the guild bank, add
 
 Only the highest eligible tier will apply, and the Peonbank weekly quest resets every Saturday at noon.
 
-## How Dkp Is Spent
+## How DKP Is Spent
 
-**We use MonolithDKP**. All members who ever plan to spend the DKP they earn with us should have it, and keep it up to date. It can be downloaded at [https://www.curseforge.com/wow/addons/monolith-dkp](https://www.curseforge.com/wow/addons/monolith-dkp) or with any number of WoW addon managers, such as WoWUp.
+**We use MonolithDKP**. All guild members who raid should have it, and keep it up to date. It can be downloaded at [https://www.curseforge.com/wow/addons/monolith-dkp](https://www.curseforge.com/wow/addons/monolith-dkp) or with any number of WoW addon managers, such as WoWUp. Having this installed lets you view the full DKP data, although raiders who aren't officially in the guild might have difficulties receiving sync data, due to addon permissions.
 
 To check your DKP, simply install the addon and type `/dkp`. You may also type `!dkp` into a raid and every officer in the raid will PM you your DKP.
 
@@ -122,10 +122,11 @@ We highly recommend the following addons for raiding:
 - **Details!**
 - **WeakAuras**
 - **HealComms** (healers only)
+- **Peggle**
 
 ## Voting
 
-This system is able to be changed by a vote of the raid-ready guild members. Please contact the raid officers if you would like to propose a vote, and we will post it in #💰loot-discussion on the guild Discord. A vote requires at least 40 raid-ready Peons to vote either way on the proposed change, and changes cannot be made mid-raid.
+This system is able to be changed by a vote of the raid-ready guild members. Please contact the raid officers if you would like to propose a vote, and we will post it in #💰loot-discussion on the guild Discord. A vote requires at least 30 raid-ready Peons to vote either way on the proposed change, and changes cannot be made mid-raid.
 
 If we encounter an unforeseen situation that seems outside the bounds of this system, the raid officers, while open to consultation from other players, will make the final decision in-raid.
 
