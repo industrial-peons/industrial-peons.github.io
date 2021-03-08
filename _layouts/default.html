@@ -40,6 +40,15 @@
         <a class="sidebar-link" href="{{site.baseurl}}/bwl">Blackwing Lair</a>
         <a class="sidebar-link" href="{{site.baseurl}}/aq40">The Temple of Ahn'qiraj</a>
         <a class="sidebar-link" href="{{site.baseurl}}/naxx">Naxxramas</a>
+        {% if page.has_toc %}
+        <div class="toc">
+          <div class="sidebar-separator"></div>
+          <div>
+            <h2 class="center">Page Contents</h2>
+            {% include toc.html html=content h_min=2 %}
+          </div>
+        </div>
+        {% endif %}
       </div>
     </div>
     <div class="content">
