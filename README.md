@@ -9,3 +9,7 @@
 bundle install
 bundle exec jekyll serve
 ```
+
+# Scripts
+
+Helper scripts and binaries are listed under `_scripts`. Each one will have its own `README` file.
