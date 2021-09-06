@@ -1,3 +1,4 @@
+use std::collections::BTreeMap;
 use std::env::current_exe;
 use std::fs::{metadata, read_to_string, write};
 use std::path::{Path, PathBuf};
@@ -74,7 +75,7 @@ pub fn run(opt: &Opt) {
         let roster = cepgp_st.get::<_, Table>("Roster").unwrap();
         roster
             .pairs()
-            .map(|pair: Result<(String, Table), rlua::Error>| {
+            .filter_map(|pair: Result<(String, Table), rlua::Error>| {
                 let (member, info) = pair.unwrap();
                 let standings = info
                     .get::<_, Table>(9)
@@ -94,17 +95,19 @@ pub fn run(opt: &Opt) {
                         }
                     })
                     .collect::<Vec<_>>();
-                (member, standings)
+                if standings.len() > 1 {
+                    Some((member, standings))
+                } else {
+                    None
+                }
             })
-            .collect::<Vec<_>>()
+            .collect::<BTreeMap<_, _>>()
     });
 
     let write_dir = find_entry("epgp_standings");
-    for (member, standings) in standings.iter() {
-        write(
-            write_dir.join(format!("{}.json", member)),
-            serde_json::to_string(&standings).unwrap(),
-        )
-        .unwrap();
-    }
+    write(
+        write_dir.join("standings.json"),
+        serde_json::to_string_pretty(&standings).unwrap(),
+    )
+    .unwrap();
 }
