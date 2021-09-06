@@ -1,7 +1,7 @@
-use std::collections::HashMap;
 use std::fs::read_to_string;
 use std::path::{Path, PathBuf};
 
+use chrono::*;
 use rlua::{Lua, Table};
 use structopt::StructOpt;
 
@@ -15,14 +15,10 @@ pub struct Opt {
 }
 
 #[derive(Debug)]
-struct TrafficEntry {
-    target: String,
-    actor: String,
-    comment: String,
-    pre_ep: Option<i32>,
-    post_ep: Option<i32>,
-    pre_gp: Option<i32>,
-    post_gp: Option<i32>,
+struct Standing {
+    ep: i32,
+    gp: i32,
+    timestamp: NaiveDateTime,
 }
 
 fn read_str(path: &Path) -> String {
@@ -47,35 +43,44 @@ pub fn run(opt: &Opt) {
         .collect::<PathBuf>(),
     );
     let lua = Lua::new();
-    let (cepgp_standings, guild_log) = lua.context(|lua_ctx| {
+    let standings = lua.context(|lua_ctx| {
         let globals = lua_ctx.globals();
-        lua_ctx
-            .load(&read_str(&vars_path.join("CEPGP.lua")))
-            .set_name("CEPGP.lua")
-            .unwrap()
-            .exec()
-            .unwrap();
         lua_ctx
             .load(&read_str(&vars_path.join("CEPGP-StandingsTracker.lua")))
             .set_name("CEPGP-StandingsTracker.lua")
             .unwrap()
             .exec()
             .unwrap();
-
-        let cepgp = globals
-            .get::<_, Table>("CEPGP")
-            .expect("Unable to load CEPGP data.");
-        let traffic = cepgp
-            .get::<_, Table>("Traffic")
-            .unwrap()
-            .sequence_values::<Table>()
-            .map(|inner| {});
-
         let cepgp_st = globals
             .get::<_, Table>("CEPGP_ST")
             .expect("Unable to load CEPGP-StandingsTracker data.");
         let roster = cepgp_st.get::<_, Table>("Roster").unwrap();
-
-        (0, 0)
+        roster
+            .pairs()
+            .map(|pair: Result<(String, Table), rlua::Error>| {
+                let (member, info) = pair.unwrap();
+                let standings = info
+                    .get::<_, Table>(9)
+                    .unwrap()
+                    .sequence_values::<Table>()
+                    .map(|standing| {
+                        let standing = standing.unwrap();
+                        Standing {
+                            ep: standing.get(1).unwrap(),
+                            gp: standing.get(2).unwrap(),
+                            timestamp: NaiveDateTime::parse_from_str(
+                                &standing.get::<_, String>(3).unwrap(),
+                                "%m/%d/%y %H:%M:%S",
+                            )
+                            .unwrap(),
+                        }
+                    })
+                    .collect::<Vec<_>>();
+                if member == "Rannveig" {
+                    println!("{:#?}", standings);
+                }
+                (member, standings)
+            })
+            .collect::<Vec<_>>()
     });
 }
