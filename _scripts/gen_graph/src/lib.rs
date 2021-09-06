@@ -24,6 +24,13 @@ struct Standing {
     timestamp: i64,
 }
 
+#[derive(Serialize, Deserialize, Debug)]
+struct PlayerInfo {
+    ep: i32,
+    gp: i32,
+    log: Vec<Standing>,
+}
+
 fn read_str(path: &Path) -> String {
     match read_to_string(path) {
         Ok(contents) => contents,
@@ -96,7 +103,15 @@ pub fn run(opt: &Opt) {
                     })
                     .collect::<Vec<_>>();
                 if standings.len() > 1 {
-                    Some((member, standings))
+                    let last_standing = standings.last().unwrap();
+                    Some((
+                        member,
+                        PlayerInfo {
+                            ep: last_standing.ep,
+                            gp: last_standing.gp,
+                            log: standings,
+                        },
+                    ))
                 } else {
                     None
                 }
