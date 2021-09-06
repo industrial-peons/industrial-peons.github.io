@@ -1,8 +1,10 @@
-use std::fs::read_to_string;
+use std::env::current_exe;
+use std::fs::{metadata, read_to_string, write};
 use std::path::{Path, PathBuf};
 
 use chrono::*;
 use rlua::{Lua, Table};
+use serde::{Deserialize, Serialize};
 use structopt::StructOpt;
 
 #[derive(StructOpt, Debug)]
@@ -14,17 +16,32 @@ pub struct Opt {
     pub account_name: String,
 }
 
-#[derive(Debug)]
+#[derive(Serialize, Deserialize, Debug)]
 struct Standing {
     ep: i32,
     gp: i32,
-    timestamp: NaiveDateTime,
+    timestamp: i64,
 }
 
 fn read_str(path: &Path) -> String {
     match read_to_string(path) {
         Ok(contents) => contents,
         Err(err) => panic!("Failed to read '{}': {}", path.to_str().unwrap(), err),
+    }
+}
+
+fn find_entry(name: &str) -> PathBuf {
+    let mut path = current_exe().unwrap();
+    loop {
+        if !path.pop() {
+            panic!("Could not find entry for '{}'", name);
+        }
+
+        path.push(name);
+        if metadata(&path).is_ok() {
+            return path;
+        }
+        path.pop();
     }
 }
 
@@ -72,15 +89,22 @@ pub fn run(opt: &Opt) {
                                 &standing.get::<_, String>(3).unwrap(),
                                 "%m/%d/%y %H:%M:%S",
                             )
-                            .unwrap(),
+                            .unwrap()
+                            .timestamp(),
                         }
                     })
                     .collect::<Vec<_>>();
-                if member == "Rannveig" {
-                    println!("{:#?}", standings);
-                }
                 (member, standings)
             })
             .collect::<Vec<_>>()
     });
+
+    let write_dir = find_entry("epgp_standings");
+    for (member, standings) in standings.iter() {
+        write(
+            write_dir.join(format!("{}.json", member)),
+            serde_json::to_string(&standings).unwrap(),
+        )
+        .unwrap();
+    }
 }
