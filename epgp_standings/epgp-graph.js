@@ -67,8 +67,8 @@ for (const table of document
                     playerData.map((data) => data.gp)
                   ),
                   plotLine(
-                    "PR",
-                    playerData.map((data) => data.ep / data.gp)
+                    "PR (x10)",
+                    playerData.map((data) => (data.ep * 10) / data.gp)
                   ),
                 ],
                 { title: name }
