@@ -104,14 +104,18 @@ pub fn run(opt: &Opt) {
                     .collect::<Vec<_>>();
                 if standings.len() > 1 {
                     let last_standing = standings.last().unwrap();
-                    Some((
-                        member,
-                        PlayerInfo {
-                            ep: last_standing.ep,
-                            gp: last_standing.gp,
-                            log: standings,
-                        },
-                    ))
+                    if last_standing.ep == 0 {
+                        None
+                    } else {
+                        Some((
+                            member,
+                            PlayerInfo {
+                                ep: last_standing.ep,
+                                gp: last_standing.gp,
+                                log: standings,
+                            },
+                        ))
+                    }
                 } else {
                     None
                 }
