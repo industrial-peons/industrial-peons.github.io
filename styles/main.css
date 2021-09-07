@@ -56,6 +56,15 @@ code {
   padding: 2px;
 }
 
+#standings_table tr:hover td {
+  background-color: rgba(92, 43, 2, 0.33);
+}
+
+table {
+  border-spacing: 0px;
+  width: 100%;
+}
+
 .center {
   text-align: center;
 }

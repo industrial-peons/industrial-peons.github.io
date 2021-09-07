@@ -134,7 +134,7 @@ pub fn run(opt: &Opt) {
         format!(
             "
 | Name | Effort points | Gear points | Priority |
-|------|---------------|-------------|----------|
+|:-----|:-------------:|:-----------:|---------:|
 {}",
             standings
                 .iter()
