@@ -6,6 +6,10 @@ edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
+[[bin]]
+name = "gen_graph"
+path = "src/gen_graph.rs"
+
 [dependencies]
 chrono = "0.2.16"
 rlua = "0.17.0"

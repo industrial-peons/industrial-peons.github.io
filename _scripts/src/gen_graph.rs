@@ -151,3 +151,7 @@ pub fn run(opt: &Opt) {
     )
     .unwrap();
 }
+
+fn main() {
+    run(&Opt::from_args());
+}

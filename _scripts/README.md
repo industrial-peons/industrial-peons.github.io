@@ -5,5 +5,5 @@ This tool takes a path to your WoW installation and a realm name, and updates th
 # Usage
 
 ```
-cargo run -- <args to script>
+cargo run --bin gen_graph -- <args to script>
 ```
