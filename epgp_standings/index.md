@@ -6,8 +6,17 @@ background: goshek
 
 # EP/GP Explorer
 
+<div id="graph" style="width:100%;height:300px;display:none;">
+
+## Loading...
+
+</div>
+
+<div id="standings_table">
+
 {% include_relative _standings_table.md %}
 
-<script src="/third-party/mithril.js"></script>
+</div>
+
 <script src="/third-party/plotly-2.4.2.min.js"></script>
-<script src="/epgp_standings/epgp-graph.js"></script>
+<script src="./epgp-graph.js"></script>
