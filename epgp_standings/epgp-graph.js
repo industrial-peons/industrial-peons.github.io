@@ -13,14 +13,15 @@ fetch("./standings.json")
       document.getElementById("contents"),
       m(
         "table",
-        m("tr", m("th", "Name"), m("th", "EP"), m("th", "GP")),
+        m("tr", m("th", "Name"), m("th", "EP"), m("th", "GP"), m("th", "PR")),
         ...(() =>
           Object.keys(standings).map((name) =>
             m(
               "tr",
               m("td", name),
               m("td", standings[name].ep),
-              m("td", standings[name].gp)
+              m("td", standings[name].gp),
+              m("td", (standings[name].ep / standings[name].gp).toFixed(2))
             )
           ))()
       )
