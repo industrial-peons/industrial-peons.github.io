@@ -6,11 +6,7 @@ background: goshek
 
 # EP/GP Explorer
 
-<div id="contents">
-
-## Loading...
-
-</div>
+{% include_relative _standings_table.md %}
 
 <script src="/third-party/mithril.js"></script>
 <script src="/third-party/plotly-2.4.2.min.js"></script>

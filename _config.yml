@@ -1,6 +1,8 @@
 title: The Industrial Peons of Azeroth
 
 # Build settings
+exclude:
+  - _scripts/
 markdown: kramdown
 kramdown:
   parse_block_html: true

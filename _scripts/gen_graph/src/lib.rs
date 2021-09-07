@@ -129,4 +129,25 @@ pub fn run(opt: &Opt) {
         serde_json::to_string_pretty(&standings).unwrap(),
     )
     .unwrap();
+    write(
+        write_dir.join("_standings_table.md"),
+        format!(
+            "
+| Name | Effort points | Gear points | Priority |
+|------|---------------|-------------|----------|
+{}",
+            standings
+                .iter()
+                .map(|(name, info)| format!(
+                    "|{}|{}|{}|{:.2}|",
+                    name,
+                    info.ep,
+                    info.gp,
+                    info.ep as f64 / info.gp as f64
+                ))
+                .collect::<Vec<_>>()
+                .join("\n")
+        ),
+    )
+    .unwrap();
 }
