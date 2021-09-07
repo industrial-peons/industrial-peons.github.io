@@ -12,6 +12,8 @@ background: goshek
 
 </div>
 
+Click on a row to view historical data.
+
 <div id="standings_table">
 
 {% include_relative _standings_table.md %}
