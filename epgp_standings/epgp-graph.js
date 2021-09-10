@@ -71,7 +71,11 @@ for (const table of document
                     playerData.map((data) => (data.ep * 10) / data.gp)
                   ),
                 ],
-                { title: name }
+                {
+                  title: name,
+                  paper_bgcolor: "ffffff00",
+                  plot_bgcolor: "#ffffff00",
+                }
               );
             }
           });
