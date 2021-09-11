@@ -8,6 +8,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Industrial Peons - {{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/third-party/bulma.min.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/styles/main.css' | relative_url }}">
   <link href='https://fonts.googleapis.com/css?family=Eagle Lake' rel='stylesheet'>
   <link rel="icon" type="image/png" href="{{site.baseurl}}/assets/sitelogo.png">
@@ -18,41 +19,52 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <style>
-    body {
-      background-image: url("{{site.baseurl}}/assets/{{ page.background | default: 'valleyoftrials' }}.png");
-    }
-  </style>
 </head>
 
 <body>
-  <div class="page">
-    <div class="sidebar">
-      <h2 class="center">The Industrial Peons of Azeroth</h2>
-      <div class="sidebar-items">
-        <a class="sidebar-section" href="{{site.baseurl}}/">Guild Info</a>
-        <a class="sidebar-link" href="{{site.baseurl}}/">Home</a>
-        <a class="sidebar-link" href="{{site.baseurl}}/dkp-info">DKP Info</a>
-        <a class="sidebar-link" href="{{site.baseurl}}/epgp_standings">EP/GP Log</a>
-        <a class="sidebar-section" href="{{site.baseurl}}/raids">Raids</a>
-        <a class="sidebar-link" href="{{site.baseurl}}/onyxia">Onyxia</a>
-        <a class="sidebar-link" href="{{site.baseurl}}/molten-core">The Molten Core</a>
-        <a class="sidebar-link" href="{{site.baseurl}}/bwl">Blackwing Lair</a>
-        <a class="sidebar-link" href="{{site.baseurl}}/aq40">The Temple of Ahn'qiraj</a>
-        <a class="sidebar-link" href="{{site.baseurl}}/naxx">Naxxramas</a>
-        {% if page.has_toc %}
-        <div class="toc">
-          <div class="sidebar-separator"></div>
-          <div>
-            <h2 class="center">Page Contents</h2>
-            {% include toc.html html=content h_min=2 %}
+  <div class="navbar is-spaced has-shadow">
+    <div class="navbar-brand">
+      <a class="navbar-item title" href="{{site.baseurl}}/">
+        The Industrial Peons of Azeroth
+      </a>
+    </div>
+  </div>
+  <div class="section">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-3">
+          <aside class="box menu">
+            <a href="{{site.baseurl}}/" class="menu-label">Guild Info
+            </a>
+            <ul class="menu-list">
+              <li><a href="{{site.baseurl}}/dkp-info">DKP Info</a></li>
+              <li><a href="{{site.baseurl}}/epgp_standings">EP/GP Log</a></li>
+            </ul>
+            <a href="{{site.baseurl}}/raids" class="menu-label">Classic Raids</a>
+            <ul class="menu-list">
+              <li><a href="{{site.baseurl}}/onyxia">Onyxia</a></li>
+              <li><a href="{{site.baseurl}}/molten-core">The Molten Core</a></li>
+              <li><a href="{{site.baseurl}}/bwl">Blackwing Lair</a></li>
+              <li><a href="{{site.baseurl}}/aq40">The Temple of Ahn'qiraj</a></li>
+              <li><a href="{{site.baseurl}}/naxx">Naxxramas</a></li>
+            </ul>
+            {% if page.has_toc %}
+            <p class="menu-label">Page Contents</p>
+            <ul class="menu-list">
+              {% include toc.html html=content h_min=2 %}
+            </ul>
+            {% endif %}
+          </aside>
+
+        </div>
+        <div class="column is-1"></div>
+        <div class="column">
+          <div class="content">
+            {{ content }}
           </div>
         </div>
-        {% endif %}
+        <div class="column is-1"></div>
       </div>
-    </div>
-    <div class="content">
-      {{ content }}
     </div>
   </div>
 </body>

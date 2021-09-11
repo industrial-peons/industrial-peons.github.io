@@ -1,7 +1,6 @@
 ---
 layout: default
 title: DKP Info
-background: goshek
 has_toc: true
 ---
 

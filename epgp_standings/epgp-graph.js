@@ -23,6 +23,7 @@ const graph = document.getElementById("graph");
 for (const table of document
   .getElementById("standings_table")
   .getElementsByTagName("table")) {
+  table.classList.add("table", "is-hoverable");
   /** @type {string | null} */
   let currentGraph = null;
   for (const row of table.getElementsByTagName("tr")) {

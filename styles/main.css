@@ -1,221 +1,26 @@
 ---
 ---
 
-body {
-  background-attachment: fixed;
-  background-image: url("{{site.baseurl}}/assets/valleyoftrials.png"); /* Overridden in every page, but here just in case */
+h1,
+h2,
+h3,
+.title {
+  font-family: "Eagle Lake", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(61, 29, 2);
+}
+
+.navbar {
+  background-image: url("{{site.baseurl}}/assets/goshek.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.5;
-  margin-bottom: 24px;
-  margin-top: 0;
 }
 
-a,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-.sidebar-section {
-  color: rgb(92, 43, 2);
+.navbar-brand {
+  background-color: rgba(32, 17, 5, 0.5);
+  border-radius: 6px;
 }
 
-h1,
-h2,
-h3,
-.sidebar-section {
-  font-family: "Eagle Lake", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-}
-
-h1 {
-  background-image: url("{{site.baseurl}}/assets/sitelogo.png");
-  background-position: left;
-  background-repeat: no-repeat;
-  background-size: 1.2em;
-  font-size: 3em;
-  padding-left: 1.5em;
-}
-
-a {
-  font-weight: bolder;
-}
-
-img {
-  max-width: 100%;
-  max-height: 100%;
-}
-
-code {
-  background-color: lightgray;
-  border-radius: 4px;
-  font-weight: bold;
-  padding: 2px;
-}
-
-#standings_table tr:hover td {
-  background-color: rgba(92, 43, 2, 0.33);
-}
-
-table {
-  border-spacing: 0px;
-  width: 100%;
-}
-
-.center {
-  text-align: center;
-}
-
-.page {
-  display: flex;
-}
-
-.content,
-.sidebar {
-  background-image: url("{{site.baseurl}}/assets/backgroundtexture.png");
-  color: rgb(61, 29, 2);
-  padding: 16px;
-}
-
-.sidebar {
-  background-position: right;
-  border-radius: 16px 0px 0px 16px;
-  height: min-content;
-  margin-left: auto;
-  max-width: 248px;
-}
-
-.sidebar-title {
-  text-align: center;
-}
-
-.sidebar-section {
-  display: block;
-  font-weight: 900;
-  text-align: center;
-  margin-top: 32px;
-  margin-bottom: 0;
-  text-decoration: none;
-  pointer-events: none;
-}
-
-.sidebar-link {
-  background-color: brown;
-  border-color: rgb(197, 74, 74);
-  border-radius: 16px;
-  border-style: outset;
-  color: goldenrod;
-  display: block;
-  font-family: "Eagle Lake", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: 700;
-  margin-top: 8px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 2px;
-  text-align: center;
-  text-decoration: none;
-  width: 75%;
-}
-
-.sidebar-link:active {
-  background-color: darkred;
-  border-style: inset;
-  color: rgb(163, 124, 24);
-}
-
-.sidebar-separator {
-  background-image: url("{{site.baseurl}}/assets/sidebarseparator.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: -1.5em;
-  width: 75%;
-  height: 80px;
-}
-
-.content {
-  background-position: left;
-  border-radius: 0 16px 16px 0px;
-  margin-right: auto;
-  max-width: 656px;
-}
-
-@media screen and (max-width: 960px) {
-  h1 {
-    margin-top: 0;
-    padding-top: 0;
-  }
-
-  h2 {
-    margin-bottom: 0;
-    padding-bottom: 0;
-  }
-
-  .page {
-    display: block;
-    flex-wrap: wrap;
-  }
-
-  .sidebar {
-    border-radius: 0px;
-    margin-right: auto;
-    max-width: 656px;
-    padding-bottom: 0;
-  }
-
-  .sidebar-items {
-    align-items: center;
-    display: flex;
-    justify-content: center;
-  }
-
-  .sidebar-section {
-    background-color: brown;
-    border-color: rgb(197, 74, 74);
-    border-radius: 16px;
-    border-style: outset;
-    color: goldenrod;
-    display: block;
-    font-family: "Eagle Lake", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 700;
-    margin: 8px;
-    padding: 2px;
-    text-align: center;
-    text-decoration: none;
-    pointer-events: unset;
-  }
-
-  .sidebar-section:active {
-    background-color: darkred;
-    border-style: inset;
-    color: rgb(163, 124, 24);
-  }
-
-  .sidebar-link {
-    display: none;
-  }
-
-  .sidebar-separator {
-    align-self: center;
-    transform: rotate(90deg);
-    width: 80px;
-  }
-
-  .toc li > ul {
-    display: none;
-  }
-
-  .toc {
-    display: flex;
-  }
-
-  .content {
-    border-radius: 0px 0px 16px 16px;
-    margin-left: auto;
-  }
+.navbar-brand .title {
+  color: white;
 }

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: EP/GP log
-background: goshek
 ---
 
 # EP/GP Explorer
