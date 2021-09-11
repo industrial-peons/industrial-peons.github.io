@@ -37,7 +37,7 @@
             <a href="{{site.baseurl}}/" class="menu-label">Guild Info
             </a>
             <ul class="menu-list">
-              <li><a href="{{site.baseurl}}/dkp-info">DKP Info</a></li>
+              <li><a href="{{site.baseurl}}/raid-format">Raid Format</a></li>
               <li><a href="{{site.baseurl}}/epgp_standings">EP/GP Log</a></li>
             </ul>
             <a href="{{site.baseurl}}/raids" class="menu-label">Classic Raids</a>
@@ -48,13 +48,15 @@
               <li><a href="{{site.baseurl}}/aq40">The Temple of Ahn'qiraj</a></li>
               <li><a href="{{site.baseurl}}/naxx">Naxxramas</a></li>
             </ul>
-            {% if page.has_toc %}
+          </aside>
+          {% if page.has_toc %}
+          <aside class="box menu is-hidden-mobile">
             <p class="menu-label">Page Contents</p>
             <ul class="menu-list">
               {% include toc.html html=content h_min=2 %}
             </ul>
-            {% endif %}
           </aside>
+          {% endif %}
 
         </div>
         <div class="column is-1"></div>
@@ -68,5 +70,11 @@
     </div>
   </div>
 </body>
+
+<script>
+  for (const table of document.getElementsByTagName("table")) {
+    table.classList.add("table", "is-striped");
+  }
+</script>
 
 </html>

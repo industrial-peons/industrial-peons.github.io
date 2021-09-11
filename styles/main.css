@@ -24,3 +24,9 @@ h3,
 .navbar-brand .title {
   color: white;
 }
+
+.content .narrow-table table {
+  margin-left: auto;
+  margin-right: auto;
+  width: unset;
+}

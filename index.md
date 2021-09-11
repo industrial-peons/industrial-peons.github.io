@@ -5,12 +5,28 @@ title: Home
 
 # Welcome!
 
-**We are a tight-knit, LGBTQIA+ friendly, pro-feminism, pro-racial equality, [pro-killing Kel'thuzad]({{site.baseurl}}/naxx/) raiding guild.**
+Welcome to the Peons! We're a leftist guild on the Grobbulus (PvP-RP) WoW Classic server, dedicated to fighting bigotry, capitalism, and the Burning Legion alike.
 
-We are currently using a DKP system to distribute loot. Additional information about our loot system can be found on the [DKP info]({{site.baseurl}}/dkp-info) page or in the #loot-information channel in our Discord!
+We are currently using EP/GP to distribute loot. Additional information about our loot system can be found on the [raid format]({{site.baseurl}}/raid-format) page or in the `#💍loot-discussion` channel in our Discord!
 
-We also periodically back up our DKP totals to the website. To see a recently updated DKP list, click [here]({{site.baseurl}}/dkp/).
+We also periodically back up our EP/GP totals to the website. To see a recently updated EP/GP list (including fancy graphs!), click [here]({{site.baseurl}}/epgp_standings/).
 
 ## Raid Schedule
 
-We run a weekly Naxxramas, split over Saturday and Monday. We will also periodically host 40-person PUGs in the Peon PUGs Discord on Thursday evenings. 20-person raids and Onyxia are hosted ad-hoc, and generally when enough of us are online with free time.
+We raid Serpentshrine Cavern on Tuesdays, Gruul/Magtheridon on Wednesdays, The Eye on Thursdays, and Karazhan on Friday, Saturday, and Sunday. Monday is kept free as an overflow night in case our SSC or TE raid has to be cut short.
+
+Or, in table form:
+
+<div class="narrow-table">
+
+| Day       |                            Raid |
+| :-------- | ------------------------------: |
+| Tuesday   |            Serpentshrine Cavern |
+| Wednesday | Gruul's Lair/Magtheridon's Lair |
+| Thursday  |                         The Eye |
+| Friday    |                        Karazhan |
+| Saturday  |                        Karazhan |
+| Sunday    |                        Karazhan |
+| Monday    |              Dedicated overflow |
+
+</div>
