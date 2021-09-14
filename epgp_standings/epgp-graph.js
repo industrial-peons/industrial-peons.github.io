@@ -20,10 +20,66 @@ const standings = (() => {
 
 const graph = document.getElementById("graph");
 
+function sortTable(
+  /** @type {HTMLTableElement} */ table,
+  /** @type {number} */ idx,
+  /** @type {boolean} */ ascending
+) {
+  const multiplier = ascending ? 1 : -1;
+  const tbody = table.getElementsByTagName("tbody")[0];
+  const rows = Array.from(tbody.getElementsByTagName("tr"));
+  rows.sort((rowA, rowB) => {
+    const valueA = rowA.getElementsByTagName("td")[idx].innerText;
+    const valueB = rowB.getElementsByTagName("td")[idx].innerText;
+    const numA = Number(valueA);
+    const numB = Number(valueB);
+    if (!isNaN(numA) && !isNaN(numB)) {
+      return multiplier * (numA - numB);
+    } else {
+      return multiplier * valueA.localeCompare(valueB);
+    }
+  });
+
+  tbody.innerHTML = "";
+  for (const row of rows) {
+    tbody.appendChild(row);
+  }
+}
+
 for (const table of document
   .getElementById("standings_table")
   .getElementsByTagName("table")) {
   table.classList.add("is-hoverable");
+
+  for (const headerRow of table
+    .getElementsByTagName("thead")[0]
+    .getElementsByTagName("tr")) {
+    let idx = 0;
+    let sortInfo = { index: 0, ascending: true, resets: [] };
+    for (const header of headerRow.getElementsByTagName("th")) {
+      const savedIdx = idx;
+      const savedText = header.innerText;
+      sortInfo.resets.push(() => (header.innerText = savedText));
+      header.onclick = () => {
+        for (const resetFunc of sortInfo.resets) {
+          resetFunc();
+        }
+
+        if (sortInfo.index == savedIdx) {
+          sortInfo.ascending = !sortInfo.ascending;
+        } else {
+          sortInfo.index = savedIdx;
+          sortInfo.ascending = true;
+        }
+
+        sortTable(table, savedIdx, sortInfo.ascending);
+        header.innerText += sortInfo.ascending ? " 🠕" : " 🠗";
+      };
+
+      idx++;
+    }
+  }
+
   /** @type {string | null} */
   let currentGraph = null;
   for (const row of table.getElementsByTagName("tr")) {
@@ -74,8 +130,6 @@ for (const table of document
                 ],
                 {
                   title: name,
-                  paper_bgcolor: "ffffff00",
-                  plot_bgcolor: "#ffffff00",
                 }
               );
             }

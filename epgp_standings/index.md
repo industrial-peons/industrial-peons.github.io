@@ -11,7 +11,7 @@ title: EP/GP log
 
 </div>
 
-Click on a row to view historical data.
+Click on a row to view historical data. Click on column headers to sort.
 
 <div id="standings_table">
 
