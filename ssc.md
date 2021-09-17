@@ -7,89 +7,89 @@ title: SSC
 
 **_Note: this is copied from a living document stored in Google Docs. If there are any ways that this document differs from the Google Doc, the Google Doc takes precedent. A link to the Google Doc that allows commenting is available on the Discord._**
 
-| Name                                | Prio                                                                          |
-| ----------------------------------- | ----------------------------------------------------------------------------- |
-| Razor-Scale Battlecloak             |                                                                               |
-| Krakken-Heart Breastplate           |                                                                               |
-| Vestments of the Sea-Witch          |                                                                               |
-| Ranger-General's Chestguard         |                                                                               |
-| Robe of Hateful Echoes              |                                                                               |
-| Glowing Breastplate of Truth        |                                                                               |
-| Gnarled Chestpiece of the Ancients  |                                                                               |
-| Bloodsea Brigand's Vest             |                                                                               |
-| Cobra-Lash Boots                    |                                                                               |
-| Boots of the Shifting Nightmare     |                                                                               |
-| Boots of Effortless Striking        |                                                                               |
-| Tempest-Strider Boots               |                                                                               |
-| Velvet Boots of the Guardian        |                                                                               |
-| Warboots of Obliteration            |                                                                               |
-| Orca-Hide Boots                     |                                                                               |
-| Soul-Strider Boots                  |                                                                               |
-| Ring of Endless Coils               |                                                                               |
-| Coral Band of the Revived           |                                                                               |
-| Ring of Lethality                   |                                                                               |
-| Ancestral Ring of Conquest          |                                                                               |
-| Ring of Sundered Souls              |                                                                               |
-| The Seal of Danzalar                |                                                                               |
-| Band of Vile Aggression             |                                                                               |
-| Band of the Vigilant                |                                                                               |
-| Glorious Gauntlets of Crestfall     |                                                                               |
-| Gloves of the Vanquished Champion   |                                                                               |
-| Gloves of the Vanquished Defender   |                                                                               |
-| Gloves of the Vanquished Hero       |                                                                               |
-| Brighthelm of Justice               |                                                                               |
-| Helm of the Vanquished Champion     |                                                                               |
-| Helm of the Vanquished Defender     |                                                                               |
-| Helm of the Vanquished Hero         |                                                                               |
-| Fathomstone                         |                                                                               |
-| Leggings of the Vanquished Champion |                                                                               |
-| Leggings of the Vanquished Defender |                                                                               |
-| Leggings of the Vanquished Hero     |                                                                               |
-| Lightfathom Scepter                 |                                                                               |
-| Mallet of the Tides                 |                                                                               |
-| Fang of the Leviathan               |                                                                               |
-| Pendant of the Lost Ages            |                                                                               |
-| Choker of Animalistic Fury          |                                                                               |
-| Frayed Tether of the Drowned        |                                                                               |
-| Fang of Vashj                       |                                                                               |
-| Talon of Azshara                    |                                                                               |
-| Serpent Spine Longbow               |                                                                               |
-| Luminescent Rod of the Naaru        |                                                                               |
-| Idol of the Crescent Goddess        |                                                                               |
-| Libram of Absolute Truth            |                                                                               |
-| Runetotem's Mantle                  |                                                                               |
-| Pauldrons of the Wardancer          |                                                                               |
-| Melee dps                           |                                                                               |
-| Illidari Shoulderpads               |                                                                               |
-| Pauldrons of the Argent Sentinel    |                                                                               |
-| Mantle of the Tireless Tracker      |                                                                               |
-| Coral-Barbed Shoulderpads           |                                                                               |
-| Prism of Inner Calm                 |                                                                               |
-| Sextant of Unstable Currents        | Caster DPS (except mage)/holy paladin                                         |
-| Tsunami Talisman                    | Physical DPS                                                                  |
-| Scarab of Displacement              |                                                                               |
-| Fathom-Brooch of the Tidewalker     | Can only be used by a shaman                                                  |
-| Living Root of the Wildheart        | Can only be used by a druid                                                   |
-| Earring of Soulful Meditation       | Can only be used by a priest                                                  |
-| Serpent-Coil Braid                  | Can only be used by a mage                                                    |
-| Wildfury Greatstaff                 | Feral druid > druids                                                          |
-| World Breaker                       |                                                                               |
-| Belt of One-Hundred Deaths          | Melee dps                                                                     |
-| Cord of Screaming Terrors           |                                                                               |
-| Girdle of the Tidal Call            |                                                                               |
-| Girdle of the Invulnerable          |                                                                               |
-| Blackfathom Warbands                |                                                                               |
-| Bracers of Eradication              |                                                                               |
-| Grove-Bands of Remulos              |                                                                               |
-| True-Aim Stalker Bands              |                                                                               |
-| Wraps of Purification               |                                                                               |
-| Nether Vortex                       | People crafting weapons (prioritizing people who have already won some), 0 GP |
-| Pattern: Belt of Blasting           | Loot council                                                                  |
-| Pattern: Belt of the Long Road      | Loot council                                                                  |
-| Pattern: Belt of Natural Power      | Loot council                                                                  |
-| Pattern: Belt of Deep Shadow        | Loot council                                                                  |
-| Pattern: Belt of the Black Eagle    | Loot council                                                                  |
-| Pattern: Monsoon Belt               | Loot council                                                                  |
-| Plans: Belt of the Guardian         | Loot council                                                                  |
-| Plans: Red Belt of Battle           | Loot council                                                                  |
-| Scroll of the Maelstrom             | Loot council                                                                  |
+| Name                                | Prio                                                                                                                                                                                           |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Razor-Scale Battlecloak             |                                                                                                                                                                                                |
+| Krakken-Heart Breastplate           |                                                                                                                                                                                                |
+| Vestments of the Sea-Witch          |                                                                                                                                                                                                |
+| Ranger-General's Chestguard         |                                                                                                                                                                                                |
+| Robe of Hateful Echoes              |                                                                                                                                                                                                |
+| Glowing Breastplate of Truth        |                                                                                                                                                                                                |
+| Gnarled Chestpiece of the Ancients  |                                                                                                                                                                                                |
+| Bloodsea Brigand's Vest             |                                                                                                                                                                                                |
+| Cobra-Lash Boots                    |                                                                                                                                                                                                |
+| Boots of the Shifting Nightmare     |                                                                                                                                                                                                |
+| Boots of Effortless Striking        |                                                                                                                                                                                                |
+| Tempest-Strider Boots               |                                                                                                                                                                                                |
+| Velvet Boots of the Guardian        |                                                                                                                                                                                                |
+| Warboots of Obliteration            |                                                                                                                                                                                                |
+| Orca-Hide Boots                     |                                                                                                                                                                                                |
+| Soul-Strider Boots                  |                                                                                                                                                                                                |
+| Ring of Endless Coils               |                                                                                                                                                                                                |
+| Coral Band of the Revived           |                                                                                                                                                                                                |
+| Ring of Lethality                   |                                                                                                                                                                                                |
+| Ancestral Ring of Conquest          |                                                                                                                                                                                                |
+| Ring of Sundered Souls              |                                                                                                                                                                                                |
+| The Seal of Danzalar                |                                                                                                                                                                                                |
+| Band of Vile Aggression             |                                                                                                                                                                                                |
+| Band of the Vigilant                |                                                                                                                                                                                                |
+| Glorious Gauntlets of Crestfall     |                                                                                                                                                                                                |
+| Gloves of the Vanquished Champion   |                                                                                                                                                                                                |
+| Gloves of the Vanquished Defender   |                                                                                                                                                                                                |
+| Gloves of the Vanquished Hero       |                                                                                                                                                                                                |
+| Brighthelm of Justice               |                                                                                                                                                                                                |
+| Helm of the Vanquished Champion     |                                                                                                                                                                                                |
+| Helm of the Vanquished Defender     |                                                                                                                                                                                                |
+| Helm of the Vanquished Hero         |                                                                                                                                                                                                |
+| Fathomstone                         |                                                                                                                                                                                                |
+| Leggings of the Vanquished Champion |                                                                                                                                                                                                |
+| Leggings of the Vanquished Defender |                                                                                                                                                                                                |
+| Leggings of the Vanquished Hero     |                                                                                                                                                                                                |
+| Lightfathom Scepter                 |                                                                                                                                                                                                |
+| Mallet of the Tides                 |                                                                                                                                                                                                |
+| Fang of the Leviathan               |                                                                                                                                                                                                |
+| Pendant of the Lost Ages            |                                                                                                                                                                                                |
+| Choker of Animalistic Fury          |                                                                                                                                                                                                |
+| Frayed Tether of the Drowned        |                                                                                                                                                                                                |
+| Fang of Vashj                       |                                                                                                                                                                                                |
+| Talon of Azshara                    |                                                                                                                                                                                                |
+| Serpent Spine Longbow               |                                                                                                                                                                                                |
+| Luminescent Rod of the Naaru        |                                                                                                                                                                                                |
+| Idol of the Crescent Goddess        |                                                                                                                                                                                                |
+| Libram of Absolute Truth            |                                                                                                                                                                                                |
+| Runetotem's Mantle                  |                                                                                                                                                                                                |
+| Pauldrons of the Wardancer          |                                                                                                                                                                                                |
+| Melee dps                           |                                                                                                                                                                                                |
+| Illidari Shoulderpads               |                                                                                                                                                                                                |
+| Pauldrons of the Argent Sentinel    |                                                                                                                                                                                                |
+| Mantle of the Tireless Tracker      |                                                                                                                                                                                                |
+| Coral-Barbed Shoulderpads           |                                                                                                                                                                                                |
+| Prism of Inner Calm                 |                                                                                                                                                                                                |
+| Sextant of Unstable Currents        | Caster DPS (except mage)/holy paladin                                                                                                                                                          |
+| Tsunami Talisman                    | Physical DPS                                                                                                                                                                                   |
+| Scarab of Displacement              |                                                                                                                                                                                                |
+| Fathom-Brooch of the Tidewalker     | Can only be used by a shaman                                                                                                                                                                   |
+| Living Root of the Wildheart        | Can only be used by a druid                                                                                                                                                                    |
+| Earring of Soulful Meditation       | Can only be used by a priest                                                                                                                                                                   |
+| Serpent-Coil Braid                  | Can only be used by a mage                                                                                                                                                                     |
+| Wildfury Greatstaff                 | ~~Feral druid >~~ druids (loosened 9/16/2021)                                                                                                                                                  |
+| World Breaker                       |                                                                                                                                                                                                |
+| Belt of One-Hundred Deaths          | Melee dps/feral tanks                                                                                                                                                                          |
+| Cord of Screaming Terrors           |                                                                                                                                                                                                |
+| Girdle of the Tidal Call            |                                                                                                                                                                                                |
+| Girdle of the Invulnerable          |                                                                                                                                                                                                |
+| Blackfathom Warbands                |                                                                                                                                                                                                |
+| Bracers of Eradication              |                                                                                                                                                                                                |
+| Grove-Bands of Remulos              |                                                                                                                                                                                                |
+| True-Aim Stalker Bands              |                                                                                                                                                                                                |
+| Wraps of Purification               |                                                                                                                                                                                                |
+| Nether Vortex                       | People crafting weapons (prioritizing people who have already won some), people crafting belts/shoes (prioritizing people who have already won some), must pay for all needed Nethers up front |
+| Pattern: Belt of Blasting           | Loot council                                                                                                                                                                                   |
+| Pattern: Belt of the Long Road      | Loot council                                                                                                                                                                                   |
+| Pattern: Belt of Natural Power      | Loot council                                                                                                                                                                                   |
+| Pattern: Belt of Deep Shadow        | Loot council                                                                                                                                                                                   |
+| Pattern: Belt of the Black Eagle    | Loot council                                                                                                                                                                                   |
+| Pattern: Monsoon Belt               | Loot council                                                                                                                                                                                   |
+| Plans: Belt of the Guardian         | Loot council                                                                                                                                                                                   |
+| Plans: Red Belt of Battle           | Loot council                                                                                                                                                                                   |
+| Scroll of the Maelstrom             | Loot council                                                                                                                                                                                   |
