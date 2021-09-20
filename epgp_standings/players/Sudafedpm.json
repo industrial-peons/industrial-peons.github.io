@@ -29,13 +29,13 @@
     {
       "ep": 39,
       "gp": 50,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1630455373
     },
     {
       "ep": 31,
       "gp": 50,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1631062390
     },
     {
@@ -65,7 +65,7 @@
     {
       "ep": 64,
       "gp": 87,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1631636747
     },
     {

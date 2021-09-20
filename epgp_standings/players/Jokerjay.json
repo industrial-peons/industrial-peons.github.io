@@ -29,7 +29,7 @@
     {
       "ep": 39,
       "gp": 50,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1628036596
     },
     {
@@ -53,7 +53,7 @@
     {
       "ep": 70,
       "gp": 50,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1628642629
     },
     {
@@ -77,19 +77,19 @@
     {
       "ep": 95,
       "gp": 50,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1629245703
     },
     {
       "ep": 76,
       "gp": 50,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1629851765
     },
     {
       "ep": 60,
       "gp": 50,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1630455372
     },
     {
@@ -113,7 +113,7 @@
     {
       "ep": 87,
       "gp": 50,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1631062390
     },
     {
@@ -137,7 +137,7 @@
     {
       "ep": 108,
       "gp": 50,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1631636733
     },
     {

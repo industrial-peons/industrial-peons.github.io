@@ -266,8 +266,8 @@ fn set_annotations(standings: &mut BTreeMap<String, PlayerInfo>, traffic: &Vec<L
                         &|prev, curr| {
                             if let Some(prev) = prev {
                                 match decay_type.as_str() {
-                                    "EP" => prev.ep * (100 - decay_value) == curr.ep,
-                                    "GP" => prev.gp * (100 - decay_value) == curr.gp,
+                                    "EP" => prev.ep > curr.ep,
+                                    "GP" => prev.gp > curr.gp,
                                     s => panic!("Unrecognized decay type: '{}'", s),
                                 }
                             } else {

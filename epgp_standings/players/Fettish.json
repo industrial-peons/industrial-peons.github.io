@@ -47,13 +47,13 @@
     {
       "ep": 39,
       "gp": 117,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1628036596
     },
     {
       "ep": 39,
       "gp": 100,
-      "description": null,
+      "description": "25% weekly GP decay",
       "timestamp": 1628036609
     },
     {
@@ -77,25 +77,25 @@
     {
       "ep": 70,
       "gp": 100,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1628642630
     },
     {
       "ep": 70,
       "gp": 87,
-      "description": null,
+      "description": "25% weekly GP decay",
       "timestamp": 1628642639
     },
     {
       "ep": 56,
       "gp": 87,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1629245697
     },
     {
       "ep": 56,
       "gp": 77,
-      "description": null,
+      "description": "25% weekly GP decay",
       "timestamp": 1629245709
     },
     {
@@ -119,13 +119,13 @@
     {
       "ep": 84,
       "gp": 77,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1629851765
     },
     {
       "ep": 84,
       "gp": 70,
-      "description": null,
+      "description": "25% weekly GP decay",
       "timestamp": 1629851775
     },
     {
@@ -149,13 +149,13 @@
     {
       "ep": 106,
       "gp": 70,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1630455372
     },
     {
       "ep": 106,
       "gp": 65,
-      "description": null,
+      "description": "25% weekly GP decay",
       "timestamp": 1630455383
     },
     {
@@ -179,13 +179,13 @@
     {
       "ep": 124,
       "gp": 65,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1631062390
     },
     {
       "ep": 124,
       "gp": 61,
-      "description": null,
+      "description": "25% weekly GP decay",
       "timestamp": 1631062399
     },
     {
@@ -209,7 +209,7 @@
     {
       "ep": 138,
       "gp": 58,
-      "description": null,
+      "description": "20% weekly EP decay",
       "timestamp": 1631636746
     },
     {
