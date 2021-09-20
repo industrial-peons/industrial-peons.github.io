@@ -3,7 +3,7 @@
 // TODO(enfluensa): tighten up this typing.
 var Plotly;
 
-/** @typedef {{ep: number, gp: number, timestamp: number}} Standing */
+/** @typedef {{ep: number, gp: number, timestamp: number, description: string | null}} Standing */
 /** @typedef {{ep: number, gp: number, log: Standing[]}} PlayerInfo */
 /** @type {(player: string) => Promise<PlayerInfo>} */
 const standings = (() => {
@@ -99,6 +99,7 @@ for (const table of document
             const playerData = playerInfo.log;
             graph.innerText = "";
             const x = playerData.map((data) => new Date(data.timestamp * 1000));
+            const hovertext = playerData.map((data) => data.description);
 
             function plotLine(
               /** @type {string} */ name,
@@ -107,7 +108,8 @@ for (const table of document
               return {
                 x,
                 y,
-                mode: "lines",
+                hovertext,
+                mode: "lines+markers",
                 line: { shape: "hv" },
                 name,
               };
