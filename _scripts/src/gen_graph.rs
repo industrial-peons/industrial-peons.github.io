@@ -4,6 +4,7 @@ use std::fs::{metadata, read_to_string, write};
 use std::path::{Path, PathBuf};
 
 use chrono::*;
+use chrono_tz::US::Pacific;
 use rlua::{Lua, Table};
 use serde::{Deserialize, Serialize};
 use structopt::StructOpt;
@@ -93,12 +94,16 @@ pub fn run(opt: &Opt) {
                         Standing {
                             ep: standing.get(1).unwrap(),
                             gp: standing.get(2).unwrap(),
-                            timestamp: NaiveDateTime::parse_from_str(
-                                &standing.get::<_, String>(3).unwrap(),
-                                "%m/%d/%y %H:%M:%S",
-                            )
-                            .unwrap()
-                            .timestamp(),
+                            timestamp: Pacific
+                                .from_local_datetime(
+                                    &NaiveDateTime::parse_from_str(
+                                        &standing.get::<_, String>(3).unwrap(),
+                                        "%m/%d/%y %H:%M:%S",
+                                    )
+                                    .unwrap(),
+                                )
+                                .unwrap()
+                                .timestamp(),
                         }
                     })
                     .collect::<Vec<_>>();
