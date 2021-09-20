@@ -1,0 +1,246 @@
+{
+  "ep": 221,
+  "gp": 272,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1624660243
+    },
+    {
+      "ep": 15,
+      "gp": 50,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1627434751
+    },
+    {
+      "ep": 32,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
+      "timestamp": 1627435685
+    },
+    {
+      "ep": 49,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1627437855
+    },
+    {
+      "ep": 49,
+      "gp": 168,
+      "description": "Add GP 118 (Full Price)\n[Chestguard of the Fallen Defender]",
+      "timestamp": 1627438271
+    },
+    {
+      "ep": 39,
+      "gp": 168,
+      "description": "20% weekly EP decay",
+      "timestamp": 1628036596
+    },
+    {
+      "ep": 39,
+      "gp": 138,
+      "description": "25% weekly GP decay",
+      "timestamp": 1628036609
+    },
+    {
+      "ep": 54,
+      "gp": 138,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1628039344
+    },
+    {
+      "ep": 71,
+      "gp": 138,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
+      "timestamp": 1628040053
+    },
+    {
+      "ep": 88,
+      "gp": 138,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1628042026
+    },
+    {
+      "ep": 70,
+      "gp": 138,
+      "description": "20% weekly EP decay",
+      "timestamp": 1628642636
+    },
+    {
+      "ep": 70,
+      "gp": 116,
+      "description": "25% weekly GP decay",
+      "timestamp": 1628642638
+    },
+    {
+      "ep": 56,
+      "gp": 116,
+      "description": "20% weekly EP decay",
+      "timestamp": 1629245704
+    },
+    {
+      "ep": 56,
+      "gp": 99,
+      "description": "25% weekly GP decay",
+      "timestamp": 1629245716
+    },
+    {
+      "ep": 71,
+      "gp": 99,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1629248881
+    },
+    {
+      "ep": 88,
+      "gp": 99,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
+      "timestamp": 1629249697
+    },
+    {
+      "ep": 105,
+      "gp": 99,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1629251725
+    },
+    {
+      "ep": 84,
+      "gp": 99,
+      "description": "20% weekly EP decay",
+      "timestamp": 1629851765
+    },
+    {
+      "ep": 84,
+      "gp": 86,
+      "description": "25% weekly GP decay",
+      "timestamp": 1629851775
+    },
+    {
+      "ep": 99,
+      "gp": 86,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1629853749
+    },
+    {
+      "ep": 99,
+      "gp": 174,
+      "description": "Add GP 88 (Full Price)\n[Pauldrons of the Fallen Defender]",
+      "timestamp": 1629853824
+    },
+    {
+      "ep": 116,
+      "gp": 174,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
+      "timestamp": 1629854640
+    },
+    {
+      "ep": 133,
+      "gp": 174,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1629856513
+    },
+    {
+      "ep": 106,
+      "gp": 174,
+      "description": "20% weekly EP decay",
+      "timestamp": 1630455373
+    },
+    {
+      "ep": 106,
+      "gp": 143,
+      "description": "25% weekly GP decay",
+      "timestamp": 1630455390
+    },
+    {
+      "ep": 121,
+      "gp": 143,
+      "description": null,
+      "timestamp": 1630458537
+    },
+    {
+      "ep": 138,
+      "gp": 143,
+      "description": null,
+      "timestamp": 1630459344
+    },
+    {
+      "ep": 155,
+      "gp": 143,
+      "description": null,
+      "timestamp": 1630461192
+    },
+    {
+      "ep": 124,
+      "gp": 143,
+      "description": "20% weekly EP decay",
+      "timestamp": 1631062390
+    },
+    {
+      "ep": 124,
+      "gp": 119,
+      "description": "25% weekly GP decay",
+      "timestamp": 1631062399
+    },
+    {
+      "ep": 139,
+      "gp": 119,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1631063238
+    },
+    {
+      "ep": 156,
+      "gp": 119,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
+      "timestamp": 1631063928
+    },
+    {
+      "ep": 173,
+      "gp": 119,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1631065698
+    },
+    {
+      "ep": 138,
+      "gp": 101,
+      "description": "25% weekly GP decay",
+      "timestamp": 1631636749
+    },
+    {
+      "ep": 153,
+      "gp": 101,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1631668013
+    },
+    {
+      "ep": 170,
+      "gp": 101,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
+      "timestamp": 1631668680
+    },
+    {
+      "ep": 187,
+      "gp": 101,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1631670268
+    },
+    {
+      "ep": 187,
+      "gp": 272,
+      "description": "Add GP 171 (Minor (50%))\n[Wildfury Greatstaff]",
+      "timestamp": 1631844346
+    },
+    {
+      "ep": 204,
+      "gp": 272,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1631848016
+    },
+    {
+      "ep": 221,
+      "gp": 272,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1631850874
+    }
+  ]
+}

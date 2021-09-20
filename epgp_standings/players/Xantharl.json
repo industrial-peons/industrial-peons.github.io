@@ -1,0 +1,126 @@
+{
+  "ep": 124,
+  "gp": 285,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1624660236
+    },
+    {
+      "ep": 15,
+      "gp": 50,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1629248880
+    },
+    {
+      "ep": 32,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
+      "timestamp": 1629249697
+    },
+    {
+      "ep": 49,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1629251724
+    },
+    {
+      "ep": 39,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1629851766
+    },
+    {
+      "ep": 31,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1630455373
+    },
+    {
+      "ep": 46,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1630458537
+    },
+    {
+      "ep": 46,
+      "gp": 117,
+      "description": null,
+      "timestamp": 1630458670
+    },
+    {
+      "ep": 63,
+      "gp": 117,
+      "description": null,
+      "timestamp": 1630459343
+    },
+    {
+      "ep": 80,
+      "gp": 117,
+      "description": null,
+      "timestamp": 1630461192
+    },
+    {
+      "ep": 64,
+      "gp": 117,
+      "description": "20% weekly EP decay",
+      "timestamp": 1631062390
+    },
+    {
+      "ep": 64,
+      "gp": 100,
+      "description": "25% weekly GP decay",
+      "timestamp": 1631062399
+    },
+    {
+      "ep": 79,
+      "gp": 100,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1631063238
+    },
+    {
+      "ep": 96,
+      "gp": 100,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
+      "timestamp": 1631063927
+    },
+    {
+      "ep": 113,
+      "gp": 100,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1631065698
+    },
+    {
+      "ep": 113,
+      "gp": 218,
+      "description": "Add GP 118 (Full Price)\n[Chestguard of the Fallen Defender]",
+      "timestamp": 1631065843
+    },
+    {
+      "ep": 90,
+      "gp": 176,
+      "description": "20% weekly EP decay",
+      "timestamp": 1631636747
+    },
+    {
+      "ep": 107,
+      "gp": 176,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1631848016
+    },
+    {
+      "ep": 107,
+      "gp": 285,
+      "description": "Add GP 109 (Full Price)\n[Boots of Effortless Striking]",
+      "timestamp": 1631848133
+    },
+    {
+      "ep": 124,
+      "gp": 285,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1631850874
+    }
+  ]
+}

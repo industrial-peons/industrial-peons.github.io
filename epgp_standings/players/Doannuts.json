@@ -1,0 +1,210 @@
+{
+  "ep": 204,
+  "gp": 62,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1624660244
+    },
+    {
+      "ep": 15,
+      "gp": 50,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1627434751
+    },
+    {
+      "ep": 32,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
+      "timestamp": 1627435685
+    },
+    {
+      "ep": 49,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1627437855
+    },
+    {
+      "ep": 49,
+      "gp": 151,
+      "description": "Add GP 101 (Full Price)\n[Belt of Divine Inspiration]",
+      "timestamp": 1627438600
+    },
+    {
+      "ep": 39,
+      "gp": 151,
+      "description": "20% weekly EP decay",
+      "timestamp": 1628036599
+    },
+    {
+      "ep": 39,
+      "gp": 125,
+      "description": "25% weekly GP decay",
+      "timestamp": 1628036615
+    },
+    {
+      "ep": 31,
+      "gp": 125,
+      "description": "20% weekly EP decay",
+      "timestamp": 1628642635
+    },
+    {
+      "ep": 31,
+      "gp": 106,
+      "description": "25% weekly GP decay",
+      "timestamp": 1628642645
+    },
+    {
+      "ep": 46,
+      "gp": 106,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1628644159
+    },
+    {
+      "ep": 63,
+      "gp": 106,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
+      "timestamp": 1628645023
+    },
+    {
+      "ep": 80,
+      "gp": 106,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1628646928
+    },
+    {
+      "ep": 64,
+      "gp": 106,
+      "description": "20% weekly EP decay",
+      "timestamp": 1629245697
+    },
+    {
+      "ep": 64,
+      "gp": 92,
+      "description": "25% weekly GP decay",
+      "timestamp": 1629245709
+    },
+    {
+      "ep": 51,
+      "gp": 92,
+      "description": "20% weekly EP decay",
+      "timestamp": 1629851765
+    },
+    {
+      "ep": 51,
+      "gp": 81,
+      "description": "25% weekly GP decay",
+      "timestamp": 1629851775
+    },
+    {
+      "ep": 66,
+      "gp": 81,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1629853749
+    },
+    {
+      "ep": 83,
+      "gp": 81,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
+      "timestamp": 1629854640
+    },
+    {
+      "ep": 100,
+      "gp": 81,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1629856512
+    },
+    {
+      "ep": 80,
+      "gp": 81,
+      "description": "20% weekly EP decay",
+      "timestamp": 1630455373
+    },
+    {
+      "ep": 80,
+      "gp": 73,
+      "description": "25% weekly GP decay",
+      "timestamp": 1630455389
+    },
+    {
+      "ep": 95,
+      "gp": 73,
+      "description": null,
+      "timestamp": 1630458537
+    },
+    {
+      "ep": 112,
+      "gp": 73,
+      "description": null,
+      "timestamp": 1630459344
+    },
+    {
+      "ep": 129,
+      "gp": 73,
+      "description": null,
+      "timestamp": 1630461192
+    },
+    {
+      "ep": 103,
+      "gp": 73,
+      "description": "20% weekly EP decay",
+      "timestamp": 1631062390
+    },
+    {
+      "ep": 103,
+      "gp": 67,
+      "description": "25% weekly GP decay",
+      "timestamp": 1631062399
+    },
+    {
+      "ep": 118,
+      "gp": 67,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1631063238
+    },
+    {
+      "ep": 135,
+      "gp": 67,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
+      "timestamp": 1631063928
+    },
+    {
+      "ep": 152,
+      "gp": 67,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1631065698
+    },
+    {
+      "ep": 121,
+      "gp": 62,
+      "description": "20% weekly EP decay",
+      "timestamp": 1631636747
+    },
+    {
+      "ep": 136,
+      "gp": 62,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1631668019
+    },
+    {
+      "ep": 170,
+      "gp": 62,
+      "description": "Add EP +34 (Bench adjustment)",
+      "timestamp": 1631670499
+    },
+    {
+      "ep": 187,
+      "gp": 62,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1631848016
+    },
+    {
+      "ep": 204,
+      "gp": 62,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1631850874
+    }
+  ]
+}
