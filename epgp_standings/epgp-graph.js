@@ -5,16 +5,19 @@ var Plotly;
 
 /** @typedef {{ep: number, gp: number, timestamp: number}} Standing */
 /** @typedef {{ep: number, gp: number, log: Standing[]}} PlayerInfo */
-/** @type {() => Promise<Record<string, PlayerInfo>>} */
+/** @type {(player: string) => Promise<PlayerInfo>} */
 const standings = (() => {
-  let standings = null;
+  /** @type {Record<string, Promise<PlayerInfo>>} */
+  let standings = {};
 
-  return () => {
-    if (standings != null) {
-      return standings;
+  return (/** @type {string} */ player) => {
+    if (standings[player] == undefined) {
+      standings[player] = fetch(`./players/${player}.json`).then((response) =>
+        response.json()
+      );
     }
-    standings = fetch("./standings.json").then((response) => response.json());
-    return standings;
+
+    return standings[player];
   };
 })();
 
@@ -83,61 +86,57 @@ for (const table of document
   /** @type {string | null} */
   let currentGraph = null;
   for (const row of table.getElementsByTagName("tr")) {
-    for (const td of row.getElementsByTagName("td")) {
-      row.onclick = () => {
-        if (currentGraph == td.innerText) {
-          currentGraph = null;
-          graph.style.display = "none";
-        } else {
-          const name = td.innerText;
-          currentGraph = name;
-          standings().then((standings) => {
-            if (currentGraph == name) {
-              const playerData = standings[name].log;
-              graph.innerText = "";
-              const x = playerData.map(
-                (data) => new Date(data.timestamp * 1000)
-              );
+    row.onclick = () => {
+      const td = row.getElementsByTagName("td")[0];
+      if (currentGraph == td.innerText) {
+        currentGraph = null;
+        graph.style.display = "none";
+      } else {
+        const name = td.innerText;
+        currentGraph = name;
+        standings(name).then((playerInfo) => {
+          if (currentGraph == name) {
+            const playerData = playerInfo.log;
+            graph.innerText = "";
+            const x = playerData.map((data) => new Date(data.timestamp * 1000));
 
-              function plotLine(
-                /** @type {string} */ name,
-                /** @type {number[]} */ y
-              ) {
-                return {
-                  x,
-                  y,
-                  mode: "lines",
-                  line: { shape: "hv" },
-                  name,
-                };
-              }
-
-              Plotly.newPlot(
-                graph,
-                [
-                  plotLine(
-                    "EP",
-                    playerData.map((data) => data.ep)
-                  ),
-                  plotLine(
-                    "GP",
-                    playerData.map((data) => data.gp)
-                  ),
-                  plotLine(
-                    "PR (x10)",
-                    playerData.map((data) => (data.ep * 10) / data.gp)
-                  ),
-                ],
-                {
-                  title: name,
-                }
-              );
+            function plotLine(
+              /** @type {string} */ name,
+              /** @type {number[]} */ y
+            ) {
+              return {
+                x,
+                y,
+                mode: "lines",
+                line: { shape: "hv" },
+                name,
+              };
             }
-          });
-          graph.style.display = "block";
-        }
-      };
-      break;
-    }
+
+            Plotly.newPlot(
+              graph,
+              [
+                plotLine(
+                  "EP",
+                  playerData.map((data) => data.ep)
+                ),
+                plotLine(
+                  "GP",
+                  playerData.map((data) => data.gp)
+                ),
+                plotLine(
+                  "PR (x10)",
+                  playerData.map((data) => (data.ep * 10) / data.gp)
+                ),
+              ],
+              {
+                title: name,
+              }
+            );
+          }
+        });
+        graph.style.display = "block";
+      }
+    };
   }
 }
