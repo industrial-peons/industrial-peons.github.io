@@ -5,141 +5,169 @@
     {
       "ep": 0,
       "gp": 50,
+      "description": null,
       "timestamp": 1624660244
     },
     {
       "ep": 15,
       "gp": 50,
+      "description": "Add EP 15 (Killed High King Maulgar)",
       "timestamp": 1627434751
     },
     {
       "ep": 32,
       "gp": 50,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
       "timestamp": 1627435685
     },
     {
       "ep": 49,
       "gp": 50,
+      "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1627437855
     },
     {
       "ep": 39,
       "gp": 50,
+      "description": null,
       "timestamp": 1628036596
     },
     {
       "ep": 54,
       "gp": 50,
+      "description": "Add EP 15 (Killed High King Maulgar)",
       "timestamp": 1628039341
     },
     {
       "ep": 71,
       "gp": 50,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
       "timestamp": 1628040050
     },
     {
       "ep": 88,
       "gp": 50,
+      "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1628042023
     },
     {
       "ep": 70,
       "gp": 50,
+      "description": null,
       "timestamp": 1628642629
     },
     {
       "ep": 85,
       "gp": 50,
+      "description": "Add EP 15 (Killed High King Maulgar)",
       "timestamp": 1628644159
     },
     {
       "ep": 102,
       "gp": 50,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
       "timestamp": 1628645023
     },
     {
       "ep": 119,
       "gp": 50,
+      "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1628646929
     },
     {
       "ep": 95,
       "gp": 50,
+      "description": null,
       "timestamp": 1629245703
     },
     {
       "ep": 76,
       "gp": 50,
+      "description": null,
       "timestamp": 1629851765
     },
     {
       "ep": 60,
       "gp": 50,
+      "description": null,
       "timestamp": 1630455372
     },
     {
       "ep": 75,
       "gp": 50,
+      "description": null,
       "timestamp": 1630458537
     },
     {
       "ep": 92,
       "gp": 50,
+      "description": null,
       "timestamp": 1630459344
     },
     {
       "ep": 109,
       "gp": 50,
+      "description": null,
       "timestamp": 1630461192
     },
     {
       "ep": 87,
       "gp": 50,
+      "description": null,
       "timestamp": 1631062390
     },
     {
       "ep": 102,
       "gp": 50,
+      "description": "Add EP 15 (Killed High King Maulgar)",
       "timestamp": 1631063238
     },
     {
       "ep": 119,
       "gp": 50,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
       "timestamp": 1631063928
     },
     {
       "ep": 136,
       "gp": 50,
+      "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1631065698
     },
     {
       "ep": 108,
       "gp": 50,
+      "description": null,
       "timestamp": 1631636733
     },
     {
       "ep": 123,
       "gp": 50,
+      "description": "Add EP 15 (Killed High King Maulgar)",
       "timestamp": 1631668013
     },
     {
       "ep": 140,
       "gp": 50,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
       "timestamp": 1631668680
     },
     {
       "ep": 157,
       "gp": 50,
+      "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1631670268
     },
     {
       "ep": 174,
       "gp": 50,
+      "description": "Add EP 17 (Killed The Lurker Below)",
       "timestamp": 1631848016
     },
     {
       "ep": 191,
       "gp": 50,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
       "timestamp": 1631850874
     }
   ]

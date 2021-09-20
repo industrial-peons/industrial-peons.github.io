@@ -5,176 +5,211 @@
     {
       "ep": 0,
       "gp": 50,
+      "description": null,
       "timestamp": 1624660244
     },
     {
       "ep": 15,
       "gp": 50,
+      "description": "Add EP 15 (Killed High King Maulgar)",
       "timestamp": 1627434751
     },
     {
       "ep": 32,
       "gp": 50,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
       "timestamp": 1627435685
     },
     {
       "ep": 49,
       "gp": 50,
+      "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1627437855
     },
     {
       "ep": 49,
       "gp": 117,
+      "description": "Add GP 67 (Full Price)\n[Teeth of Gruul]",
       "timestamp": 1627438801
     },
     {
       "ep": 39,
       "gp": 117,
+      "description": null,
       "timestamp": 1628036596
     },
     {
       "ep": 39,
       "gp": 100,
+      "description": null,
       "timestamp": 1628036609
     },
     {
       "ep": 88,
       "gp": 100,
+      "description": "Add EP +49 (Bench adjustment)",
       "timestamp": 1628049626
     },
     {
       "ep": 70,
       "gp": 100,
+      "description": null,
       "timestamp": 1628642635
     },
     {
       "ep": 70,
       "gp": 87,
+      "description": null,
       "timestamp": 1628642645
     },
     {
       "ep": 56,
       "gp": 87,
+      "description": null,
       "timestamp": 1629245703
     },
     {
       "ep": 56,
       "gp": 77,
+      "description": null,
       "timestamp": 1629245715
     },
     {
       "ep": 44,
       "gp": 77,
+      "description": null,
       "timestamp": 1629851765
     },
     {
       "ep": 44,
       "gp": 70,
+      "description": null,
       "timestamp": 1629851775
     },
     {
       "ep": 59,
       "gp": 70,
+      "description": "Add EP 15 (Killed High King Maulgar)",
       "timestamp": 1629853749
     },
     {
       "ep": 76,
       "gp": 70,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
       "timestamp": 1629854640
     },
     {
       "ep": 76,
       "gp": 84,
+      "description": "Add GP +14 (Cowl)",
       "timestamp": 1629854823
     },
     {
       "ep": 93,
       "gp": 84,
+      "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1629856512
     },
     {
       "ep": 93,
       "gp": 202,
+      "description": "Add GP 118 (Full Price)\n[Chestguard of the Fallen Defender]",
       "timestamp": 1629856732
     },
     {
       "ep": 74,
       "gp": 202,
+      "description": null,
       "timestamp": 1630455373
     },
     {
       "ep": 74,
       "gp": 164,
+      "description": null,
       "timestamp": 1630455389
     },
     {
       "ep": 89,
       "gp": 164,
+      "description": null,
       "timestamp": 1630458537
     },
     {
       "ep": 106,
       "gp": 164,
+      "description": null,
       "timestamp": 1630459344
     },
     {
       "ep": 123,
       "gp": 164,
+      "description": null,
       "timestamp": 1630461192
     },
     {
       "ep": 98,
       "gp": 164,
+      "description": null,
       "timestamp": 1631062390
     },
     {
       "ep": 98,
       "gp": 135,
+      "description": null,
       "timestamp": 1631062399
     },
     {
       "ep": 113,
       "gp": 135,
+      "description": "Add EP 15 (Killed High King Maulgar)",
       "timestamp": 1631063238
     },
     {
       "ep": 130,
       "gp": 135,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
       "timestamp": 1631063928
     },
     {
       "ep": 147,
       "gp": 135,
+      "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1631065698
     },
     {
       "ep": 147,
       "gp": 202,
+      "description": "Add GP 67 (Full Price)\n[Magtheridon's Head]",
       "timestamp": 1631065807
     },
     {
       "ep": 117,
       "gp": 164,
+      "description": null,
       "timestamp": 1631636747
     },
     {
       "ep": 132,
       "gp": 164,
+      "description": "Add EP 15 (Killed High King Maulgar)",
       "timestamp": 1631668013
     },
     {
       "ep": 149,
       "gp": 164,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
       "timestamp": 1631668680
     },
     {
       "ep": 149,
       "gp": 282,
+      "description": "Add GP 118 (Full Price)\n[Leggings of the Fallen Defender]",
       "timestamp": 1631668939
     },
     {
       "ep": 166,
       "gp": 282,
+      "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1631670268
     }
   ]

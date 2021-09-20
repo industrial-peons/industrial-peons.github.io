@@ -1,10 +1,11 @@
-use std::collections::BTreeMap;
+use std::collections::{BTreeMap, HashMap};
 use std::env::current_exe;
 use std::fs::{metadata, read_dir, read_to_string, remove_file, write};
 use std::path::{Path, PathBuf};
 
 use chrono::*;
 use chrono_tz::US::Pacific;
+use regex::Regex;
 use rlua::{Lua, Table};
 use serde::{Deserialize, Serialize};
 use structopt::StructOpt;
@@ -22,6 +23,7 @@ pub struct Opt {
 struct Standing {
     ep: i32,
     gp: i32,
+    description: Option<String>,
     timestamp: i64,
 }
 
@@ -82,6 +84,7 @@ fn load_standings(vars_path: &Path) -> BTreeMap<String, PlayerInfo> {
                         Standing {
                             ep: standing.get(1).unwrap(),
                             gp: standing.get(2).unwrap(),
+                            description: None,
                             timestamp: Pacific
                                 .from_local_datetime(
                                     &NaiveDateTime::parse_from_str(
@@ -118,7 +121,7 @@ fn load_standings(vars_path: &Path) -> BTreeMap<String, PlayerInfo> {
 }
 
 fn load_traffic(vars_path: &Path) -> Vec<LogEntry> {
-    let item_regex = regex::Regex::new(r"\[.*?\]").unwrap();
+    let item_regex = Regex::new(r"\[.*?\]").unwrap();
     let lua = Lua::new();
     lua.context(|lua_ctx| {
         let globals = lua_ctx.globals();
@@ -141,8 +144,8 @@ fn load_traffic(vars_path: &Path) -> Vec<LogEntry> {
                 // for auditing, but not for display.
                 let mut description = log_entry.get::<_, String>(3).unwrap();
                 let pre_ep = log_entry.get::<_, String>(4).unwrap();
-                let pre_gp = log_entry.get::<_, String>(5).unwrap();
-                let post_ep = log_entry.get::<_, String>(6).unwrap();
+                let post_ep = log_entry.get::<_, String>(5).unwrap();
+                let pre_gp = log_entry.get::<_, String>(6).unwrap();
                 let post_gp = log_entry.get::<_, String>(7).unwrap();
                 let item = log_entry.get::<_, String>(8).unwrap();
                 let timestamp = log_entry
@@ -174,11 +177,13 @@ fn load_traffic(vars_path: &Path) -> Vec<LogEntry> {
                         Standing {
                             ep: pre_ep,
                             gp: pre_gp,
+                            description: None,
                             timestamp,
                         },
                         Standing {
                             ep: post_ep,
                             gp: post_gp,
+                            description: None,
                             timestamp,
                         },
                     )),
@@ -194,6 +199,160 @@ fn load_traffic(vars_path: &Path) -> Vec<LogEntry> {
             })
             .collect::<Vec<_>>()
     })
+}
+
+fn set_annotations(standings: &mut BTreeMap<String, PlayerInfo>, traffic: &Vec<LogEntry>) {
+    let decay_regex = Regex::new(r"Decayed (EP|GP) -(\d+)%").unwrap();
+    let boss_kill_log_regex = Regex::new(r"Add Raid EP \+(\d+) - (.*)").unwrap();
+    let mut player_logs = standings
+        .iter_mut()
+        .map(|(name, player_info)| (name, (player_info, 0)))
+        .collect::<HashMap<_, _>>();
+
+    let skip_until = |player_logs: &mut HashMap<&String, (&mut PlayerInfo, usize)>,
+                      timestamp: i64| {
+        for (_, (player_info, idx)) in player_logs.iter_mut() {
+            while idx < &mut player_info.log.len() && player_info.log[*idx].timestamp < timestamp {
+                *idx += 1;
+            }
+        }
+    };
+
+    let annotate_group = |player_logs: &mut HashMap<&String, (&mut PlayerInfo, usize)>,
+                          f: &dyn Fn(Option<&Standing>, &Standing) -> bool,
+                          description: &str,
+                          timestamp: i64| {
+        // 15 seconds of grace time.
+        for (_, (player_info, idx)) in player_logs.iter_mut() {
+            if idx < &mut player_info.log.len()
+                && (player_info.log[*idx].timestamp - timestamp).abs() <= 15
+                && f(
+                    if *idx > 0 {
+                        Some(&player_info.log[*idx - 1])
+                    } else {
+                        None
+                    },
+                    &player_info.log[*idx],
+                )
+            {
+                player_info.log[*idx].description = Some(description.to_owned());
+                *idx += 1;
+            }
+        }
+    };
+
+    for log_entry in traffic {
+        // Skip entries more than five minutes older than the current entry. I
+        // wouldn't be surprised if either or both of the data sources we're
+        // using here are lossy.
+        skip_until(&mut player_logs, log_entry.timestamp);
+
+        match &log_entry.target {
+            Target::Unknown => {
+                // We did our best.
+                println!("{}: Unknown annotation", log_entry.timestamp);
+            }
+            Target::Guild => {
+                if let Some(captures) = decay_regex.captures(&log_entry.description) {
+                    println!(
+                        "{}: Guild annotation {:?}",
+                        log_entry.timestamp,
+                        (captures[1].to_owned(), captures[2].to_owned())
+                    );
+                    let decay_type = captures[1].to_owned();
+                    let decay_value = captures[2].parse::<i32>().unwrap();
+                    annotate_group(
+                        &mut player_logs,
+                        &|prev, curr| {
+                            if let Some(prev) = prev {
+                                match decay_type.as_str() {
+                                    "EP" => prev.ep * (100 - decay_value) == curr.ep,
+                                    "GP" => prev.gp * (100 - decay_value) == curr.gp,
+                                    s => panic!("Unrecognized decay type: '{}'", s),
+                                }
+                            } else {
+                                true
+                            }
+                        },
+                        &format!("{}% weekly {} decay", decay_value, decay_type),
+                        log_entry.timestamp,
+                    )
+                } else {
+                    println!("{}: Guild annotation failed parsing", log_entry.timestamp);
+                }
+            }
+            Target::Raid => {
+                if let Some(captures) = boss_kill_log_regex.captures(&log_entry.description) {
+                    println!(
+                        "{}: Raid annotation {:?}",
+                        log_entry.timestamp,
+                        (captures[1].to_owned(), captures[2].to_owned())
+                    );
+                    let ep_gain = captures[1].parse::<i32>().unwrap();
+                    let boss = captures[2].to_owned();
+                    annotate_group(
+                        &mut player_logs,
+                        &|prev, curr| {
+                            if let Some(prev) = prev {
+                                prev.ep + ep_gain == curr.ep
+                            } else {
+                                true
+                            }
+                        },
+                        &format!("Add EP {} (Killed {})", ep_gain, boss),
+                        log_entry.timestamp,
+                    )
+                } else {
+                    println!("{}: Raid annotation failed parsing", log_entry.timestamp);
+                }
+            }
+            Target::Player(player) => {
+                if player_logs.contains_key(player) {
+                    let (player_info, idx) = &mut player_logs.get_mut(player).unwrap();
+                    if *idx < player_info.log.len()
+                        && (player_info.log[*idx].timestamp - log_entry.timestamp).abs() <= 15
+                    {
+                        println!(
+                            "{}: Found a probable event for player '{}'",
+                            log_entry.timestamp, player
+                        );
+                        if *idx == 0
+                            || (match &log_entry.standing_change {
+                                Some((pre, post)) => {
+                                    player_info.log[*idx - 1].ep == pre.ep
+                                        && player_info.log[*idx - 1].gp == pre.gp
+                                        && player_info.log[*idx].ep == post.ep
+                                        && player_info.log[*idx].gp == post.gp
+                                }
+                                None => true,
+                            })
+                        {
+                            player_info.log[*idx].description =
+                                Some(log_entry.description.to_owned());
+                            *idx += 1;
+                        } else {
+                            println!("\t-> Could not attribute event");
+                            println!(
+                                "\t-> {:#?}",
+                                (
+                                    &log_entry.standing_change,
+                                    &player_info.log[*idx - 1],
+                                    &player_info.log[*idx]
+                                )
+                            );
+                        }
+                    } else {
+                        println!(
+                            "{}: Could not find a probable event for player '{}'",
+                            log_entry.timestamp, player
+                        );
+                    }
+                } else {
+                    println!("{}: Player '{}' not found", log_entry.timestamp, player);
+                }
+            }
+        }
+    }
 }
 
 fn find_file(name: &str) -> PathBuf {
@@ -262,8 +421,9 @@ pub fn run(opt: &Opt) {
         .collect::<PathBuf>(),
     );
 
-    let standings = load_standings(&vars_path);
+    let mut standings = load_standings(&vars_path);
     let traffic = load_traffic(&vars_path);
+    set_annotations(&mut standings, &traffic);
 
     write_data(&standings);
 }

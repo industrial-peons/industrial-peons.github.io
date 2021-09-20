@@ -5,86 +5,103 @@
     {
       "ep": 0,
       "gp": 50,
+      "description": null,
       "timestamp": 1624660244
     },
     {
       "ep": 15,
       "gp": 50,
+      "description": "Add EP 15 (Killed High King Maulgar)",
       "timestamp": 1629853749
     },
     {
       "ep": 32,
       "gp": 50,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
       "timestamp": 1629854640
     },
     {
       "ep": 49,
       "gp": 50,
+      "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1629856512
     },
     {
       "ep": 39,
       "gp": 50,
+      "description": null,
       "timestamp": 1630455373
     },
     {
       "ep": 31,
       "gp": 50,
+      "description": null,
       "timestamp": 1631062390
     },
     {
       "ep": 46,
       "gp": 50,
+      "description": "Add EP 15 (Killed High King Maulgar)",
       "timestamp": 1631063238
     },
     {
       "ep": 63,
       "gp": 50,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
       "timestamp": 1631063928
     },
     {
       "ep": 63,
       "gp": 100,
+      "description": "Add GP +50 ([Gronn-Stitched Girdle])",
       "timestamp": 1631064195
     },
     {
       "ep": 80,
       "gp": 100,
+      "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1631065698
     },
     {
       "ep": 64,
       "gp": 87,
+      "description": null,
       "timestamp": 1631636747
     },
     {
       "ep": 79,
       "gp": 87,
+      "description": "Add EP 15 (Killed High King Maulgar)",
       "timestamp": 1631668013
     },
     {
       "ep": 96,
       "gp": 87,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
       "timestamp": 1631668680
     },
     {
       "ep": 163,
       "gp": 87,
+      "description": "Add EP +67 (Malefic helm)",
       "timestamp": 1631668750
     },
     {
       "ep": 180,
       "gp": 87,
+      "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1631670268
     },
     {
       "ep": 197,
       "gp": 87,
+      "description": "Add EP 17 (Killed The Lurker Below)",
       "timestamp": 1631848016
     },
     {
       "ep": 214,
       "gp": 87,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
       "timestamp": 1631850874
     }
   ]

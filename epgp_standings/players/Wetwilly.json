@@ -5,41 +5,49 @@
     {
       "ep": 0,
       "gp": 50,
+      "description": null,
       "timestamp": 1624660243
     },
     {
       "ep": 15,
       "gp": 50,
+      "description": "Add EP 15 (Killed High King Maulgar)",
       "timestamp": 1629248880
     },
     {
       "ep": 32,
       "gp": 50,
+      "description": "Add EP 17 (Killed Gruul the Dragonkiller)",
       "timestamp": 1629249697
     },
     {
       "ep": 49,
       "gp": 50,
+      "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1629251724
     },
     {
       "ep": 39,
       "gp": 50,
+      "description": null,
       "timestamp": 1629851771
     },
     {
       "ep": 31,
       "gp": 50,
+      "description": null,
       "timestamp": 1630455372
     },
     {
       "ep": 24,
       "gp": 50,
+      "description": null,
       "timestamp": 1631062391
     },
     {
       "ep": 19,
       "gp": 50,
+      "description": null,
       "timestamp": 1631636747
     }
   ]
