@@ -203,7 +203,7 @@ fn load_traffic(vars_path: &Path) -> Vec<LogEntry> {
 
 fn set_annotations(standings: &mut BTreeMap<String, PlayerInfo>, traffic: &Vec<LogEntry>) {
     let decay_regex = Regex::new(r"Decayed (EP|GP) -(\d+)%").unwrap();
-    let boss_kill_log_regex = Regex::new(r"Add Raid EP \+(\d+) - (.*)").unwrap();
+    let raid_ep_regex = Regex::new(r"Add Raid EP \+(\d+)\s+(.*)").unwrap();
     let mut player_logs = standings
         .iter_mut()
         .map(|(name, player_info)| (name, (player_info, 0)))
@@ -282,14 +282,18 @@ fn set_annotations(standings: &mut BTreeMap<String, PlayerInfo>, traffic: &Vec<L
                 }
             }
             Target::Raid => {
-                if let Some(captures) = boss_kill_log_regex.captures(&log_entry.description) {
+                if let Some(captures) = raid_ep_regex.captures(&log_entry.description) {
                     println!(
                         "{}: Raid annotation {:?}",
                         log_entry.timestamp,
                         (captures[1].to_owned(), captures[2].to_owned())
                     );
                     let ep_gain = captures[1].parse::<i32>().unwrap();
-                    let boss = captures[2].to_owned();
+                    let source = captures[2].to_owned();
+                    let source_string = source
+                        .strip_prefix("- ")
+                        .map(|boss| format!("(Killed {})", boss))
+                        .unwrap_or(source);
                     annotate_group(
                         &mut player_logs,
                         &|prev, curr| {
@@ -299,7 +303,7 @@ fn set_annotations(standings: &mut BTreeMap<String, PlayerInfo>, traffic: &Vec<L
                                 true
                             }
                         },
-                        &format!("Add EP {} (Killed {})", ep_gain, boss),
+                        &format!("Add EP {} {}", ep_gain, source_string),
                         log_entry.timestamp,
                     )
                 } else {

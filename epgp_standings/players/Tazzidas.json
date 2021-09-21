@@ -1,6 +1,6 @@
 {
-  "ep": 203,
-  "gp": 86,
+  "ep": 254,
+  "gp": 159,
   "log": [
     {
       "ep": 0,
@@ -241,6 +241,18 @@
       "gp": 86,
       "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1631670268
+    },
+    {
+      "ep": 203,
+      "gp": 159,
+      "description": "Add GP 73 (Full Price)\n[Bands of the Celestial Archer]",
+      "timestamp": 1632191343
+    },
+    {
+      "ep": 254,
+      "gp": 159,
+      "description": "Add EP 51 (Hazard pay (17x3))",
+      "timestamp": 1632195590
     }
   ]
 }

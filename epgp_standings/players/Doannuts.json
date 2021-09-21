@@ -1,5 +1,5 @@
 {
-  "ep": 204,
+  "ep": 255,
   "gp": 62,
   "log": [
     {
@@ -205,6 +205,12 @@
       "gp": 62,
       "description": "Add EP 17 (Killed Leotheras the Blind)",
       "timestamp": 1631850874
+    },
+    {
+      "ep": 255,
+      "gp": 62,
+      "description": "Add EP 51 (Hazard pay (17x3))",
+      "timestamp": 1632195590
     }
   ]
 }

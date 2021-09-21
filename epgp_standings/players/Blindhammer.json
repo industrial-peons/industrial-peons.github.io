@@ -1,5 +1,5 @@
 {
-  "ep": 203,
+  "ep": 254,
   "gp": 105,
   "log": [
     {
@@ -259,6 +259,12 @@
       "gp": 105,
       "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1631670268
+    },
+    {
+      "ep": 254,
+      "gp": 105,
+      "description": "Add EP 51 (Hazard pay (17x3))",
+      "timestamp": 1632195590
     }
   ]
 }

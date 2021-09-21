@@ -1,0 +1,36 @@
+{
+  "ep": 51,
+  "gp": 50,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1624660243
+    },
+    {
+      "ep": 15,
+      "gp": 50,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1631668018
+    },
+    {
+      "ep": 49,
+      "gp": 50,
+      "description": "Add EP +34 (Bench adjustment)",
+      "timestamp": 1631670508
+    },
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1631838317
+    },
+    {
+      "ep": 51,
+      "gp": 50,
+      "description": "Add EP 51 (Hazard pay (17x3))",
+      "timestamp": 1632195590
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "ep": 199,
+  "ep": 250,
   "gp": 382,
   "log": [
     {
@@ -217,6 +217,12 @@
       "gp": 382,
       "description": "Add GP 125 (Full Price)\n[Gloves of the Vanquished Hero]",
       "timestamp": 1631851146
+    },
+    {
+      "ep": 250,
+      "gp": 382,
+      "description": "Add EP 51 (Hazard pay (17x3))",
+      "timestamp": 1632195590
     }
   ]
 }
