@@ -1,5 +1,5 @@
 {
-  "ep": 254,
+  "ep": 237,
   "gp": 105,
   "log": [
     {
@@ -265,6 +265,36 @@
       "gp": 105,
       "description": "Add EP 51 (Hazard pay (17x3))",
       "timestamp": 1632195590
+    },
+    {
+      "ep": 203,
+      "gp": 105,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632272287
+    },
+    {
+      "ep": 203,
+      "gp": 91,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632272298
+    },
+    {
+      "ep": 203,
+      "gp": 105,
+      "description": "Add GP 14 (Greed (10%))\n[Ranger-General's Chestguard]",
+      "timestamp": 1632274786
+    },
+    {
+      "ep": 220,
+      "gp": 105,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1632278654
+    },
+    {
+      "ep": 237,
+      "gp": 105,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1632281802
     }
   ]
 }

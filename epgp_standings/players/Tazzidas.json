@@ -1,6 +1,6 @@
 {
-  "ep": 254,
-  "gp": 159,
+  "ep": 237,
+  "gp": 256,
   "log": [
     {
       "ep": 0,
@@ -253,6 +253,36 @@
       "gp": 159,
       "description": "Add EP 51 (Hazard pay (17x3))",
       "timestamp": 1632195590
+    },
+    {
+      "ep": 203,
+      "gp": 159,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632272292
+    },
+    {
+      "ep": 203,
+      "gp": 131,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632272306
+    },
+    {
+      "ep": 220,
+      "gp": 131,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1632278654
+    },
+    {
+      "ep": 237,
+      "gp": 131,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1632281802
+    },
+    {
+      "ep": 237,
+      "gp": 256,
+      "description": "Add GP 125 (Full Price)\n[Gloves of the Vanquished Hero]",
+      "timestamp": 1632281986
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 183,
-  "gp": 282,
+  "ep": 146,
+  "gp": 224,
   "log": [
     {
       "ep": 0,
@@ -217,6 +217,18 @@
       "gp": 282,
       "description": "Add EP +17 (Bench adjustment from Thursday)",
       "timestamp": 1632195680
+    },
+    {
+      "ep": 146,
+      "gp": 282,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632272287
+    },
+    {
+      "ep": 146,
+      "gp": 224,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632272307
     }
   ]
 }

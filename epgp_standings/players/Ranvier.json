@@ -1,5 +1,5 @@
 {
-  "ep": 203,
+  "ep": 162,
   "gp": 50,
   "log": [
     {
@@ -205,6 +205,12 @@
       "gp": 50,
       "description": "Add EP 17 (Killed Magtheridon)",
       "timestamp": 1631670268
+    },
+    {
+      "ep": 162,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632272288
     }
   ]
 }

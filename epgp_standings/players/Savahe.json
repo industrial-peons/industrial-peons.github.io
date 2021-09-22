@@ -1,6 +1,6 @@
 {
-  "ep": 288,
-  "gp": 50,
+  "ep": 264,
+  "gp": 57,
   "log": [
     {
       "ep": 0,
@@ -211,6 +211,30 @@
       "gp": 50,
       "description": "Add EP 51 (Hazard pay (17x3))",
       "timestamp": 1632195590
+    },
+    {
+      "ep": 230,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632272288
+    },
+    {
+      "ep": 247,
+      "gp": 50,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1632278655
+    },
+    {
+      "ep": 247,
+      "gp": 57,
+      "description": "Add GP 7 (Greed (10%))\n[Ancestral Ring of Conquest]",
+      "timestamp": 1632278780
+    },
+    {
+      "ep": 264,
+      "gp": 57,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1632281802
     }
   ]
 }

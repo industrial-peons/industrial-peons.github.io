@@ -1,6 +1,6 @@
 {
-  "ep": 175,
-  "gp": 285,
+  "ep": 140,
+  "gp": 226,
   "log": [
     {
       "ep": 0,
@@ -127,6 +127,18 @@
       "gp": 285,
       "description": "Add EP 51 (Hazard pay (17x3))",
       "timestamp": 1632195590
+    },
+    {
+      "ep": 140,
+      "gp": 285,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632272292
+    },
+    {
+      "ep": 140,
+      "gp": 226,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632272306
     }
   ]
 }

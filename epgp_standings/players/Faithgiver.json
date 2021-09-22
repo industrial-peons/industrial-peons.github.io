@@ -1,5 +1,5 @@
 {
-  "ep": 51,
+  "ep": 40,
   "gp": 50,
   "log": [
     {
@@ -31,6 +31,12 @@
       "gp": 50,
       "description": "Add EP 51 (Hazard pay (17x3))",
       "timestamp": 1632195590
+    },
+    {
+      "ep": 40,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632272287
     }
   ]
 }
