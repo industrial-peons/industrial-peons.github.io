@@ -1,6 +1,6 @@
 {
-  "ep": 164,
-  "gp": 180,
+  "ep": 131,
+  "gp": 147,
   "log": [
     {
       "ep": 0,
@@ -289,6 +289,18 @@
       "gp": 180,
       "description": "Add GP +11 (Chest Greed To Tuncenna)",
       "timestamp": 1631671481
+    },
+    {
+      "ep": 131,
+      "gp": 180,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632272288
+    },
+    {
+      "ep": 131,
+      "gp": 147,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632272308
     }
   ]
 }

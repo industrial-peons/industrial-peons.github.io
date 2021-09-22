@@ -1,6 +1,6 @@
 {
-  "ep": 237,
-  "gp": 195,
+  "ep": 223,
+  "gp": 158,
   "log": [
     {
       "ep": 0,
@@ -229,6 +229,30 @@
       "gp": 195,
       "description": "Add GP 125 (Full Price)\n[Gloves of the Vanquished Defender]",
       "timestamp": 1631851194
+    },
+    {
+      "ep": 189,
+      "gp": 195,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632272288
+    },
+    {
+      "ep": 189,
+      "gp": 158,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632272298
+    },
+    {
+      "ep": 206,
+      "gp": 158,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1632278654
+    },
+    {
+      "ep": 223,
+      "gp": 158,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1632281802
     }
   ]
 }

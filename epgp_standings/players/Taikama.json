@@ -1,6 +1,6 @@
 {
-  "ep": 278,
-  "gp": 77,
+  "ep": 256,
+  "gp": 70,
   "log": [
     {
       "ep": 0,
@@ -211,6 +211,30 @@
       "gp": 77,
       "description": "Add EP 51 (Hazard pay (17x3))",
       "timestamp": 1632195590
+    },
+    {
+      "ep": 222,
+      "gp": 77,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632272288
+    },
+    {
+      "ep": 222,
+      "gp": 70,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632272298
+    },
+    {
+      "ep": 239,
+      "gp": 70,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1632278654
+    },
+    {
+      "ep": 256,
+      "gp": 70,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1632281802
     }
   ]
 }

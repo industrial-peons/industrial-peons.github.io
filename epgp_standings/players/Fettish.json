@@ -1,6 +1,6 @@
 {
-  "ep": 221,
-  "gp": 58,
+  "ep": 210,
+  "gp": 165,
   "log": [
     {
       "ep": 0,
@@ -241,6 +241,36 @@
       "gp": 58,
       "description": "Add EP 17 (Killed Leotheras the Blind)",
       "timestamp": 1631850874
+    },
+    {
+      "ep": 176,
+      "gp": 58,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632272287
+    },
+    {
+      "ep": 176,
+      "gp": 56,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632272298
+    },
+    {
+      "ep": 193,
+      "gp": 56,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1632278654
+    },
+    {
+      "ep": 210,
+      "gp": 56,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1632281802
+    },
+    {
+      "ep": 210,
+      "gp": 165,
+      "description": "Add GP 109 (Full Price)\n[Orca-Hide Boots]",
+      "timestamp": 1632282051
     }
   ]
 }
