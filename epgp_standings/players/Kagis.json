@@ -1,0 +1,48 @@
+{
+  "ep": 91,
+  "gp": 50,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1624660236
+    },
+    {
+      "ep": 17,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1632447131
+    },
+    {
+      "ep": 34,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1632454757
+    },
+    {
+      "ep": 51,
+      "gp": 50,
+      "description": "Add EP 17 (Al'ar hazard pay)",
+      "timestamp": 1632455122
+    },
+    {
+      "ep": 40,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632856807
+    },
+    {
+      "ep": 74,
+      "gp": 50,
+      "description": "Add EP 34 (Hazard pay)",
+      "timestamp": 1633055944
+    },
+    {
+      "ep": 91,
+      "gp": 50,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1633059614
+    }
+  ]
+}

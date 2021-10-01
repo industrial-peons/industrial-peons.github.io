@@ -1,6 +1,6 @@
 {
-  "ep": 141,
-  "gp": 58,
+  "ep": 255,
+  "gp": 341,
   "log": [
     {
       "ep": 0,
@@ -211,6 +211,84 @@
       "gp": 58,
       "description": "Add EP 17 (Killed Leotheras the Blind)",
       "timestamp": 1632281802
+    },
+    {
+      "ep": 158,
+      "gp": 58,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1632447131
+    },
+    {
+      "ep": 158,
+      "gp": 91,
+      "description": "Add GP 33 (Minor (50%))\n[Karaborian Talisman]",
+      "timestamp": 1632447332
+    },
+    {
+      "ep": 175,
+      "gp": 91,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1632454757
+    },
+    {
+      "ep": 175,
+      "gp": 216,
+      "description": "Add GP 125 (Full Price)\n[Pauldrons of the Vanquished Hero]",
+      "timestamp": 1632454835
+    },
+    {
+      "ep": 192,
+      "gp": 216,
+      "description": "Add EP 17 (Al'ar hazard pay)",
+      "timestamp": 1632455123
+    },
+    {
+      "ep": 153,
+      "gp": 216,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632856808
+    },
+    {
+      "ep": 153,
+      "gp": 174,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632856823
+    },
+    {
+      "ep": 170,
+      "gp": 174,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1632882928
+    },
+    {
+      "ep": 187,
+      "gp": 174,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1632885773
+    },
+    {
+      "ep": 187,
+      "gp": 341,
+      "description": "Add GP 167 (Full Price)\n[Leggings of the Vanquished Hero]",
+      "timestamp": 1632885832
+    },
+    {
+      "ep": 204,
+      "gp": 341,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1632887317
+    },
+    {
+      "ep": 238,
+      "gp": 341,
+      "description": "Add EP 34 (Hazard pay)",
+      "timestamp": 1633055944
+    },
+    {
+      "ep": 255,
+      "gp": 341,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1633059614
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 200,
-  "gp": 299,
+  "ep": 252,
+  "gp": 236,
   "log": [
     {
       "ep": 0,
@@ -235,6 +235,48 @@
       "gp": 299,
       "description": "25% weekly GP decay",
       "timestamp": 1632272307
+    },
+    {
+      "ep": 217,
+      "gp": 299,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1632454757
+    },
+    {
+      "ep": 234,
+      "gp": 299,
+      "description": "Add EP 17 (Al'ar hazard pay)",
+      "timestamp": 1632455123
+    },
+    {
+      "ep": 187,
+      "gp": 299,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632856807
+    },
+    {
+      "ep": 187,
+      "gp": 236,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632856822
+    },
+    {
+      "ep": 221,
+      "gp": 236,
+      "description": "Add EP 34 (Hazard pay)",
+      "timestamp": 1633055944
+    },
+    {
+      "ep": 238,
+      "gp": 236,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1633059614
+    },
+    {
+      "ep": 252,
+      "gp": 236,
+      "description": "Add EP +14 (Mag kill alt mistake correction)",
+      "timestamp": 1633115761
     }
   ]
 }
