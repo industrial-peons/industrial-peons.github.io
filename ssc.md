@@ -5,7 +5,7 @@ title: SSC
 
 # Serpentshrine Cavern
 
-**_Note: this is copied from a living document stored in Google Docs. If there are any ways that this document differs from the Google Doc, the Google Doc takes precedent. A link to the Google Doc that allows commenting is available on the Discord._**
+**_Note: This document is considered to be the source of truth whenever it differs from the Google Doc.._**
 
 | Name                                | Prio                                                                                                                                                                                           |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

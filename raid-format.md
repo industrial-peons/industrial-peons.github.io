@@ -6,15 +6,13 @@ has_toc: true
 
 # Industrial Peons TBC Raid Format
 
-**_Note: this is copied from a living document stored in Google Docs. If there are any ways that this document differs from the Google Doc, the Google Doc takes precedent. A link to the Google Doc that allows commenting is available on the Discord._**
+**_Note: This document is considered to be the source of truth whenever it differs from the Google Doc.._**
 
 Welcome to the Peons! We’re the queer-friendly commie underdogs of Grobbulus, dedicated to proving that you can be a successful raid team without enabling the most toxic elements in gaming.
 
 We’re a democratically run guild, with votes on loot system and item priorities before every major content phase, and we elect our own guild leader. Our leadership core is 100% volunteer-based, with no benefits for being an officer other than a grisly view of how the sausage is made.
 
 ## Raid Expectations
-
-Since we only have enough members in our leadership core to run one raid at a time, we want to make sure that we have an explicit list of requirements in order to be fair to both people who are currently on the raid team, as well as people waiting to join.
 
 In general, we have the following list of expectations for each raider:
 
@@ -24,7 +22,7 @@ In general, we have the following list of expectations for each raider:
 - **Our raids run from 6:00 PM to 9:00 PM**. During times of difficult progression we appreciate people who can stay late, but we don’t expect it.
 - **We expect raiders’ gear to be gemmed and enchanted**, with blue quality gems for DPS, and high green quality gems for healers (although blue quality gems are a big plus!). If you’re struggling with the gold costs, feel free to give a shout to any @Jewelcrafters or @Enchanters in our professions channel in Discord, or hit up our official guild enchanter, Shaday, to see what mats she has on hand.
 - **We expect raiders to watch at least one video on each new raid** before we begin it, so that they have a general idea of what to do for boss fights. Raiders don’t need to have everything memorized and there’s no quiz, but we do them to, for example, come into Gruul knowing that staying away from other raiders is important.
-- **If you’re benched, stay in voice chat for the entire raid to earn full EP**. In order to get as many Peons into raids as possible, we have a rotating bench system where most raiders will be benched every third or every fourth raid, depending on role. We also allow raiders who are not on the set roster to sit on the bench. Whisper the loot master for the night’s raid that you’re on the bench, stay in voice chat the entire time, and you’ll get 100% of the boss kill EP awarded during the raid. If you choose to go do something else instead of sitting on the bench you won’t earn bench EP, but there are no penalties beyond that.
+- **Everyone raids, everyone sits**. In order to get as many Peons into raids as possible, we have a rotating bench system where most raiders will be benched every few raids, depending on role. More information on how the bench works can be found in the **Bench EP** section.
 
 ## Raid schedule
 
@@ -44,14 +42,7 @@ If the raid leadership asks a raider to switch which character they raid on, all
 
 #### Bench EP
 
-It is well understood that real life often throws curve balls and that raiders may not be able to make it. To promote fair and object loot distribution, EP will only be given to raiders who are actively in voice and are able to drop what they’re doing to sub in (so battlegrounds are okay, arenas and dungeons are a little more questionable). Since we are awarding 100% EP, we may also have afk checks via voice to ensure full effort.
-
-In other words:
-
-- 100% EP for staying in voice.
-- 0% EP for all other benched raiders.
-
-**The bench is open to every level 70 member who is attuned for the raid they’re benching for, regardless of whether they’re on the main roster or not**. When people drop out of the main roster, we will prioritize replacing them from bench members.
+It is well understood that real life often throws curve balls and that raiders may not be able to make it. Any raiders who are attuned to the night's raid but not scheduled for it may sit on the bench by whispering `!standby` to the raid's loot master from their main. Sitting on the bench rewards *100% EP,* and as of October 2021 no longer requires staying in voice. While sitting the bench you must remain available over either in-game chat or Discord DMs. If we ask you to come in off the bench and you decline or give no response within 5 minutes, you will be removed from the bench. Any EP earned before that moment will be kept, but no further EP will be earned for that night's raid.
 
 ### How GP is accrued
 
