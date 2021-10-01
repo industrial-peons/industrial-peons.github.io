@@ -1,6 +1,6 @@
 {
-  "ep": 210,
-  "gp": 165,
+  "ep": 259,
+  "gp": 245,
   "log": [
     {
       "ep": 0,
@@ -271,6 +271,54 @@
       "gp": 165,
       "description": "Add GP 109 (Full Price)\n[Orca-Hide Boots]",
       "timestamp": 1632282051
+    },
+    {
+      "ep": 227,
+      "gp": 165,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1632447131
+    },
+    {
+      "ep": 244,
+      "gp": 165,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1632454757
+    },
+    {
+      "ep": 261,
+      "gp": 165,
+      "description": "Add EP 17 (Al'ar hazard pay)",
+      "timestamp": 1632455122
+    },
+    {
+      "ep": 208,
+      "gp": 165,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632856807
+    },
+    {
+      "ep": 208,
+      "gp": 136,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632856821
+    },
+    {
+      "ep": 242,
+      "gp": 136,
+      "description": "Add EP 34 (Hazard pay)",
+      "timestamp": 1633055944
+    },
+    {
+      "ep": 242,
+      "gp": 245,
+      "description": "Add GP 109 (Full Price)\n[Girdle of Fallen Stars]",
+      "timestamp": 1633057691
+    },
+    {
+      "ep": 259,
+      "gp": 245,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1633059614
     }
   ]
 }

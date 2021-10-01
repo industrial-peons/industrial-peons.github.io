@@ -1,6 +1,6 @@
 {
-  "ep": 237,
-  "gp": 256,
+  "ep": 240,
+  "gp": 204,
   "log": [
     {
       "ep": 0,
@@ -283,6 +283,30 @@
       "gp": 256,
       "description": "Add GP 125 (Full Price)\n[Gloves of the Vanquished Hero]",
       "timestamp": 1632281986
+    },
+    {
+      "ep": 189,
+      "gp": 256,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632856807
+    },
+    {
+      "ep": 189,
+      "gp": 204,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632856821
+    },
+    {
+      "ep": 223,
+      "gp": 204,
+      "description": "Add EP 34 (Hazard pay)",
+      "timestamp": 1633055944
+    },
+    {
+      "ep": 240,
+      "gp": 204,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1633059614
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 223,
-  "gp": 304,
+  "ep": 277,
+  "gp": 474,
   "log": [
     {
       "ep": 0,
@@ -283,6 +283,60 @@
       "gp": 304,
       "description": "Add EP 17 (Killed Leotheras the Blind)",
       "timestamp": 1632281802
+    },
+    {
+      "ep": 240,
+      "gp": 304,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1632447131
+    },
+    {
+      "ep": 192,
+      "gp": 304,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632856807
+    },
+    {
+      "ep": 192,
+      "gp": 240,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632856821
+    },
+    {
+      "ep": 209,
+      "gp": 240,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1632882928
+    },
+    {
+      "ep": 209,
+      "gp": 365,
+      "description": "Add GP 125 (Full Price)\n[Gloves of the Vanquished Champion]",
+      "timestamp": 1632883016
+    },
+    {
+      "ep": 209,
+      "gp": 474,
+      "description": "Add GP 109 (Full Price)\n[Girdle of the Invulnerable]",
+      "timestamp": 1632883105
+    },
+    {
+      "ep": 226,
+      "gp": 474,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1632885772
+    },
+    {
+      "ep": 243,
+      "gp": 474,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1632887317
+    },
+    {
+      "ep": 277,
+      "gp": 474,
+      "description": "Add EP 34 (Hazard pay)",
+      "timestamp": 1633055944
     }
   ]
 }

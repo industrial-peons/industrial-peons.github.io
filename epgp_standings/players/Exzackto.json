@@ -1,6 +1,6 @@
 {
-  "ep": 264,
-  "gp": 125,
+  "ep": 354,
+  "gp": 191,
   "log": [
     {
       "ep": 0,
@@ -283,6 +283,84 @@
       "gp": 125,
       "description": "Add EP 17 (Killed Leotheras the Blind)",
       "timestamp": 1632281802
+    },
+    {
+      "ep": 281,
+      "gp": 125,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1632447131
+    },
+    {
+      "ep": 281,
+      "gp": 128,
+      "description": "Add GP 3 (Greed (10%))\n[Pattern: Hurricane Boots]",
+      "timestamp": 1632453134
+    },
+    {
+      "ep": 298,
+      "gp": 128,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1632454757
+    },
+    {
+      "ep": 315,
+      "gp": 128,
+      "description": "Add EP 17 (Al'ar hazard pay)",
+      "timestamp": 1632455123
+    },
+    {
+      "ep": 252,
+      "gp": 128,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632856807
+    },
+    {
+      "ep": 252,
+      "gp": 108,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632856822
+    },
+    {
+      "ep": 252,
+      "gp": 181,
+      "description": "Add GP 73 (Full Price)\n[Fathomstone]",
+      "timestamp": 1632880158
+    },
+    {
+      "ep": 269,
+      "gp": 181,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1632882928
+    },
+    {
+      "ep": 286,
+      "gp": 181,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1632885773
+    },
+    {
+      "ep": 286,
+      "gp": 191,
+      "description": "Add GP 10 (Greed (10%))\n[Fathom-Brooch of the Tidewalker]",
+      "timestamp": 1632885982
+    },
+    {
+      "ep": 303,
+      "gp": 191,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1632887317
+    },
+    {
+      "ep": 337,
+      "gp": 191,
+      "description": "Add EP 34 (Hazard pay)",
+      "timestamp": 1633055944
+    },
+    {
+      "ep": 354,
+      "gp": 191,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1633059614
     }
   ]
 }

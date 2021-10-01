@@ -1,6 +1,6 @@
 {
-  "ep": 233,
-  "gp": 101,
+  "ep": 278,
+  "gp": 123,
   "log": [
     {
       "ep": 0,
@@ -271,6 +271,60 @@
       "gp": 101,
       "description": "Add EP 17 (Killed Leotheras the Blind)",
       "timestamp": 1632281802
+    },
+    {
+      "ep": 250,
+      "gp": 101,
+      "description": "Add EP 17 (Killed Magtheridon)",
+      "timestamp": 1632447131
+    },
+    {
+      "ep": 267,
+      "gp": 101,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1632454757
+    },
+    {
+      "ep": 284,
+      "gp": 101,
+      "description": "Add EP 17 (Al'ar hazard pay)",
+      "timestamp": 1632455122
+    },
+    {
+      "ep": 227,
+      "gp": 101,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632856807
+    },
+    {
+      "ep": 227,
+      "gp": 88,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632856821
+    },
+    {
+      "ep": 227,
+      "gp": 123,
+      "description": "Add GP +35 (Nether Vortex x2 (Minor))",
+      "timestamp": 1632881727
+    },
+    {
+      "ep": 244,
+      "gp": 123,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1632882928
+    },
+    {
+      "ep": 261,
+      "gp": 123,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1632885772
+    },
+    {
+      "ep": 278,
+      "gp": 123,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1632887317
     }
   ]
 }

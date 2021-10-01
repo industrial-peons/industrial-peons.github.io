@@ -1,6 +1,6 @@
 {
-  "ep": 237,
-  "gp": 105,
+  "ep": 189,
+  "gp": 91,
   "log": [
     {
       "ep": 0,
@@ -295,6 +295,18 @@
       "gp": 105,
       "description": "Add EP 17 (Killed Leotheras the Blind)",
       "timestamp": 1632281802
+    },
+    {
+      "ep": 189,
+      "gp": 105,
+      "description": "20% weekly EP decay",
+      "timestamp": 1632856806
+    },
+    {
+      "ep": 189,
+      "gp": 91,
+      "description": "25% weekly GP decay",
+      "timestamp": 1632856820
     }
   ]
 }

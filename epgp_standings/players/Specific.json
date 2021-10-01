@@ -1,0 +1,48 @@
+{
+  "ep": 102,
+  "gp": 175,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1632714547
+    },
+    {
+      "ep": 17,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1632882928
+    },
+    {
+      "ep": 17,
+      "gp": 175,
+      "description": "Add GP 125 (Full Price)\n[Gloves of the Vanquished Hero]",
+      "timestamp": 1632883036
+    },
+    {
+      "ep": 34,
+      "gp": 175,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1632885772
+    },
+    {
+      "ep": 51,
+      "gp": 175,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1632887317
+    },
+    {
+      "ep": 85,
+      "gp": 175,
+      "description": "Add EP 34 (Hazard pay)",
+      "timestamp": 1633055944
+    },
+    {
+      "ep": 102,
+      "gp": 175,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1633059614
+    }
+  ]
+}
