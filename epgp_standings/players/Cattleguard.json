@@ -1,6 +1,6 @@
 {
-  "ep": 321,
-  "gp": 131,
+  "ep": 307,
+  "gp": 219,
   "log": [
     {
       "ep": 0,
@@ -313,6 +313,42 @@
       "gp": 131,
       "description": "Add EP 17 (Hazard pay)",
       "timestamp": 1633059614
+    },
+    {
+      "ep": 256,
+      "gp": 131,
+      "description": "20% weekly EP decay",
+      "timestamp": 1633480380
+    },
+    {
+      "ep": 256,
+      "gp": 110,
+      "description": "25% weekly GP decay",
+      "timestamp": 1633480390
+    },
+    {
+      "ep": 273,
+      "gp": 110,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1633485692
+    },
+    {
+      "ep": 290,
+      "gp": 110,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1633488471
+    },
+    {
+      "ep": 307,
+      "gp": 110,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1633493230
+    },
+    {
+      "ep": 307,
+      "gp": 219,
+      "description": "Add GP 109 (Full Price)\n[Boots of the Resilient]",
+      "timestamp": 1633493460
     }
   ]
 }

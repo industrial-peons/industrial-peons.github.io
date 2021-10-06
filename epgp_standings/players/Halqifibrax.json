@@ -1,6 +1,6 @@
 {
-  "ep": 277,
-  "gp": 474,
+  "ep": 272,
+  "gp": 441,
   "log": [
     {
       "ep": 0,
@@ -337,6 +337,42 @@
       "gp": 474,
       "description": "Add EP 34 (Hazard pay)",
       "timestamp": 1633055944
+    },
+    {
+      "ep": 221,
+      "gp": 474,
+      "description": "20% weekly EP decay",
+      "timestamp": 1633480380
+    },
+    {
+      "ep": 221,
+      "gp": 368,
+      "description": "25% weekly GP decay",
+      "timestamp": 1633480390
+    },
+    {
+      "ep": 221,
+      "gp": 441,
+      "description": "Add GP 73 (Full Price)\n[Seventh Ring of the Tirisfalen]",
+      "timestamp": 1633482904
+    },
+    {
+      "ep": 238,
+      "gp": 441,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1633485692
+    },
+    {
+      "ep": 255,
+      "gp": 441,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1633488471
+    },
+    {
+      "ep": 272,
+      "gp": 441,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1633493230
     }
   ]
 }

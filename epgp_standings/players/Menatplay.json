@@ -1,6 +1,6 @@
 {
-  "ep": 252,
-  "gp": 236,
+  "ep": 201,
+  "gp": 189,
   "log": [
     {
       "ep": 0,
@@ -277,6 +277,18 @@
       "gp": 236,
       "description": "Add EP +14 (Mag kill alt mistake correction)",
       "timestamp": 1633115761
+    },
+    {
+      "ep": 201,
+      "gp": 236,
+      "description": "20% weekly EP decay",
+      "timestamp": 1633480387
+    },
+    {
+      "ep": 201,
+      "gp": 189,
+      "description": "25% weekly GP decay",
+      "timestamp": 1633480396
     }
   ]
 }

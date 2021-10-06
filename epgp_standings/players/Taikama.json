@@ -1,6 +1,6 @@
 {
-  "ep": 347,
-  "gp": 65,
+  "ep": 311,
+  "gp": 186,
   "log": [
     {
       "ep": 0,
@@ -295,6 +295,36 @@
       "gp": 65,
       "description": "Add EP 17 (Hazard pay)",
       "timestamp": 1633059614
+    },
+    {
+      "ep": 277,
+      "gp": 65,
+      "description": "20% weekly EP decay",
+      "timestamp": 1633480380
+    },
+    {
+      "ep": 277,
+      "gp": 61,
+      "description": "25% weekly GP decay",
+      "timestamp": 1633480390
+    },
+    {
+      "ep": 294,
+      "gp": 61,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1633485692
+    },
+    {
+      "ep": 294,
+      "gp": 186,
+      "description": "Add GP 125 (Full Price)\n[Pauldrons of the Vanquished Defender]",
+      "timestamp": 1633485903
+    },
+    {
+      "ep": 311,
+      "gp": 186,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1633488471
     }
   ]
 }

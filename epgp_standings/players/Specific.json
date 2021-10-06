@@ -1,6 +1,6 @@
 {
-  "ep": 102,
-  "gp": 175,
+  "ep": 132,
+  "gp": 143,
   "log": [
     {
       "ep": 0,
@@ -43,6 +43,36 @@
       "gp": 175,
       "description": "Add EP 17 (Hazard pay)",
       "timestamp": 1633059614
+    },
+    {
+      "ep": 81,
+      "gp": 175,
+      "description": "20% weekly EP decay",
+      "timestamp": 1633480380
+    },
+    {
+      "ep": 81,
+      "gp": 143,
+      "description": "25% weekly GP decay",
+      "timestamp": 1633480390
+    },
+    {
+      "ep": 98,
+      "gp": 143,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1633485692
+    },
+    {
+      "ep": 115,
+      "gp": 143,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1633488471
+    },
+    {
+      "ep": 132,
+      "gp": 143,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1633493230
     }
   ]
 }
