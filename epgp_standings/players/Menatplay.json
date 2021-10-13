@@ -1,6 +1,6 @@
 {
-  "ep": 201,
-  "gp": 189,
+  "ep": 188,
+  "gp": 154,
   "log": [
     {
       "ep": 0,
@@ -289,6 +289,30 @@
       "gp": 189,
       "description": "25% weekly GP decay",
       "timestamp": 1633480396
+    },
+    {
+      "ep": 218,
+      "gp": 189,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1633659975
+    },
+    {
+      "ep": 235,
+      "gp": 189,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1633664085
+    },
+    {
+      "ep": 188,
+      "gp": 189,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634083819
+    },
+    {
+      "ep": 188,
+      "gp": 154,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634083829
     }
   ]
 }

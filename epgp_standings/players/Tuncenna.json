@@ -1,6 +1,6 @@
 {
-  "ep": 175,
-  "gp": 104,
+  "ep": 167,
+  "gp": 164,
   "log": [
     {
       "ep": 0,
@@ -355,6 +355,42 @@
       "gp": 104,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1633493230
+    },
+    {
+      "ep": 192,
+      "gp": 104,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1633659975
+    },
+    {
+      "ep": 192,
+      "gp": 140,
+      "description": "Add GP 36 (Minor (50%))\n[Pendant of the Perilous]",
+      "timestamp": 1633661073
+    },
+    {
+      "ep": 209,
+      "gp": 140,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1633664085
+    },
+    {
+      "ep": 209,
+      "gp": 202,
+      "description": "Add GP 62 (Minor (50%))\n[Gloves of the Vanquished Defender]",
+      "timestamp": 1633664265
+    },
+    {
+      "ep": 167,
+      "gp": 202,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634083820
+    },
+    {
+      "ep": 167,
+      "gp": 164,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634083830
     }
   ]
 }

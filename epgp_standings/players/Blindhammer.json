@@ -1,6 +1,6 @@
 {
-  "ep": 202,
-  "gp": 80,
+  "ep": 212,
+  "gp": 93,
   "log": [
     {
       "ep": 0,
@@ -337,6 +337,48 @@
       "gp": 80,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1633493230
+    },
+    {
+      "ep": 161,
+      "gp": 80,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634083818
+    },
+    {
+      "ep": 161,
+      "gp": 72,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634083828
+    },
+    {
+      "ep": 178,
+      "gp": 72,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1634090411
+    },
+    {
+      "ep": 178,
+      "gp": 86,
+      "description": "Add GP 14 (Greed (10%))\n[Fel-Steel Warhelm]",
+      "timestamp": 1634090482
+    },
+    {
+      "ep": 195,
+      "gp": 86,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1634091445
+    },
+    {
+      "ep": 195,
+      "gp": 93,
+      "description": "Add GP 7 (Greed (10%))\n[Bands of the Celestial Archer]",
+      "timestamp": 1634092396
+    },
+    {
+      "ep": 212,
+      "gp": 93,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1634094206
     }
   ]
 }

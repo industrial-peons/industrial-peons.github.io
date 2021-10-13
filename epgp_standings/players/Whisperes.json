@@ -1,6 +1,6 @@
 {
-  "ep": 293,
-  "gp": 151,
+  "ep": 312,
+  "gp": 125,
   "log": [
     {
       "ep": 0,
@@ -379,6 +379,48 @@
       "gp": 151,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1633493230
+    },
+    {
+      "ep": 310,
+      "gp": 151,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1633659975
+    },
+    {
+      "ep": 327,
+      "gp": 151,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1633664085
+    },
+    {
+      "ep": 261,
+      "gp": 151,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634083820
+    },
+    {
+      "ep": 261,
+      "gp": 125,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634083830
+    },
+    {
+      "ep": 278,
+      "gp": 125,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1634090411
+    },
+    {
+      "ep": 295,
+      "gp": 125,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1634091445
+    },
+    {
+      "ep": 312,
+      "gp": 125,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1634094206
     }
   ]
 }

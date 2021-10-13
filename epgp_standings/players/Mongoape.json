@@ -1,6 +1,6 @@
 {
-  "ep": 317,
-  "gp": 161,
+  "ep": 331,
+  "gp": 242,
   "log": [
     {
       "ep": 0,
@@ -337,6 +337,54 @@
       "gp": 161,
       "description": "Add GP 3 (Greed (10%))\n[Pattern: Hurricane Boots]",
       "timestamp": 1633493312
+    },
+    {
+      "ep": 334,
+      "gp": 161,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1633659975
+    },
+    {
+      "ep": 351,
+      "gp": 161,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1633664085
+    },
+    {
+      "ep": 280,
+      "gp": 161,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634083818
+    },
+    {
+      "ep": 280,
+      "gp": 133,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634083828
+    },
+    {
+      "ep": 297,
+      "gp": 133,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1634090411
+    },
+    {
+      "ep": 314,
+      "gp": 133,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1634091445
+    },
+    {
+      "ep": 331,
+      "gp": 133,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1634094206
+    },
+    {
+      "ep": 331,
+      "gp": 242,
+      "description": "Add GP 109 (Full Price)\n[Worldstorm Gauntlets]",
+      "timestamp": 1634094565
     }
   ]
 }

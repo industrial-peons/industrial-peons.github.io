@@ -1,6 +1,6 @@
 {
-  "ep": 307,
-  "gp": 219,
+  "ep": 296,
+  "gp": 301,
   "log": [
     {
       "ep": 0,
@@ -349,6 +349,42 @@
       "gp": 219,
       "description": "Add GP 109 (Full Price)\n[Boots of the Resilient]",
       "timestamp": 1633493460
+    },
+    {
+      "ep": 245,
+      "gp": 219,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634083819
+    },
+    {
+      "ep": 245,
+      "gp": 176,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634083829
+    },
+    {
+      "ep": 262,
+      "gp": 176,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1634090411
+    },
+    {
+      "ep": 262,
+      "gp": 301,
+      "description": "Add GP 125 (Full Price)\n[Pauldrons of the Vanquished Defender]",
+      "timestamp": 1634090552
+    },
+    {
+      "ep": 279,
+      "gp": 301,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1634091445
+    },
+    {
+      "ep": 296,
+      "gp": 301,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1634094206
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 334,
-  "gp": 60,
+  "ep": 345,
+  "gp": 57,
   "log": [
     {
       "ep": 0,
@@ -265,6 +265,48 @@
       "gp": 60,
       "description": "Add GP 10 (Greed (10%))\n[Girdle of the Righteous Path]",
       "timestamp": 1633493390
+    },
+    {
+      "ep": 351,
+      "gp": 60,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1633659974
+    },
+    {
+      "ep": 368,
+      "gp": 60,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1633664085
+    },
+    {
+      "ep": 294,
+      "gp": 60,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634083818
+    },
+    {
+      "ep": 294,
+      "gp": 57,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634083828
+    },
+    {
+      "ep": 311,
+      "gp": 57,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1634090411
+    },
+    {
+      "ep": 328,
+      "gp": 57,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1634091445
+    },
+    {
+      "ep": 345,
+      "gp": 57,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1634094206
     }
   ]
 }

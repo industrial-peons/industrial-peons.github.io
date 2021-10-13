@@ -1,6 +1,6 @@
 {
-  "ep": 72,
-  "gp": 50,
+  "ep": 135,
+  "gp": 307,
   "log": [
     {
       "ep": 0,
@@ -49,6 +49,48 @@
       "gp": 50,
       "description": "20% weekly EP decay",
       "timestamp": 1633480386
+    },
+    {
+      "ep": 89,
+      "gp": 50,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1633659975
+    },
+    {
+      "ep": 106,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1633664085
+    },
+    {
+      "ep": 84,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634083818
+    },
+    {
+      "ep": 101,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1634090411
+    },
+    {
+      "ep": 118,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1634091445
+    },
+    {
+      "ep": 118,
+      "gp": 307,
+      "description": "Add GP 257 (Full Price)\n[Talon of the Phoenix]",
+      "timestamp": 1634091548
+    },
+    {
+      "ep": 135,
+      "gp": 307,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1634094206
     }
   ]
 }
