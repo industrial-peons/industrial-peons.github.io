@@ -1,5 +1,5 @@
 {
-  "ep": 331,
+  "ep": 382,
   "gp": 242,
   "log": [
     {
@@ -385,6 +385,24 @@
       "gp": 242,
       "description": "Add GP 109 (Full Price)\n[Worldstorm Gauntlets]",
       "timestamp": 1634094565
+    },
+    {
+      "ep": 348,
+      "gp": 242,
+      "description": null,
+      "timestamp": 1634263093
+    },
+    {
+      "ep": 365,
+      "gp": 242,
+      "description": null,
+      "timestamp": 1634265515
+    },
+    {
+      "ep": 382,
+      "gp": 242,
+      "description": null,
+      "timestamp": 1634266936
     }
   ]
 }

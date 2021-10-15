@@ -1,6 +1,6 @@
 {
-  "ep": 295,
-  "gp": 343,
+  "ep": 346,
+  "gp": 350,
   "log": [
     {
       "ep": 0,
@@ -415,6 +415,30 @@
       "gp": 343,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1634094206
+    },
+    {
+      "ep": 312,
+      "gp": 343,
+      "description": null,
+      "timestamp": 1634263093
+    },
+    {
+      "ep": 312,
+      "gp": 350,
+      "description": null,
+      "timestamp": 1634263269
+    },
+    {
+      "ep": 329,
+      "gp": 350,
+      "description": null,
+      "timestamp": 1634265515
+    },
+    {
+      "ep": 346,
+      "gp": 350,
+      "description": null,
+      "timestamp": 1634266936
     }
   ]
 }
