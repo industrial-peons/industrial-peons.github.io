@@ -1,6 +1,6 @@
 {
-  "ep": 186,
-  "gp": 307,
+  "ep": 199,
+  "gp": 367,
   "log": [
     {
       "ep": 0,
@@ -109,6 +109,54 @@
       "gp": 307,
       "description": null,
       "timestamp": 1634266936
+    },
+    {
+      "ep": 148,
+      "gp": 307,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634689599
+    },
+    {
+      "ep": 148,
+      "gp": 242,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634689609
+    },
+    {
+      "ep": 165,
+      "gp": 242,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1634696051
+    },
+    {
+      "ep": 182,
+      "gp": 242,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1634698197
+    },
+    {
+      "ep": 182,
+      "gp": 367,
+      "description": "Add GP 125 (Full Price)\n[Gloves of the Vanquished Hero]",
+      "timestamp": 1634698269
+    },
+    {
+      "ep": 199,
+      "gp": 367,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1634700178
+    },
+    {
+      "ep": 199,
+      "gp": 384,
+      "description": "Add GP 17 (Minor (50%))\n[Pattern: Belt of Deep Shadow]",
+      "timestamp": 1634700879
+    },
+    {
+      "ep": 199,
+      "gp": 367,
+      "description": "Subtract GP -17 (Refund)",
+      "timestamp": 1634700939
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 396,
-  "gp": 278,
+  "ep": 367,
+  "gp": 221,
   "log": [
     {
       "ep": 0,
@@ -337,6 +337,36 @@
       "gp": 278,
       "description": null,
       "timestamp": 1634267028
+    },
+    {
+      "ep": 316,
+      "gp": 278,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634689602
+    },
+    {
+      "ep": 316,
+      "gp": 221,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634689615
+    },
+    {
+      "ep": 333,
+      "gp": 221,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1634696051
+    },
+    {
+      "ep": 350,
+      "gp": 221,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1634698197
+    },
+    {
+      "ep": 367,
+      "gp": 221,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1634700178
     }
   ]
 }

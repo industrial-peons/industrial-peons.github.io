@@ -1,6 +1,6 @@
 {
-  "ep": 346,
-  "gp": 350,
+  "ep": 327,
+  "gp": 515,
   "log": [
     {
       "ep": 0,
@@ -439,6 +439,48 @@
       "gp": 350,
       "description": null,
       "timestamp": 1634266936
+    },
+    {
+      "ep": 276,
+      "gp": 350,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634689599
+    },
+    {
+      "ep": 276,
+      "gp": 275,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634689609
+    },
+    {
+      "ep": 293,
+      "gp": 275,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1634696051
+    },
+    {
+      "ep": 310,
+      "gp": 275,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1634698197
+    },
+    {
+      "ep": 327,
+      "gp": 275,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1634700178
+    },
+    {
+      "ep": 327,
+      "gp": 442,
+      "description": "Add GP 167 (Full Price)\n[Leggings of the Vanquished Champion]",
+      "timestamp": 1634700254
+    },
+    {
+      "ep": 327,
+      "gp": 515,
+      "description": "Add GP 73 (Full Price)\n[Frayed Tether of the Drowned]",
+      "timestamp": 1634700321
     }
   ]
 }

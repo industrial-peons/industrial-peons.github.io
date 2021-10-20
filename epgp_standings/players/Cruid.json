@@ -1,6 +1,6 @@
 {
-  "ep": 73,
-  "gp": 122,
+  "ep": 109,
+  "gp": 140,
   "log": [
     {
       "ep": 0,
@@ -265,6 +265,42 @@
       "gp": 122,
       "description": "25% weekly GP decay",
       "timestamp": 1634083829
+    },
+    {
+      "ep": 58,
+      "gp": 122,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634689599
+    },
+    {
+      "ep": 58,
+      "gp": 104,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634689609
+    },
+    {
+      "ep": 58,
+      "gp": 140,
+      "description": "Add GP 36 (Minor (50%))\n[Idol of the Crescent Goddess]",
+      "timestamp": 1634693364
+    },
+    {
+      "ep": 75,
+      "gp": 140,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1634696052
+    },
+    {
+      "ep": 92,
+      "gp": 140,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1634698197
+    },
+    {
+      "ep": 109,
+      "gp": 140,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1634700178
     }
   ]
 }

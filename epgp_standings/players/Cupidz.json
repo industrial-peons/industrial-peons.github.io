@@ -1,6 +1,6 @@
 {
-  "ep": 186,
-  "gp": 240,
+  "ep": 199,
+  "gp": 228,
   "log": [
     {
       "ep": 0,
@@ -121,6 +121,42 @@
       "gp": 240,
       "description": null,
       "timestamp": 1634266936
+    },
+    {
+      "ep": 148,
+      "gp": 240,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634689602
+    },
+    {
+      "ep": 148,
+      "gp": 192,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634689615
+    },
+    {
+      "ep": 165,
+      "gp": 192,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1634696051
+    },
+    {
+      "ep": 165,
+      "gp": 228,
+      "description": "Add GP 36 (Minor (50%))\n[Totem of the Maelstrom]",
+      "timestamp": 1634697657
+    },
+    {
+      "ep": 182,
+      "gp": 228,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1634698197
+    },
+    {
+      "ep": 199,
+      "gp": 228,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1634700178
     }
   ]
 }

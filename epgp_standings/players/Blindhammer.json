@@ -1,6 +1,6 @@
 {
-  "ep": 212,
-  "gp": 93,
+  "ep": 220,
+  "gp": 85,
   "log": [
     {
       "ep": 0,
@@ -379,6 +379,42 @@
       "gp": 93,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1634094206
+    },
+    {
+      "ep": 169,
+      "gp": 93,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634689602
+    },
+    {
+      "ep": 169,
+      "gp": 82,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634689615
+    },
+    {
+      "ep": 186,
+      "gp": 82,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1634696051
+    },
+    {
+      "ep": 186,
+      "gp": 85,
+      "description": "Add GP 3 (Greed (10%))\n[Plans: Boots of the Protector]",
+      "timestamp": 1634696561
+    },
+    {
+      "ep": 203,
+      "gp": 85,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1634698197
+    },
+    {
+      "ep": 220,
+      "gp": 85,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1634700178
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 413,
-  "gp": 186,
+  "ep": 381,
+  "gp": 164,
   "log": [
     {
       "ep": 0,
@@ -445,6 +445,54 @@
       "gp": 186,
       "description": "Add EP +68 (Bench adjustment)",
       "timestamp": 1634272015
+    },
+    {
+      "ep": 330,
+      "gp": 186,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634689599
+    },
+    {
+      "ep": 330,
+      "gp": 152,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634689609
+    },
+    {
+      "ep": 347,
+      "gp": 152,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1634696052
+    },
+    {
+      "ep": 364,
+      "gp": 152,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1634698198
+    },
+    {
+      "ep": 364,
+      "gp": 214,
+      "description": "Add GP 62 (Minor (50%))\n[Gloves of the Vanquished Champion]",
+      "timestamp": 1634698401
+    },
+    {
+      "ep": 364,
+      "gp": 152,
+      "description": "Subtract GP -62 (T5 gloves (backsies))",
+      "timestamp": 1634698643
+    },
+    {
+      "ep": 364,
+      "gp": 164,
+      "description": "Add GP +12 (Backsies shame)",
+      "timestamp": 1634698652
+    },
+    {
+      "ep": 381,
+      "gp": 164,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1634700178
     }
   ]
 }

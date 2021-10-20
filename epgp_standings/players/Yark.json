@@ -1,6 +1,6 @@
 {
-  "ep": 66,
-  "gp": 59,
+  "ep": 103,
+  "gp": 102,
   "log": [
     {
       "ep": 0,
@@ -289,6 +289,48 @@
       "gp": 59,
       "description": "25% weekly GP decay",
       "timestamp": 1634083824
+    },
+    {
+      "ep": 52,
+      "gp": 59,
+      "description": "20% weekly EP decay",
+      "timestamp": 1634689602
+    },
+    {
+      "ep": 52,
+      "gp": 56,
+      "description": "25% weekly GP decay",
+      "timestamp": 1634689615
+    },
+    {
+      "ep": 52,
+      "gp": 92,
+      "description": "Add GP 36 (Minor (50%))\n[Band of Vile Aggression]",
+      "timestamp": 1634693297
+    },
+    {
+      "ep": 69,
+      "gp": 92,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1634696051
+    },
+    {
+      "ep": 86,
+      "gp": 92,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1634698197
+    },
+    {
+      "ep": 86,
+      "gp": 102,
+      "description": "Add GP 10 (Greed (10%))\n[Girdle of the Invulnerable]",
+      "timestamp": 1634698336
+    },
+    {
+      "ep": 103,
+      "gp": 102,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1634700178
     }
   ]
 }
