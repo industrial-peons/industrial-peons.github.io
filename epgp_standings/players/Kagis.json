@@ -1,6 +1,6 @@
 {
-  "ep": 199,
-  "gp": 367,
+  "ep": 240,
+  "gp": 295,
   "log": [
     {
       "ep": 0,
@@ -157,6 +157,60 @@
       "gp": 367,
       "description": "Subtract GP -17 (Refund)",
       "timestamp": 1634700939
+    },
+    {
+      "ep": 216,
+      "gp": 367,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1634867777
+    },
+    {
+      "ep": 216,
+      "gp": 377,
+      "description": "Add GP 10 (Greed (10%))\n[Talon of Al'ar]",
+      "timestamp": 1634867855
+    },
+    {
+      "ep": 233,
+      "gp": 377,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1634870459
+    },
+    {
+      "ep": 250,
+      "gp": 377,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1635299235
+    },
+    {
+      "ep": 267,
+      "gp": 377,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1635301402
+    },
+    {
+      "ep": 284,
+      "gp": 377,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1635303214
+    },
+    {
+      "ep": 301,
+      "gp": 377,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1635306658
+    },
+    {
+      "ep": 240,
+      "gp": 377,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635310614
+    },
+    {
+      "ep": 240,
+      "gp": 295,
+      "description": "25% weekly GP decay",
+      "timestamp": 1635310625
     }
   ]
 }

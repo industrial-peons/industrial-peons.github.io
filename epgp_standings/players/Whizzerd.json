@@ -1,0 +1,30 @@
+{
+  "ep": 27,
+  "gp": 50,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1624660245
+    },
+    {
+      "ep": 17,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1634867777
+    },
+    {
+      "ep": 34,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1634870460
+    },
+    {
+      "ep": 27,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635310615
+    }
+  ]
+}

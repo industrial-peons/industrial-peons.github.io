@@ -1,6 +1,6 @@
 {
-  "ep": 220,
-  "gp": 85,
+  "ep": 230,
+  "gp": 100,
   "log": [
     {
       "ep": 0,
@@ -415,6 +415,60 @@
       "gp": 85,
       "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
       "timestamp": 1634700178
+    },
+    {
+      "ep": 237,
+      "gp": 85,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1635299228
+    },
+    {
+      "ep": 254,
+      "gp": 85,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1635301395
+    },
+    {
+      "ep": 254,
+      "gp": 97,
+      "description": "Add GP 12 (Greed (10%))\n[Gloves of the Vanquished Champion]",
+      "timestamp": 1635301472
+    },
+    {
+      "ep": 254,
+      "gp": 107,
+      "description": "Add GP 10 (Greed (10%))\n[Boots of Courage Unending]",
+      "timestamp": 1635302410
+    },
+    {
+      "ep": 271,
+      "gp": 107,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1635303208
+    },
+    {
+      "ep": 288,
+      "gp": 107,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1635306652
+    },
+    {
+      "ep": 288,
+      "gp": 117,
+      "description": "Add GP 10 (Greed (10%))\n[Pauldrons of the Argent Sentinel]",
+      "timestamp": 1635306768
+    },
+    {
+      "ep": 230,
+      "gp": 117,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635310614
+    },
+    {
+      "ep": 230,
+      "gp": 100,
+      "description": "25% weekly GP decay",
+      "timestamp": 1635310625
     }
   ]
 }

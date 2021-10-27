@@ -1,6 +1,6 @@
 {
-  "ep": 238,
-  "gp": 253,
+  "ep": 190,
+  "gp": 202,
   "log": [
     {
       "ep": 0,
@@ -175,6 +175,18 @@
       "gp": 253,
       "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
       "timestamp": 1634700178
+    },
+    {
+      "ep": 190,
+      "gp": 253,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635310615
+    },
+    {
+      "ep": 190,
+      "gp": 202,
+      "description": "25% weekly GP decay",
+      "timestamp": 1635310625
     }
   ]
 }

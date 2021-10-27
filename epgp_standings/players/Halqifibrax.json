@@ -1,6 +1,6 @@
 {
-  "ep": 327,
-  "gp": 515,
+  "ep": 343,
+  "gp": 425,
   "log": [
     {
       "ep": 0,
@@ -481,6 +481,60 @@
       "gp": 515,
       "description": "Add GP 73 (Full Price)\n[Frayed Tether of the Drowned]",
       "timestamp": 1634700321
+    },
+    {
+      "ep": 344,
+      "gp": 515,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1634867777
+    },
+    {
+      "ep": 344,
+      "gp": 551,
+      "description": "Add GP 36 (Minor (50%))\n[Band of Al'ar]",
+      "timestamp": 1634867923
+    },
+    {
+      "ep": 361,
+      "gp": 551,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1634870459
+    },
+    {
+      "ep": 378,
+      "gp": 551,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1635299228
+    },
+    {
+      "ep": 395,
+      "gp": 551,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1635301395
+    },
+    {
+      "ep": 412,
+      "gp": 551,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1635303208
+    },
+    {
+      "ep": 429,
+      "gp": 551,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1635306652
+    },
+    {
+      "ep": 343,
+      "gp": 551,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635310614
+    },
+    {
+      "ep": 343,
+      "gp": 425,
+      "description": "25% weekly GP decay",
+      "timestamp": 1635310625
     }
   ]
 }

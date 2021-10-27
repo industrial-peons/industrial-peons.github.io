@@ -1,0 +1,66 @@
+{
+  "ep": 81,
+  "gp": 57,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1633029927
+    },
+    {
+      "ep": 17,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1634867776
+    },
+    {
+      "ep": 34,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1634870459
+    },
+    {
+      "ep": 51,
+      "gp": 50,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1635299228
+    },
+    {
+      "ep": 68,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1635301395
+    },
+    {
+      "ep": 85,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1635303208
+    },
+    {
+      "ep": 102,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1635306652
+    },
+    {
+      "ep": 102,
+      "gp": 60,
+      "description": "Add GP 10 (Greed (10%))\n[Serpent-Coil Braid]",
+      "timestamp": 1635306835
+    },
+    {
+      "ep": 81,
+      "gp": 60,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635310608
+    },
+    {
+      "ep": 81,
+      "gp": 57,
+      "description": "25% weekly GP decay",
+      "timestamp": 1635310619
+    }
+  ]
+}
