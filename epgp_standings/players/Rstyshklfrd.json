@@ -1,6 +1,6 @@
 {
-  "ep": 395,
-  "gp": 250,
+  "ep": 375,
+  "gp": 162,
   "log": [
     {
       "ep": 0,
@@ -523,6 +523,84 @@
       "gp": 250,
       "description": "Add EP 17 (Hazard pay)",
       "timestamp": 1635479196
+    },
+    {
+      "ep": 316,
+      "gp": 250,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635900435
+    },
+    {
+      "ep": 316,
+      "gp": 200,
+      "description": "25% weekly GP decay",
+      "timestamp": 1635900447
+    },
+    {
+      "ep": 333,
+      "gp": 200,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1635904586
+    },
+    {
+      "ep": 350,
+      "gp": 200,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1635908036
+    },
+    {
+      "ep": 367,
+      "gp": 200,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1635910261
+    },
+    {
+      "ep": 384,
+      "gp": 200,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1636078225
+    },
+    {
+      "ep": 401,
+      "gp": 200,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1636081545
+    },
+    {
+      "ep": 418,
+      "gp": 200,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1636513750
+    },
+    {
+      "ep": 435,
+      "gp": 200,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1636515191
+    },
+    {
+      "ep": 452,
+      "gp": 200,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1636516541
+    },
+    {
+      "ep": 469,
+      "gp": 200,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1636518028
+    },
+    {
+      "ep": 375,
+      "gp": 200,
+      "description": "20% weekly EP decay",
+      "timestamp": 1636521982
+    },
+    {
+      "ep": 375,
+      "gp": 162,
+      "description": "25% weekly GP decay",
+      "timestamp": 1636521991
     }
   ]
 }

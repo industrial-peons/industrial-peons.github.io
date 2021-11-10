@@ -1,6 +1,6 @@
 {
-  "ep": 394,
-  "gp": 425,
+  "ep": 347,
+  "gp": 369,
   "log": [
     {
       "ep": 0,
@@ -553,6 +553,84 @@
       "gp": 425,
       "description": "Add EP 17 (Hazard pay)",
       "timestamp": 1635479195
+    },
+    {
+      "ep": 315,
+      "gp": 425,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635900435
+    },
+    {
+      "ep": 315,
+      "gp": 331,
+      "description": "25% weekly GP decay",
+      "timestamp": 1635900447
+    },
+    {
+      "ep": 332,
+      "gp": 331,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1635904586
+    },
+    {
+      "ep": 349,
+      "gp": 331,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1635908036
+    },
+    {
+      "ep": 366,
+      "gp": 331,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1635910261
+    },
+    {
+      "ep": 366,
+      "gp": 440,
+      "description": "Add GP 109 (Full Price)\n[Boots of the Resilient]",
+      "timestamp": 1635910326
+    },
+    {
+      "ep": 383,
+      "gp": 440,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1636513750
+    },
+    {
+      "ep": 400,
+      "gp": 440,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1636515191
+    },
+    {
+      "ep": 417,
+      "gp": 440,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1636516541
+    },
+    {
+      "ep": 434,
+      "gp": 440,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1636518028
+    },
+    {
+      "ep": 434,
+      "gp": 476,
+      "description": "Add GP 36 (Minor (50%))\n[The Seal of Danzalar]",
+      "timestamp": 1636518129
+    },
+    {
+      "ep": 347,
+      "gp": 476,
+      "description": "20% weekly EP decay",
+      "timestamp": 1636521982
+    },
+    {
+      "ep": 347,
+      "gp": 369,
+      "description": "25% weekly GP decay",
+      "timestamp": 1636521991
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 230,
-  "gp": 100,
+  "ep": 242,
+  "gp": 85,
   "log": [
     {
       "ep": 0,
@@ -469,6 +469,78 @@
       "gp": 100,
       "description": "25% weekly GP decay",
       "timestamp": 1635310625
+    },
+    {
+      "ep": 184,
+      "gp": 100,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635900435
+    },
+    {
+      "ep": 184,
+      "gp": 87,
+      "description": "25% weekly GP decay",
+      "timestamp": 1635900447
+    },
+    {
+      "ep": 201,
+      "gp": 87,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1635904586
+    },
+    {
+      "ep": 218,
+      "gp": 87,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1635908036
+    },
+    {
+      "ep": 235,
+      "gp": 87,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1635910261
+    },
+    {
+      "ep": 235,
+      "gp": 97,
+      "description": "Add GP 10 (Greed (10%))\n[Girdle of the Righteous Path]",
+      "timestamp": 1635910360
+    },
+    {
+      "ep": 252,
+      "gp": 97,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1636513750
+    },
+    {
+      "ep": 269,
+      "gp": 97,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1636515191
+    },
+    {
+      "ep": 286,
+      "gp": 97,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1636516541
+    },
+    {
+      "ep": 303,
+      "gp": 97,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1636518028
+    },
+    {
+      "ep": 242,
+      "gp": 97,
+      "description": "20% weekly EP decay",
+      "timestamp": 1636521978
+    },
+    {
+      "ep": 242,
+      "gp": 85,
+      "description": "25% weekly GP decay",
+      "timestamp": 1636521986
     }
   ]
 }

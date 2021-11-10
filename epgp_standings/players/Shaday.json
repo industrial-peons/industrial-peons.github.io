@@ -1,6 +1,6 @@
 {
-  "ep": 426,
-  "gp": 84,
+  "ep": 299,
+  "gp": 68,
   "log": [
     {
       "ep": 0,
@@ -535,6 +535,42 @@
       "gp": 84,
       "description": "Add EP 17 (Hazard pay)",
       "timestamp": 1635479196
+    },
+    {
+      "ep": 340,
+      "gp": 84,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635900435
+    },
+    {
+      "ep": 340,
+      "gp": 75,
+      "description": "25% weekly GP decay",
+      "timestamp": 1635900447
+    },
+    {
+      "ep": 357,
+      "gp": 75,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1635904586
+    },
+    {
+      "ep": 374,
+      "gp": 75,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1636513750
+    },
+    {
+      "ep": 299,
+      "gp": 75,
+      "description": "20% weekly EP decay",
+      "timestamp": 1636521983
+    },
+    {
+      "ep": 299,
+      "gp": 68,
+      "description": "25% weekly GP decay",
+      "timestamp": 1636521992
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 394,
-  "gp": 344,
+  "ep": 306,
+  "gp": 215,
   "log": [
     {
       "ep": 0,
@@ -523,6 +523,54 @@
       "gp": 344,
       "description": "Add EP 17 (Hazard pay)",
       "timestamp": 1635479195
+    },
+    {
+      "ep": 315,
+      "gp": 344,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635900439
+    },
+    {
+      "ep": 315,
+      "gp": 270,
+      "description": "25% weekly GP decay",
+      "timestamp": 1635900448
+    },
+    {
+      "ep": 332,
+      "gp": 270,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1636513750
+    },
+    {
+      "ep": 349,
+      "gp": 270,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1636515191
+    },
+    {
+      "ep": 366,
+      "gp": 270,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1636516541
+    },
+    {
+      "ep": 383,
+      "gp": 270,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1636518028
+    },
+    {
+      "ep": 306,
+      "gp": 270,
+      "description": "20% weekly EP decay",
+      "timestamp": 1636521978
+    },
+    {
+      "ep": 306,
+      "gp": 215,
+      "description": "25% weekly GP decay",
+      "timestamp": 1636521986
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 264,
-  "gp": 183,
+  "ep": 291,
+  "gp": 179,
   "log": [
     {
       "ep": 0,
@@ -211,6 +211,90 @@
       "gp": 183,
       "description": "Add EP 17 (Hazard pay)",
       "timestamp": 1635479195
+    },
+    {
+      "ep": 211,
+      "gp": 183,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635900435
+    },
+    {
+      "ep": 211,
+      "gp": 149,
+      "description": "25% weekly GP decay",
+      "timestamp": 1635900447
+    },
+    {
+      "ep": 228,
+      "gp": 149,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1635904586
+    },
+    {
+      "ep": 228,
+      "gp": 222,
+      "description": "Add GP 73 (Full Price)\n[Phoenix-Ring of Rebirth]",
+      "timestamp": 1635904792
+    },
+    {
+      "ep": 245,
+      "gp": 222,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1635908036
+    },
+    {
+      "ep": 262,
+      "gp": 222,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1635910261
+    },
+    {
+      "ep": 279,
+      "gp": 222,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1636078225
+    },
+    {
+      "ep": 296,
+      "gp": 222,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1636081545
+    },
+    {
+      "ep": 313,
+      "gp": 222,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1636513755
+    },
+    {
+      "ep": 330,
+      "gp": 222,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1636515195
+    },
+    {
+      "ep": 347,
+      "gp": 222,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1636516541
+    },
+    {
+      "ep": 364,
+      "gp": 222,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1636518028
+    },
+    {
+      "ep": 291,
+      "gp": 222,
+      "description": "20% weekly EP decay",
+      "timestamp": 1636521982
+    },
+    {
+      "ep": 291,
+      "gp": 179,
+      "description": "25% weekly GP decay",
+      "timestamp": 1636521991
     }
   ]
 }

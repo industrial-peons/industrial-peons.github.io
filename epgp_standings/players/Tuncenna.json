@@ -1,6 +1,6 @@
 {
-  "ep": 147,
-  "gp": 113,
+  "ep": 120,
+  "gp": 85,
   "log": [
     {
       "ep": 0,
@@ -433,6 +433,42 @@
       "gp": 113,
       "description": "25% weekly GP decay",
       "timestamp": 1635310627
+    },
+    {
+      "ep": 117,
+      "gp": 113,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635900440
+    },
+    {
+      "ep": 117,
+      "gp": 97,
+      "description": "25% weekly GP decay",
+      "timestamp": 1635900449
+    },
+    {
+      "ep": 134,
+      "gp": 97,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1636078232
+    },
+    {
+      "ep": 151,
+      "gp": 97,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1636081550
+    },
+    {
+      "ep": 120,
+      "gp": 97,
+      "description": "20% weekly EP decay",
+      "timestamp": 1636521983
+    },
+    {
+      "ep": 120,
+      "gp": 85,
+      "description": "25% weekly GP decay",
+      "timestamp": 1636521992
     }
   ]
 }

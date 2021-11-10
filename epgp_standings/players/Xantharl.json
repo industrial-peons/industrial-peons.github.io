@@ -1,6 +1,6 @@
 {
-  "ep": 244,
-  "gp": 525,
+  "ep": 224,
+  "gp": 398,
   "log": [
     {
       "ep": 0,
@@ -367,6 +367,66 @@
       "gp": 525,
       "description": "25% weekly GP decay",
       "timestamp": 1635310619
+    },
+    {
+      "ep": 195,
+      "gp": 525,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635900435
+    },
+    {
+      "ep": 195,
+      "gp": 406,
+      "description": "25% weekly GP decay",
+      "timestamp": 1635900447
+    },
+    {
+      "ep": 212,
+      "gp": 406,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1635904586
+    },
+    {
+      "ep": 212,
+      "gp": 515,
+      "description": "Add GP 109 (Full Price)\n[Gloves of the Searing Grip]",
+      "timestamp": 1635904707
+    },
+    {
+      "ep": 229,
+      "gp": 515,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1635908036
+    },
+    {
+      "ep": 246,
+      "gp": 515,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1635910261
+    },
+    {
+      "ep": 263,
+      "gp": 515,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1636078225
+    },
+    {
+      "ep": 280,
+      "gp": 515,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1636081545
+    },
+    {
+      "ep": 224,
+      "gp": 515,
+      "description": "20% weekly EP decay",
+      "timestamp": 1636521982
+    },
+    {
+      "ep": 224,
+      "gp": 398,
+      "description": "25% weekly GP decay",
+      "timestamp": 1636521991
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 132,
-  "gp": 50,
+  "ep": 206,
+  "gp": 108,
   "log": [
     {
       "ep": 0,
@@ -67,6 +67,96 @@
       "gp": 50,
       "description": "Add EP 17 (Hazard pay)",
       "timestamp": 1635479196
+    },
+    {
+      "ep": 105,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1635900440
+    },
+    {
+      "ep": 122,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1635904586
+    },
+    {
+      "ep": 139,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1635908036
+    },
+    {
+      "ep": 139,
+      "gp": 64,
+      "description": "Add GP 14 (Greed (10%))\n[Fel-Steel Warhelm]",
+      "timestamp": 1635908135
+    },
+    {
+      "ep": 156,
+      "gp": 64,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1635910261
+    },
+    {
+      "ep": 173,
+      "gp": 64,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1636078225
+    },
+    {
+      "ep": 190,
+      "gp": 64,
+      "description": "Add EP 17 (Hazard pay)",
+      "timestamp": 1636081545
+    },
+    {
+      "ep": 207,
+      "gp": 64,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1636513750
+    },
+    {
+      "ep": 224,
+      "gp": 64,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1636515191
+    },
+    {
+      "ep": 241,
+      "gp": 64,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1636516541
+    },
+    {
+      "ep": 241,
+      "gp": 118,
+      "description": "Add GP 54 (Minor (50%))\n[Warboots of Obliteration]",
+      "timestamp": 1636516621
+    },
+    {
+      "ep": 241,
+      "gp": 128,
+      "description": "Add GP 10 (Greed (10%))\n[Girdle of the Tidal Call]",
+      "timestamp": 1636516683
+    },
+    {
+      "ep": 258,
+      "gp": 128,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1636518029
+    },
+    {
+      "ep": 206,
+      "gp": 128,
+      "description": "20% weekly EP decay",
+      "timestamp": 1636521978
+    },
+    {
+      "ep": 206,
+      "gp": 108,
+      "description": "25% weekly GP decay",
+      "timestamp": 1636521986
     }
   ]
 }
