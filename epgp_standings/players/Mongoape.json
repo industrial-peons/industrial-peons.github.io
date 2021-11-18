@@ -1,6 +1,6 @@
 {
-  "ep": 372,
-  "gp": 165,
+  "ep": 389,
+  "gp": 176,
   "log": [
     {
       "ep": 0,
@@ -571,6 +571,60 @@
       "gp": 165,
       "description": "25% weekly GP decay",
       "timestamp": 1636521986
+    },
+    {
+      "ep": 389,
+      "gp": 165,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1636684569
+    },
+    {
+      "ep": 389,
+      "gp": 219,
+      "description": "Add GP 54 (Minor (50%))\n[Girdle of Fallen Stars]",
+      "timestamp": 1636685828
+    },
+    {
+      "ep": 406,
+      "gp": 219,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1636686222
+    },
+    {
+      "ep": 423,
+      "gp": 219,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1636687891
+    },
+    {
+      "ep": 338,
+      "gp": 219,
+      "description": "20% weekly EP decay",
+      "timestamp": 1637112998
+    },
+    {
+      "ep": 338,
+      "gp": 176,
+      "description": "25% weekly GP decay",
+      "timestamp": 1637113010
+    },
+    {
+      "ep": 355,
+      "gp": 176,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1637117092
+    },
+    {
+      "ep": 372,
+      "gp": 176,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1637119491
+    },
+    {
+      "ep": 389,
+      "gp": 176,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1637122393
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 347,
-  "gp": 369,
+  "ep": 369,
+  "gp": 355,
   "log": [
     {
       "ep": 0,
@@ -631,6 +631,66 @@
       "gp": 369,
       "description": "25% weekly GP decay",
       "timestamp": 1636521991
+    },
+    {
+      "ep": 364,
+      "gp": 369,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1636684569
+    },
+    {
+      "ep": 364,
+      "gp": 439,
+      "description": "Add GP +70 (Nether Vortex)",
+      "timestamp": 1636685913
+    },
+    {
+      "ep": 381,
+      "gp": 439,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1636686222
+    },
+    {
+      "ep": 398,
+      "gp": 439,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1636687891
+    },
+    {
+      "ep": 318,
+      "gp": 439,
+      "description": "20% weekly EP decay",
+      "timestamp": 1637112998
+    },
+    {
+      "ep": 318,
+      "gp": 341,
+      "description": "25% weekly GP decay",
+      "timestamp": 1637113010
+    },
+    {
+      "ep": 335,
+      "gp": 341,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1637117092
+    },
+    {
+      "ep": 352,
+      "gp": 341,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1637119491
+    },
+    {
+      "ep": 369,
+      "gp": 341,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1637122393
+    },
+    {
+      "ep": 369,
+      "gp": 355,
+      "description": "Add GP 14 (Greed (10%))\n[Greaves of the Bloodwarder]",
+      "timestamp": 1637122543
     }
   ]
 }

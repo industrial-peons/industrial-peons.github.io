@@ -1,6 +1,6 @@
 {
-  "ep": 154,
-  "gp": 50,
+  "ep": 215,
+  "gp": 216,
   "log": [
     {
       "ep": 0,
@@ -91,6 +91,66 @@
       "gp": 50,
       "description": "20% weekly EP decay",
       "timestamp": 1636521978
+    },
+    {
+      "ep": 171,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1636684569
+    },
+    {
+      "ep": 188,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1636686222
+    },
+    {
+      "ep": 188,
+      "gp": 175,
+      "description": "Add GP 125 (Full Price)\n[Pauldrons of the Vanquished Hero]",
+      "timestamp": 1636686325
+    },
+    {
+      "ep": 205,
+      "gp": 175,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1636687891
+    },
+    {
+      "ep": 164,
+      "gp": 175,
+      "description": "20% weekly EP decay",
+      "timestamp": 1637112998
+    },
+    {
+      "ep": 164,
+      "gp": 143,
+      "description": "25% weekly GP decay",
+      "timestamp": 1637113010
+    },
+    {
+      "ep": 181,
+      "gp": 143,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1637117092
+    },
+    {
+      "ep": 198,
+      "gp": 143,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1637119491
+    },
+    {
+      "ep": 198,
+      "gp": 216,
+      "description": "Add GP 73 (Full Price)\n[Bands of the Celestial Archer]",
+      "timestamp": 1637120459
+    },
+    {
+      "ep": 215,
+      "gp": 216,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1637122392
     }
   ]
 }

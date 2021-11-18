@@ -1,6 +1,6 @@
 {
-  "ep": 299,
-  "gp": 68,
+  "ep": 331,
+  "gp": 127,
   "log": [
     {
       "ep": 0,
@@ -571,6 +571,60 @@
       "gp": 68,
       "description": "25% weekly GP decay",
       "timestamp": 1636521992
+    },
+    {
+      "ep": 316,
+      "gp": 68,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1636684570
+    },
+    {
+      "ep": 333,
+      "gp": 68,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1636686222
+    },
+    {
+      "ep": 350,
+      "gp": 68,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1636687892
+    },
+    {
+      "ep": 350,
+      "gp": 153,
+      "description": "Add GP 85 (Full Price)\n[Wand of the Forgotten Star]",
+      "timestamp": 1636687987
+    },
+    {
+      "ep": 280,
+      "gp": 153,
+      "description": "20% weekly EP decay",
+      "timestamp": 1637112998
+    },
+    {
+      "ep": 280,
+      "gp": 127,
+      "description": "25% weekly GP decay",
+      "timestamp": 1637113010
+    },
+    {
+      "ep": 297,
+      "gp": 127,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1637117092
+    },
+    {
+      "ep": 314,
+      "gp": 127,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1637119491
+    },
+    {
+      "ep": 331,
+      "gp": 127,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1637122393
     }
   ]
 }

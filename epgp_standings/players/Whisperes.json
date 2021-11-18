@@ -1,6 +1,6 @@
 {
-  "ep": 381,
-  "gp": 73,
+  "ep": 396,
+  "gp": 77,
   "log": [
     {
       "ep": 0,
@@ -613,6 +613,60 @@
       "gp": 73,
       "description": "25% weekly GP decay",
       "timestamp": 1636521992
+    },
+    {
+      "ep": 398,
+      "gp": 73,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1636684570
+    },
+    {
+      "ep": 415,
+      "gp": 73,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1636686222
+    },
+    {
+      "ep": 415,
+      "gp": 87,
+      "description": "Add GP 14 (Greed (10%))\n[Cowl of the Grand Engineer]",
+      "timestamp": 1636686282
+    },
+    {
+      "ep": 432,
+      "gp": 87,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1636687892
+    },
+    {
+      "ep": 345,
+      "gp": 87,
+      "description": "20% weekly EP decay",
+      "timestamp": 1637112998
+    },
+    {
+      "ep": 345,
+      "gp": 77,
+      "description": "25% weekly GP decay",
+      "timestamp": 1637113010
+    },
+    {
+      "ep": 362,
+      "gp": 77,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1637117092
+    },
+    {
+      "ep": 379,
+      "gp": 77,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1637119491
+    },
+    {
+      "ep": 396,
+      "gp": 77,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1637122393
     }
   ]
 }

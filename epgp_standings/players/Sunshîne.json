@@ -1,6 +1,6 @@
 {
-  "ep": 206,
-  "gp": 108,
+  "ep": 256,
+  "gp": 147,
   "log": [
     {
       "ep": 0,
@@ -157,6 +157,60 @@
       "gp": 108,
       "description": "25% weekly GP decay",
       "timestamp": 1636521986
+    },
+    {
+      "ep": 223,
+      "gp": 108,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1636684570
+    },
+    {
+      "ep": 240,
+      "gp": 108,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1636686222
+    },
+    {
+      "ep": 257,
+      "gp": 108,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1636687891
+    },
+    {
+      "ep": 205,
+      "gp": 108,
+      "description": "20% weekly EP decay",
+      "timestamp": 1637112998
+    },
+    {
+      "ep": 205,
+      "gp": 93,
+      "description": "25% weekly GP decay",
+      "timestamp": 1637113010
+    },
+    {
+      "ep": 222,
+      "gp": 93,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1637117092
+    },
+    {
+      "ep": 222,
+      "gp": 147,
+      "description": "Add GP 54 (Minor (50%))\n[Gloves of the Searing Grip]",
+      "timestamp": 1637117173
+    },
+    {
+      "ep": 239,
+      "gp": 147,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1637119491
+    },
+    {
+      "ep": 256,
+      "gp": 147,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1637122393
     }
   ]
 }
