@@ -1,6 +1,6 @@
 {
-  "ep": 215,
-  "gp": 216,
+  "ep": 197,
+  "gp": 144,
   "log": [
     {
       "ep": 0,
@@ -151,6 +151,54 @@
       "gp": 216,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1637122392
+    },
+    {
+      "ep": 283,
+      "gp": 219,
+      "description": null,
+      "timestamp": 1637693491
+    },
+    {
+      "ep": 226,
+      "gp": 219,
+      "description": "20% weekly EP decay",
+      "timestamp": 1637693516
+    },
+    {
+      "ep": 226,
+      "gp": 176,
+      "description": null,
+      "timestamp": 1637693562
+    },
+    {
+      "ep": 241,
+      "gp": 176,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1637721726
+    },
+    {
+      "ep": 226,
+      "gp": 176,
+      "description": null,
+      "timestamp": 1637721812
+    },
+    {
+      "ep": 180,
+      "gp": 176,
+      "description": "20% weekly EP decay",
+      "timestamp": 1638321741
+    },
+    {
+      "ep": 180,
+      "gp": 144,
+      "description": "25% weekly GP decay",
+      "timestamp": 1638321760
+    },
+    {
+      "ep": 197,
+      "gp": 144,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1638327932
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 369,
-  "gp": 355,
+  "ep": 279,
+  "gp": 225,
   "log": [
     {
       "ep": 0,
@@ -691,6 +691,48 @@
       "gp": 355,
       "description": "Add GP 14 (Greed (10%))\n[Greaves of the Bloodwarder]",
       "timestamp": 1637122543
+    },
+    {
+      "ep": 437,
+      "gp": 362,
+      "description": null,
+      "timestamp": 1637693498
+    },
+    {
+      "ep": 349,
+      "gp": 362,
+      "description": "20% weekly EP decay",
+      "timestamp": 1637693520
+    },
+    {
+      "ep": 349,
+      "gp": 284,
+      "description": null,
+      "timestamp": 1637693562
+    },
+    {
+      "ep": 364,
+      "gp": 284,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1637721726
+    },
+    {
+      "ep": 349,
+      "gp": 284,
+      "description": null,
+      "timestamp": 1637721812
+    },
+    {
+      "ep": 279,
+      "gp": 284,
+      "description": "20% weekly EP decay",
+      "timestamp": 1638321741
+    },
+    {
+      "ep": 279,
+      "gp": 225,
+      "description": "25% weekly GP decay",
+      "timestamp": 1638321760
     }
   ]
 }

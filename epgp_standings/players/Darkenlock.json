@@ -1,6 +1,6 @@
 {
-  "ep": 325,
-  "gp": 247,
+  "ep": 268,
+  "gp": 160,
   "log": [
     {
       "ep": 0,
@@ -421,6 +421,54 @@
       "gp": 247,
       "description": "Add GP 85 (Full Price)\n[Wand of the Forgotten Star]",
       "timestamp": 1637122462
+    },
+    {
+      "ep": 393,
+      "gp": 247,
+      "description": null,
+      "timestamp": 1637693498
+    },
+    {
+      "ep": 314,
+      "gp": 247,
+      "description": "20% weekly EP decay",
+      "timestamp": 1637693520
+    },
+    {
+      "ep": 314,
+      "gp": 197,
+      "description": null,
+      "timestamp": 1637693562
+    },
+    {
+      "ep": 329,
+      "gp": 197,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1637721726
+    },
+    {
+      "ep": 314,
+      "gp": 197,
+      "description": null,
+      "timestamp": 1637721812
+    },
+    {
+      "ep": 251,
+      "gp": 197,
+      "description": "20% weekly EP decay",
+      "timestamp": 1638321741
+    },
+    {
+      "ep": 251,
+      "gp": 160,
+      "description": "25% weekly GP decay",
+      "timestamp": 1638321760
+    },
+    {
+      "ep": 268,
+      "gp": 160,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1638327932
     }
   ]
 }

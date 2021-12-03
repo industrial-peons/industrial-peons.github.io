@@ -1,6 +1,6 @@
 {
-  "ep": 405,
-  "gp": 74,
+  "ep": 319,
+  "gp": 223,
   "log": [
     {
       "ep": 0,
@@ -649,6 +649,60 @@
       "gp": 74,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1637122393
+    },
+    {
+      "ep": 473,
+      "gp": 136,
+      "description": null,
+      "timestamp": 1637693499
+    },
+    {
+      "ep": 378,
+      "gp": 136,
+      "description": "20% weekly EP decay",
+      "timestamp": 1637693521
+    },
+    {
+      "ep": 378,
+      "gp": 114,
+      "description": null,
+      "timestamp": 1637693563
+    },
+    {
+      "ep": 393,
+      "gp": 114,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1637721726
+    },
+    {
+      "ep": 378,
+      "gp": 114,
+      "description": null,
+      "timestamp": 1637721812
+    },
+    {
+      "ep": 302,
+      "gp": 114,
+      "description": "20% weekly EP decay",
+      "timestamp": 1638321742
+    },
+    {
+      "ep": 302,
+      "gp": 98,
+      "description": "25% weekly GP decay",
+      "timestamp": 1638321759
+    },
+    {
+      "ep": 319,
+      "gp": 98,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1638327932
+    },
+    {
+      "ep": 319,
+      "gp": 223,
+      "description": "Add GP 125 (Full Price)\n[Pauldrons of the Vanquished Defender]",
+      "timestamp": 1638328197
     }
   ]
 }

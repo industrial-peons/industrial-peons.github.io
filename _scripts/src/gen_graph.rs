@@ -79,23 +79,27 @@ fn load_standings(vars_path: &Path) -> BTreeMap<String, PlayerInfo> {
                     .get::<_, Table>(9)
                     .unwrap()
                     .sequence_values::<Table>()
-                    .map(|standing| {
-                        let standing = standing.unwrap();
-                        Standing {
-                            ep: standing.get(1).unwrap(),
-                            gp: standing.get(2).unwrap(),
-                            description: None,
-                            timestamp: Pacific
-                                .from_local_datetime(
-                                    &NaiveDateTime::parse_from_str(
-                                        &standing.get::<_, String>(3).unwrap(),
-                                        "%m/%d/%y %H:%M:%S",
-                                    )
-                                    .unwrap(),
-                                )
-                                .unwrap()
-                                .timestamp(),
+                    .filter_map(|standing| match standing {
+                        Ok(s) => Some(s),
+                        Err(e) => {
+                            println!("Error parsing standing for {}: {:?}", member, e);
+                            None
                         }
+                    })
+                    .map(|standing| Standing {
+                        ep: standing.get(1).unwrap(),
+                        gp: standing.get(2).unwrap(),
+                        description: None,
+                        timestamp: Pacific
+                            .from_local_datetime(
+                                &NaiveDateTime::parse_from_str(
+                                    &standing.get::<_, String>(3).unwrap(),
+                                    "%m/%d/%y %H:%M:%S",
+                                )
+                                .unwrap(),
+                            )
+                            .unwrap()
+                            .timestamp(),
                     })
                     .collect::<Vec<_>>();
                 if standings.len() > 1 {

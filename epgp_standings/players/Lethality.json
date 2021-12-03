@@ -1,0 +1,48 @@
+{
+  "ep": 60,
+  "gp": 50,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1625287476
+    },
+    {
+      "ep": 68,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1637693497
+    },
+    {
+      "ep": 54,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1637693519
+    },
+    {
+      "ep": 69,
+      "gp": 50,
+      "description": "Add EP 15 (Killed High King Maulgar)",
+      "timestamp": 1637721726
+    },
+    {
+      "ep": 54,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1637721811
+    },
+    {
+      "ep": 43,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1638321738
+    },
+    {
+      "ep": 60,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1638327932
+    }
+  ]
+}

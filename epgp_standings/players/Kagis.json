@@ -1,6 +1,6 @@
 {
-  "ep": 338,
-  "gp": 410,
+  "ep": 276,
+  "gp": 252,
   "log": [
     {
       "ep": 0,
@@ -373,6 +373,42 @@
       "gp": 410,
       "description": "Add GP 73 (Full Price)\n[Bands of the Celestial Archer]",
       "timestamp": 1637123386
+    },
+    {
+      "ep": 406,
+      "gp": 410,
+      "description": null,
+      "timestamp": 1637693498
+    },
+    {
+      "ep": 324,
+      "gp": 410,
+      "description": "20% weekly EP decay",
+      "timestamp": 1637693520
+    },
+    {
+      "ep": 324,
+      "gp": 320,
+      "description": null,
+      "timestamp": 1637693562
+    },
+    {
+      "ep": 259,
+      "gp": 320,
+      "description": "20% weekly EP decay",
+      "timestamp": 1638321738
+    },
+    {
+      "ep": 259,
+      "gp": 252,
+      "description": "25% weekly GP decay",
+      "timestamp": 1638321758
+    },
+    {
+      "ep": 276,
+      "gp": 252,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1638327932
     }
   ]
 }
