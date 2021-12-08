@@ -1,4 +1,6 @@
 
+_Updated 12/08/2021._
+
 | Name | Effort points | Gear points | Priority |
 |:-----|:-------------:|:-----------:|---------:|
 |Actionjakk|12|50|0.24|
@@ -25,8 +27,8 @@
 |Kagis|271|201|1.35|
 |Kalium|30|65|0.46|
 |Kathnia|221|149|1.48|
-|Lethality|48|50|0.96|
-|Lethelity|51|50|1.02|
+|Lethality|99|50|1.98|
+|Lethelity|99|50|1.98|
 |Medienna|32|50|0.64|
 |Menatplay|148|144|1.03|
 |Midnìght|1|50|0.02|

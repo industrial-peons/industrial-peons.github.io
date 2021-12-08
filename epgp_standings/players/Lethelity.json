@@ -1,5 +1,5 @@
 {
-  "ep": 51,
+  "ep": 99,
   "gp": 50,
   "log": [
     {
@@ -37,6 +37,12 @@
       "gp": 50,
       "description": "Subtract GP -109 (Belt)",
       "timestamp": 1638940290
+    },
+    {
+      "ep": 99,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1638994638
     }
   ]
 }

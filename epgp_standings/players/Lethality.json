@@ -1,5 +1,5 @@
 {
-  "ep": 48,
+  "ep": 99,
   "gp": 50,
   "log": [
     {
@@ -49,6 +49,12 @@
       "gp": 50,
       "description": "20% weekly EP decay",
       "timestamp": 1638907821
+    },
+    {
+      "ep": 99,
+      "gp": 50,
+      "description": "Add EP +51",
+      "timestamp": 1638994639
     }
   ]
 }

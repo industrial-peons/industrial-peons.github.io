@@ -395,9 +395,12 @@ fn write_data(standings: &BTreeMap<String, PlayerInfo>) {
         write_dir.join("_standings_table.md"),
         format!(
             "
+_Updated {}._
+
 | Name | Effort points | Gear points | Priority |
 |:-----|:-------------:|:-----------:|---------:|
 {}",
+            chrono::Local::today().format("%m/%d/%Y"),
             standings
                 .iter()
                 .map(|(name, info)| format!(
