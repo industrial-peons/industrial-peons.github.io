@@ -1,0 +1,42 @@
+{
+  "ep": 51,
+  "gp": 50,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1637693496
+    },
+    {
+      "ep": 17,
+      "gp": 50,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1638933932
+    },
+    {
+      "ep": 34,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1638937172
+    },
+    {
+      "ep": 34,
+      "gp": 159,
+      "description": "Add GP 109 (Full Price)\n[Girdle of the Invulnerable]",
+      "timestamp": 1638937470
+    },
+    {
+      "ep": 51,
+      "gp": 159,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1638939842
+    },
+    {
+      "ep": 51,
+      "gp": 50,
+      "description": "Subtract GP -109 (Belt)",
+      "timestamp": 1638940290
+    }
+  ]
+}

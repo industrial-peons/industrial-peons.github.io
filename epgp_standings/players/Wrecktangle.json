@@ -1,6 +1,6 @@
 {
-  "ep": 17,
-  "gp": 50,
+  "ep": 64,
+  "gp": 317,
   "log": [
     {
       "ep": 0,
@@ -13,6 +13,48 @@
       "gp": 50,
       "description": "Add EP 17 (Killed Void Reaver)",
       "timestamp": 1638327932
+    },
+    {
+      "ep": 13,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1638907816
+    },
+    {
+      "ep": 13,
+      "gp": 104,
+      "description": "Add GP 54 (Minor (50%))\n[Pauldrons of the Wardancer]",
+      "timestamp": 1638931234
+    },
+    {
+      "ep": 13,
+      "gp": 60,
+      "description": "Subtract GP -44 (Take backsies)",
+      "timestamp": 1638933298
+    },
+    {
+      "ep": 30,
+      "gp": 60,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1638933932
+    },
+    {
+      "ep": 30,
+      "gp": 317,
+      "description": "Add GP 257 (Full Price)\n[Mallet of the Tides]",
+      "timestamp": 1638934054
+    },
+    {
+      "ep": 47,
+      "gp": 317,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1638937172
+    },
+    {
+      "ep": 64,
+      "gp": 317,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1638939841
     }
   ]
 }

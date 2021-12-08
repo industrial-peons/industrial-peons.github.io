@@ -1,6 +1,6 @@
 {
-  "ep": 319,
-  "gp": 223,
+  "ep": 255,
+  "gp": 179,
   "log": [
     {
       "ep": 0,
@@ -703,6 +703,18 @@
       "gp": 223,
       "description": "Add GP 125 (Full Price)\n[Pauldrons of the Vanquished Defender]",
       "timestamp": 1638328197
+    },
+    {
+      "ep": 255,
+      "gp": 223,
+      "description": "20% weekly EP decay",
+      "timestamp": 1638907822
+    },
+    {
+      "ep": 255,
+      "gp": 179,
+      "description": "25% weekly GP decay",
+      "timestamp": 1638907828
     }
   ]
 }

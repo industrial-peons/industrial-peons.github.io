@@ -1,6 +1,6 @@
 {
-  "ep": 197,
-  "gp": 144,
+  "ep": 208,
+  "gp": 287,
   "log": [
     {
       "ep": 0,
@@ -199,6 +199,42 @@
       "gp": 144,
       "description": "Add EP 17 (Killed Void Reaver)",
       "timestamp": 1638327932
+    },
+    {
+      "ep": 157,
+      "gp": 144,
+      "description": "20% weekly EP decay",
+      "timestamp": 1638907821
+    },
+    {
+      "ep": 157,
+      "gp": 120,
+      "description": "25% weekly GP decay",
+      "timestamp": 1638907826
+    },
+    {
+      "ep": 174,
+      "gp": 120,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1638933932
+    },
+    {
+      "ep": 191,
+      "gp": 120,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1638937172
+    },
+    {
+      "ep": 208,
+      "gp": 120,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1638939842
+    },
+    {
+      "ep": 208,
+      "gp": 287,
+      "description": "Add GP 167 (Full Price)\n[Leggings of the Vanquished Hero]",
+      "timestamp": 1638940060
     }
   ]
 }
