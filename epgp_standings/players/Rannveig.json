@@ -1,6 +1,6 @@
 {
-  "ep": 275,
-  "gp": 286,
+  "ep": 369,
+  "gp": 262,
   "log": [
     {
       "ep": 0,
@@ -781,6 +781,96 @@
       "gp": 286,
       "description": "Add GP 167 (Full Price)\n[Leggings of the Vanquished Champion]",
       "timestamp": 1638939919
+    },
+    {
+      "ep": 292,
+      "gp": 286,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1639109397
+    },
+    {
+      "ep": 309,
+      "gp": 286,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1639111317
+    },
+    {
+      "ep": 247,
+      "gp": 286,
+      "description": "20% weekly EP decay",
+      "timestamp": 1639532012
+    },
+    {
+      "ep": 247,
+      "gp": 227,
+      "description": "25% weekly GP decay",
+      "timestamp": 1639532022
+    },
+    {
+      "ep": 264,
+      "gp": 227,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1639535969
+    },
+    {
+      "ep": 264,
+      "gp": 484,
+      "description": "Add GP 257 (Full Price)\n[Netherbane]",
+      "timestamp": 1639536086
+    },
+    {
+      "ep": 264,
+      "gp": 227,
+      "description": "Subtract GP -257 (\"Cool\" \"axe\")",
+      "timestamp": 1639536966
+    },
+    {
+      "ep": 264,
+      "gp": 252,
+      "description": "Add GP +25 (Shame penalty)",
+      "timestamp": 1639536974
+    },
+    {
+      "ep": 281,
+      "gp": 252,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1639537732
+    },
+    {
+      "ep": 298,
+      "gp": 252,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1639709056
+    },
+    {
+      "ep": 318,
+      "gp": 252,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1639710171
+    },
+    {
+      "ep": 335,
+      "gp": 252,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1639712104
+    },
+    {
+      "ep": 352,
+      "gp": 252,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1639714048
+    },
+    {
+      "ep": 369,
+      "gp": 252,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1639715132
+    },
+    {
+      "ep": 369,
+      "gp": 262,
+      "description": "Add GP 10 (Greed (10%))\n[Mantle of the Tireless Tracker]",
+      "timestamp": 1639715219
     }
   ]
 }

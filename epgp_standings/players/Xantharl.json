@@ -1,6 +1,6 @@
 {
-  "ep": 216,
-  "gp": 195,
+  "ep": 322,
+  "gp": 197,
   "log": [
     {
       "ep": 0,
@@ -541,6 +541,84 @@
       "gp": 195,
       "description": "Add GP 36 (Minor (50%))\n[Frayed Tether of the Drowned]",
       "timestamp": 1638939990
+    },
+    {
+      "ep": 233,
+      "gp": 195,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1639109397
+    },
+    {
+      "ep": 250,
+      "gp": 195,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1639111317
+    },
+    {
+      "ep": 200,
+      "gp": 195,
+      "description": "20% weekly EP decay",
+      "timestamp": 1639532012
+    },
+    {
+      "ep": 200,
+      "gp": 158,
+      "description": "25% weekly GP decay",
+      "timestamp": 1639532021
+    },
+    {
+      "ep": 217,
+      "gp": 158,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1639535968
+    },
+    {
+      "ep": 234,
+      "gp": 158,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1639537732
+    },
+    {
+      "ep": 234,
+      "gp": 161,
+      "description": "Add GP 3 (Greed (10%))\n[Pattern: Boots of Utter Darkness]",
+      "timestamp": 1639708135
+    },
+    {
+      "ep": 251,
+      "gp": 161,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1639709056
+    },
+    {
+      "ep": 251,
+      "gp": 197,
+      "description": "Add GP 36 (Minor (50%))\n[Ancestral Ring of Conquest]",
+      "timestamp": 1639709212
+    },
+    {
+      "ep": 271,
+      "gp": 197,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1639710171
+    },
+    {
+      "ep": 288,
+      "gp": 197,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1639712104
+    },
+    {
+      "ep": 305,
+      "gp": 197,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1639714047
+    },
+    {
+      "ep": 322,
+      "gp": 197,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1639715132
     }
   ]
 }

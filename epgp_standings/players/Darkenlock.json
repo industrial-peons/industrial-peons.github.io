@@ -1,6 +1,6 @@
 {
-  "ep": 265,
-  "gp": 132,
+  "ep": 273,
+  "gp": 111,
   "log": [
     {
       "ep": 0,
@@ -499,6 +499,42 @@
       "gp": 132,
       "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
       "timestamp": 1638939841
+    },
+    {
+      "ep": 282,
+      "gp": 132,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1639109397
+    },
+    {
+      "ep": 299,
+      "gp": 132,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1639111316
+    },
+    {
+      "ep": 239,
+      "gp": 132,
+      "description": "20% weekly EP decay",
+      "timestamp": 1639532016
+    },
+    {
+      "ep": 239,
+      "gp": 111,
+      "description": "25% weekly GP decay",
+      "timestamp": 1639532024
+    },
+    {
+      "ep": 256,
+      "gp": 111,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1639535968
+    },
+    {
+      "ep": 273,
+      "gp": 111,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1639537732
     }
   ]
 }

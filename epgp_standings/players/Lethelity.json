@@ -1,6 +1,6 @@
 {
-  "ep": 99,
-  "gp": 50,
+  "ep": 228,
+  "gp": 317,
   "log": [
     {
       "ep": 0,
@@ -43,6 +43,78 @@
       "gp": 50,
       "description": null,
       "timestamp": 1638994638
+    },
+    {
+      "ep": 116,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1639109397
+    },
+    {
+      "ep": 133,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1639111316
+    },
+    {
+      "ep": 106,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1639532012
+    },
+    {
+      "ep": 123,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1639535968
+    },
+    {
+      "ep": 140,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1639537732
+    },
+    {
+      "ep": 157,
+      "gp": 50,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1639709056
+    },
+    {
+      "ep": 177,
+      "gp": 50,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1639710171
+    },
+    {
+      "ep": 194,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1639712104
+    },
+    {
+      "ep": 194,
+      "gp": 307,
+      "description": "Add GP 257 (Full Price)\n[Fang of the Leviathan]",
+      "timestamp": 1639712275
+    },
+    {
+      "ep": 194,
+      "gp": 317,
+      "description": "Add GP 10 (Greed (10%))\n[Boots of Courage Unending]",
+      "timestamp": 1639713215
+    },
+    {
+      "ep": 211,
+      "gp": 317,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1639714047
+    },
+    {
+      "ep": 228,
+      "gp": 317,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1639715132
     }
   ]
 }

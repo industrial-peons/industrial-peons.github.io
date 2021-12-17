@@ -1,6 +1,6 @@
 {
-  "ep": 208,
-  "gp": 287,
+  "ep": 288,
+  "gp": 484,
   "log": [
     {
       "ep": 0,
@@ -235,6 +235,66 @@
       "gp": 287,
       "description": "Add GP 167 (Full Price)\n[Leggings of the Vanquished Hero]",
       "timestamp": 1638940060
+    },
+    {
+      "ep": 166,
+      "gp": 287,
+      "description": "20% weekly EP decay",
+      "timestamp": 1639532012
+    },
+    {
+      "ep": 166,
+      "gp": 227,
+      "description": "25% weekly GP decay",
+      "timestamp": 1639532021
+    },
+    {
+      "ep": 183,
+      "gp": 227,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1639535968
+    },
+    {
+      "ep": 183,
+      "gp": 484,
+      "description": "Add GP +257 (\"Cool\" \"axe\")",
+      "timestamp": 1639536959
+    },
+    {
+      "ep": 200,
+      "gp": 484,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1639537732
+    },
+    {
+      "ep": 217,
+      "gp": 484,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1639709056
+    },
+    {
+      "ep": 237,
+      "gp": 484,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1639710171
+    },
+    {
+      "ep": 254,
+      "gp": 484,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1639712104
+    },
+    {
+      "ep": 271,
+      "gp": 484,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1639714047
+    },
+    {
+      "ep": 288,
+      "gp": 484,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1639715132
     }
   ]
 }
