@@ -13,20 +13,18 @@ We also periodically back up our EP/GP totals to the website. To see a recently 
 
 ## Raid Schedule
 
-We raid Serpentshrine Cavern on Tuesdays, Gruul/Magtheridon on Wednesdays, The Eye on Thursdays, and Karazhan on Friday, Saturday, and Sunday. Monday is kept free as an overflow night in case our SSC or TE raid has to be cut short.
-
-Or, in table form:
+We do tier 5 content on Tuesdays and Thursdays (alternating which raid is on Tuesday and which is on Thursday every week), Gruul/Mag on Wednesdays, and Karazhan on Saturdays, Sunday, and Mondays.
 
 <div class="narrow-table">
 
 | Day       |                            Raid |
 | :-------- | ------------------------------: |
-| Tuesday   |            Serpentshrine Cavern |
+| Tuesday   |      SSC/TK (alternating weeks) |
 | Wednesday | Gruul's Lair/Magtheridon's Lair |
-| Thursday  |                         The Eye |
-| Friday    |                        Karazhan |
+| Thursday  |      SSC/TK (alternating weeks) |
+| Friday    |                                 |
 | Saturday  |                        Karazhan |
 | Sunday    |                        Karazhan |
-| Monday    |              Dedicated overflow |
+| Monday    |                        Karazhan |
 
 </div>
