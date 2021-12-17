@@ -5,7 +5,7 @@ title: SSC
 
 # Serpentshrine Cavern
 
-**_Note: This document is considered to be the source of truth whenever it differs from the Google Doc.._**
+![Peons showing Captain Planet villains that their evil ways will never succeed]({{site.baseurl}}/assets/vashj.jpg)
 
 | Name                                | Prio                                                                                                                                                                                           |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

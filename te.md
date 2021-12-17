@@ -5,8 +5,6 @@ title: TE
 
 # The Eye
 
-**_Note: This document is considered to be the source of truth whenever it differs from the Google Doc.._**
-
 | Name                                  | Prio                                                                                                                                                                                           |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sunshower Light Cloak                 |                                                                                                                                                                                                |
