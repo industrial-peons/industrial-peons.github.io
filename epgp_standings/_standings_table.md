@@ -3,7 +3,6 @@ _Updated 12/21/2021._
 
 | Name | Effort points | Gear points | Priority |
 |:-----|:-------------:|:-----------:|---------:|
-|Actionjakk|7|50|0.14|
 |Anzo|190|62|3.06|
 |Atalon|190|62|3.06|
 |Balthazarre|319|90|3.54|
@@ -18,32 +17,22 @@ _Updated 12/21/2021._
 |Drekrigg|247|375|0.66|
 |Exzackto|332|104|3.19|
 |Fettish|108|62|1.74|
-|Gippal|17|50|0.34|
 |Grimaxe|131|55|2.38|
 |Halqifibrax|142|123|1.15|
-|Herbsack|9|50|0.18|
-|Hezmina|3|50|0.06|
 |Icelancespam|287|481|0.60|
 |Jokerjay|301|88|3.42|
 |Kagis|287|481|0.60|
-|Kalium|19|58|0.33|
-|Karashota|17|50|0.34|
 |Kathnia|140|105|1.33|
 |Lethality|199|250|0.80|
 |Lethelity|199|250|0.80|
-|Medienna|20|50|0.40|
 |Menatplay|164|350|0.47|
 |Mongoape|190|87|2.18|
-|Nate|17|50|0.34|
 |Rannveig|312|209|1.49|
-|Ranvier|9|50|0.18|
 |Rstyshklfrd|327|104|3.14|
 |Savahe|332|266|1.25|
 |Scrimmage|205|87|2.36|
 |Shaday|307|67|4.58|
 |Soosh|163|122|1.34|
-|Specific|30|64|0.47|
-|Stumpn|17|50|0.34|
 |Sudafedpm|330|200|1.65|
 |Sunshîne|244|183|1.33|
 |Taikama|319|90|3.54|
@@ -55,5 +44,3 @@ _Updated 12/21/2021._
 |Wrecktangle|149|293|0.51|
 |Xantharl|274|160|1.71|
 |Xzkto|332|104|3.19|
-|Yark|21|53|0.40|
-|Zuggober|17|50|0.34|
