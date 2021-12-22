@@ -1,6 +1,6 @@
 {
-  "ep": 378,
-  "gp": 80,
+  "ep": 319,
+  "gp": 90,
   "log": [
     {
       "ep": 0,
@@ -709,6 +709,36 @@
       "gp": 80,
       "description": "Add EP 17 (Killed Morogrim Tidewalker)",
       "timestamp": 1639715132
+    },
+    {
+      "ep": 302,
+      "gp": 80,
+      "description": "20% weekly EP decay",
+      "timestamp": 1640116869
+    },
+    {
+      "ep": 302,
+      "gp": 72,
+      "description": "25% weekly GP decay",
+      "timestamp": 1640116877
+    },
+    {
+      "ep": 319,
+      "gp": 72,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1640140307
+    },
+    {
+      "ep": 319,
+      "gp": 107,
+      "description": "Add GP 35 (Full Price)\n[Nether Vortex]",
+      "timestamp": 1640141175
+    },
+    {
+      "ep": 319,
+      "gp": 90,
+      "description": "Subtract GP -17 (Minor refund for nether)",
+      "timestamp": 1640141384
     }
   ]
 }

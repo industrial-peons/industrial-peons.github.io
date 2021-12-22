@@ -1,6 +1,6 @@
 {
-  "ep": 356,
-  "gp": 101,
+  "ep": 301,
+  "gp": 88,
   "log": [
     {
       "ep": 0,
@@ -601,6 +601,24 @@
       "gp": 101,
       "description": "Add EP 17 (Killed Morogrim Tidewalker)",
       "timestamp": 1639715132
+    },
+    {
+      "ep": 284,
+      "gp": 101,
+      "description": "20% weekly EP decay",
+      "timestamp": 1640116869
+    },
+    {
+      "ep": 284,
+      "gp": 88,
+      "description": "25% weekly GP decay",
+      "timestamp": 1640116877
+    },
+    {
+      "ep": 301,
+      "gp": 88,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1640140307
     }
   ]
 }

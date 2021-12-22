@@ -1,6 +1,6 @@
 {
-  "ep": 369,
-  "gp": 262,
+  "ep": 312,
+  "gp": 209,
   "log": [
     {
       "ep": 0,
@@ -871,6 +871,24 @@
       "gp": 262,
       "description": "Add GP 10 (Greed (10%))\n[Mantle of the Tireless Tracker]",
       "timestamp": 1639715219
+    },
+    {
+      "ep": 295,
+      "gp": 262,
+      "description": "20% weekly EP decay",
+      "timestamp": 1640116864
+    },
+    {
+      "ep": 295,
+      "gp": 209,
+      "description": "25% weekly GP decay",
+      "timestamp": 1640116872
+    },
+    {
+      "ep": 312,
+      "gp": 209,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1640140307
     }
   ]
 }

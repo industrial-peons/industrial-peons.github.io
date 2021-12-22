@@ -1,6 +1,6 @@
 {
-  "ep": 273,
-  "gp": 111,
+  "ep": 235,
+  "gp": 95,
   "log": [
     {
       "ep": 0,
@@ -535,6 +535,24 @@
       "gp": 111,
       "description": "Add EP 17 (Killed Void Reaver)",
       "timestamp": 1639537732
+    },
+    {
+      "ep": 218,
+      "gp": 111,
+      "description": "20% weekly EP decay",
+      "timestamp": 1640116869
+    },
+    {
+      "ep": 218,
+      "gp": 95,
+      "description": "25% weekly GP decay",
+      "timestamp": 1640116877
+    },
+    {
+      "ep": 235,
+      "gp": 95,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1640140307
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "ep": 120,
+  "ep": 96,
   "gp": 50,
   "log": [
     {
@@ -103,6 +103,12 @@
       "gp": 50,
       "description": "Add EP 17 (Killed Morogrim Tidewalker)",
       "timestamp": 1639715132
+    },
+    {
+      "ep": 96,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1640116869
     }
   ]
 }
