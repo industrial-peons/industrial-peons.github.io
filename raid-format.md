@@ -6,8 +6,6 @@ has_toc: true
 
 # Industrial Peons TBC Raid Format
 
-**_Note: This document is considered to be the source of truth whenever it differs from the Google Doc.._**
-
 Welcome to the Peons! We’re the queer-friendly commie underdogs of Grobbulus, dedicated to proving that you can be a successful raid team without enabling the most toxic elements in gaming.
 
 We’re a democratically run guild, with votes on loot system and item priorities before every major content phase, and we elect our own guild leader. Our leadership core is 100% volunteer-based, with no benefits for being an officer other than a grisly view of how the sausage is made.
@@ -17,7 +15,7 @@ We’re a democratically run guild, with votes on loot system and item prioritie
 In general, we have the following list of expectations for each raider:
 
 - **First and foremost, attitude**. We take our nontoxic atmosphere seriously, so we have a _very_ strict “no gamer words” policy. We also might ask members to sit out if they start using personal attacks against other raiders, or otherwise take out frustration in unhealthy ways. We’re here because we love coming together as a community and playing games together, not because we’re trying to be the fastest on the server to kill Kil’jaeden.
-- **In raid and voice 30 minutes before first pull**. Invites start at 45 minutes before first pull, and we start pulling members off the bench at 15 minutes before first pull.
+- **In raid and voice 30 minutes before first pull**. Invites start at 45 minutes before first pull, and we start pulling members off the bench and searching for pugs at 15 minutes before first pull.
 - **Each raider is required to bring a full set of consumables**: elixirs/flask, food buff, weapon enchants (if applicable). We don’t require that raiders stay fully consumed for the entire time, but we will occasionally call for everyone to use their consumables for a tryhard boss attempt.
 - **Our raids run from 6:00 PM to 9:00 PM**. During times of difficult progression we appreciate people who can stay late, but we don’t expect it.
 - **We expect raiders’ gear to be gemmed and enchanted**, with blue quality gems for DPS, and high green quality gems for healers (although blue quality gems are a big plus!). If you’re struggling with the gold costs, feel free to give a shout to any @Jewelcrafters or @Enchanters in our professions channel in Discord, or hit up our official guild enchanter, Shaday, to see what mats she has on hand.
@@ -26,13 +24,17 @@ In general, we have the following list of expectations for each raider:
 
 ## Raid schedule
 
-We raid every Tuesday (and Thursday, once P2 begins) at 6:00 PM server time, with Monday as a dedicated cleanup day and Karazhan runs spread throughout the week. Signups for 10-player raids go out every Sunday night, and 25-player rosters go out every Monday.
+We raid current content every Tuesday and Thursday at 6:00 PM server time, with prior content runs spread throughout the week.
 
 ## EP/GP rules
 
+### Starting values
+
+Each new raider starts with an EP value equal to 50% of the highest EP among all raiders, and a GP value equal to 75% of the highest GP among all raiders. This avoids issues where new raider PR is wildly swingy over the course of their first few raids, while also making sure that their PR is in line with other raiders.
+
 ### How EP is awarded
 
-EP is awarded per boss kill in 25-player raids. We use the default values set by CEPGP, which start at 15 EP for High King Maulgar and go up to 24 EP for Kil’jaeden. No EP is awarded for 10-player raids or anything in vanilla.
+EP is awarded per boss kill in current content 25-player raids. We use the default values set by CEPGP, which start at 15 EP for High King Maulgar and go up to 24 EP for Kil’jaeden. No EP is awarded for prior content, 10-player raids, or anything in vanilla.
 
 Unlike in Classic, we will no longer be awarding an on-time bonus. We expect all raiders to either be in the raid on time, or to have communicated with their respective point-of-contact before the raid. If you are not in the raid 15 minutes before first pull (and you haven’t already discussed this with an officer and gotten the go-ahead to be late), your spot risks being given to someone on the bench. A repeated pattern of absences might jeopardize your spot in the main rotation.
 
