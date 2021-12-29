@@ -1,6 +1,6 @@
 {
-  "ep": 274,
-  "gp": 160,
+  "ep": 219,
+  "gp": 132,
   "log": [
     {
       "ep": 0,
@@ -637,6 +637,18 @@
       "gp": 160,
       "description": "Add EP 17 (Killed Al'ar)",
       "timestamp": 1640140307
+    },
+    {
+      "ep": 219,
+      "gp": 160,
+      "description": "20% weekly EP decay",
+      "timestamp": 1640739798
+    },
+    {
+      "ep": 219,
+      "gp": 132,
+      "description": "25% weekly GP decay",
+      "timestamp": 1640739808
     }
   ]
 }

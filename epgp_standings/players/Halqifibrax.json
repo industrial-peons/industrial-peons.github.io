@@ -1,6 +1,6 @@
 {
-  "ep": 142,
-  "gp": 123,
+  "ep": 113,
+  "gp": 104,
   "log": [
     {
       "ep": 0,
@@ -769,6 +769,18 @@
       "gp": 123,
       "description": "25% weekly GP decay",
       "timestamp": 1640116877
+    },
+    {
+      "ep": 113,
+      "gp": 123,
+      "description": "20% weekly EP decay",
+      "timestamp": 1640739797
+    },
+    {
+      "ep": 113,
+      "gp": 104,
+      "description": "25% weekly GP decay",
+      "timestamp": 1640739808
     }
   ]
 }
