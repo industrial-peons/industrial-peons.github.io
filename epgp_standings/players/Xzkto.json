@@ -1,5 +1,5 @@
 {
-  "ep": 316,
+  "ep": 387,
   "gp": 90,
   "log": [
     {
@@ -115,6 +115,30 @@
       "gp": 90,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1640749889
+    },
+    {
+      "ep": 333,
+      "gp": 90,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1640919184
+    },
+    {
+      "ep": 353,
+      "gp": 90,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1640923524
+    },
+    {
+      "ep": 370,
+      "gp": 90,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1640925444
+    },
+    {
+      "ep": 387,
+      "gp": 90,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1640926869
     }
   ]
 }

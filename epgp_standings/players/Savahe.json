@@ -1,6 +1,6 @@
 {
-  "ep": 316,
-  "gp": 212,
+  "ep": 387,
+  "gp": 379,
   "log": [
     {
       "ep": 0,
@@ -853,6 +853,36 @@
       "gp": 212,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1640749885
+    },
+    {
+      "ep": 333,
+      "gp": 212,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1640919182
+    },
+    {
+      "ep": 353,
+      "gp": 212,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1640923521
+    },
+    {
+      "ep": 353,
+      "gp": 379,
+      "description": "Add GP 167 (Full Price)\n[Helm of the Vanquished Champion]",
+      "timestamp": 1640923833
+    },
+    {
+      "ep": 370,
+      "gp": 379,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1640925441
+    },
+    {
+      "ep": 387,
+      "gp": 379,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1640926865
     }
   ]
 }

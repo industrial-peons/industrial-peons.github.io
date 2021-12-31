@@ -1,0 +1,60 @@
+{
+  "ep": 84,
+  "gp": 321,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1624660244
+    },
+    {
+      "ep": 17,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1640140307
+    },
+    {
+      "ep": 13,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1640739798
+    },
+    {
+      "ep": 30,
+      "gp": 50,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1640919182
+    },
+    {
+      "ep": 50,
+      "gp": 50,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1640923521
+    },
+    {
+      "ep": 67,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1640925441
+    },
+    {
+      "ep": 67,
+      "gp": 175,
+      "description": "Add GP 125 (Full Price)\n[Gloves of the Vanquished Champion]",
+      "timestamp": 1640925646
+    },
+    {
+      "ep": 84,
+      "gp": 175,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1640926865
+    },
+    {
+      "ep": 84,
+      "gp": 321,
+      "description": "Add GP 146 (Full Price)\n[Bloodsea Brigand's Vest]",
+      "timestamp": 1640927005
+    }
+  ]
+}

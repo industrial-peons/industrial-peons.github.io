@@ -1,0 +1,54 @@
+{
+  "ep": 71,
+  "gp": 193,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1624660241
+    },
+    {
+      "ep": 17,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1640140307
+    },
+    {
+      "ep": 13,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1640739796
+    },
+    {
+      "ep": 17,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1640919182
+    },
+    {
+      "ep": 37,
+      "gp": 50,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1640923521
+    },
+    {
+      "ep": 37,
+      "gp": 193,
+      "description": "Add GP 143 (Full Price)\n[Runetotem's Mantle]",
+      "timestamp": 1640923756
+    },
+    {
+      "ep": 54,
+      "gp": 193,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1640925441
+    },
+    {
+      "ep": 71,
+      "gp": 193,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1640926865
+    }
+  ]
+}

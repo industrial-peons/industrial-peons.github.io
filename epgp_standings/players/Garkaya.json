@@ -1,0 +1,42 @@
+{
+  "ep": 71,
+  "gp": 193,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1624660243
+    },
+    {
+      "ep": 17,
+      "gp": 50,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1640919185
+    },
+    {
+      "ep": 37,
+      "gp": 50,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1640923525
+    },
+    {
+      "ep": 37,
+      "gp": 193,
+      "description": null,
+      "timestamp": 1640923760
+    },
+    {
+      "ep": 54,
+      "gp": 193,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1640925441
+    },
+    {
+      "ep": 71,
+      "gp": 193,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1640926870
+    }
+  ]
+}
