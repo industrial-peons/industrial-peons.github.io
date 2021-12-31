@@ -4,8 +4,6 @@ _Updated 12/31/2021._
 | Name | Effort points | Gear points | Priority |
 |:-----|:-------------:|:-----------:|---------:|
 |Anzo|287|129|2.22|
-|Atalon|287|129|2.22|
-|Balthazarre|377|80|4.71|
 |Blindhammer|104|53|1.96|
 |Canticas|84|64|1.31|
 |Cattleguard|354|88|4.02|
@@ -18,20 +16,14 @@ _Updated 12/31/2021._
 |Exzackto|387|90|4.30|
 |Fettish|86|59|1.46|
 |Garkaya|71|193|0.37|
-|Gippal|287|129|2.22|
-|Grimaxe|104|53|1.96|
 |Halqifibrax|113|104|1.09|
-|Icelancespam|351|443|0.79|
 |Jokerjay|362|78|4.64|
 |Kagis|351|443|0.79|
-|Karashota|71|193|0.37|
 |Kathnia|112|91|1.23|
 |Lethality|281|440|0.64|
-|Lethelity|281|440|0.64|
 |Menatplay|182|360|0.51|
 |Mongoape|152|77|1.97|
 |Nate|64|50|1.28|
-|Oslagbar|362|78|4.64|
 |Rannveig|371|343|1.08|
 |Rstyshklfrd|383|90|4.26|
 |Savahe|387|379|1.02|
@@ -50,4 +42,3 @@ _Updated 12/31/2021._
 |Whizzerd|76|50|1.52|
 |Wrecktangle|241|232|1.04|
 |Xantharl|219|132|1.66|
-|Xzkto|387|90|4.30|

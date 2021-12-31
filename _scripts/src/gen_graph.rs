@@ -27,6 +27,30 @@ struct Standing {
     timestamp: i64,
 }
 
+struct AltMap {
+    map: HashMap<String, String>,
+}
+
+impl AltMap {
+    pub fn new() -> Self {
+        Self {
+            map: HashMap::new(),
+        }
+    }
+
+    pub fn set_alts(&mut self, main: &str, alts: Vec<String>) {
+        for alt in alts {
+            if let Some(existing) = self.map.insert(alt, String::from(main)) {
+                panic!("Duplicate alt detected for {} and {}", main, existing)
+            };
+        }
+    }
+
+    pub fn get_main<'a>(&'a self, char: &'a str) -> &'a str {
+        self.map.get(char).map(|str| str.as_str()).unwrap_or(char)
+    }
+}
+
 #[derive(Serialize, Deserialize, Debug)]
 struct PlayerInfo {
     ep: i32,
@@ -124,7 +148,7 @@ fn load_standings(vars_path: &Path) -> BTreeMap<String, PlayerInfo> {
     })
 }
 
-fn load_traffic(vars_path: &Path) -> Vec<LogEntry> {
+fn load_traffic(vars_path: &Path) -> (AltMap, Vec<LogEntry>) {
     let item_regex = Regex::new(r"\[.*?\]").unwrap();
     let lua = Lua::new();
     lua.context(|lua_ctx| {
@@ -139,7 +163,24 @@ fn load_traffic(vars_path: &Path) -> Vec<LogEntry> {
             .get::<_, Table>("CEPGP")
             .expect("Unable to load CEPGP data.");
         let traffic = cepgp_st.get::<_, Table>("Traffic").unwrap();
-        traffic
+        let alts = cepgp_st
+            .get::<_, Table>("Alt")
+            .unwrap()
+            .get::<_, Table>("Links")
+            .unwrap()
+            .pairs()
+            .fold(
+                AltMap::new(),
+                |mut alt_map, pair: Result<(String, Table), rlua::Error>| {
+                    let (main, alts) = pair.unwrap();
+                    alt_map.set_alts(
+                        &main,
+                        alts.sequence_values().collect::<Result<_, _>>().unwrap(),
+                    );
+                    alt_map
+                },
+            );
+        let traffic = traffic
             .sequence_values::<Table>()
             .map(|log_entry| {
                 let log_entry = log_entry.unwrap();
@@ -170,6 +211,12 @@ fn load_traffic(vars_path: &Path) -> Vec<LogEntry> {
                 if let Some(item) = item_regex.find(&item) {
                     description.push_str(&format!("\n{}", item.as_str()))
                 };
+                match &target {
+                    Target::Player(player) if alts.get_main(player) != player => {
+                        description.push_str(&format!(" (on {})", player))
+                    }
+                    _ => (),
+                }
 
                 let standing_change = match (
                     pre_ep.parse::<i32>(),
@@ -201,20 +248,25 @@ fn load_traffic(vars_path: &Path) -> Vec<LogEntry> {
                     timestamp,
                 }
             })
-            .collect::<Vec<_>>()
+            .collect::<Vec<_>>();
+
+        (alts, traffic)
     })
 }
 
-fn set_annotations(standings: &mut BTreeMap<String, PlayerInfo>, traffic: &Vec<LogEntry>) {
+fn set_annotations(
+    standings: &mut BTreeMap<String, PlayerInfo>,
+    alts: &AltMap,
+    traffic: &Vec<LogEntry>,
+) {
     let decay_regex = Regex::new(r"Decayed (EP|GP) -(\d+)%").unwrap();
     let raid_ep_regex = Regex::new(r"Add Raid EP \+(\d+)\s+(.*)").unwrap();
     let mut player_logs = standings
         .iter_mut()
-        .map(|(name, player_info)| (name, (player_info, 0)))
+        .map(|(name, player_info)| (name.as_str(), (player_info, 0)))
         .collect::<HashMap<_, _>>();
 
-    let skip_until = |player_logs: &mut HashMap<&String, (&mut PlayerInfo, usize)>,
-                      timestamp: i64| {
+    let skip_until = |player_logs: &mut HashMap<&str, (&mut PlayerInfo, usize)>, timestamp: i64| {
         for (_, (player_info, idx)) in player_logs.iter_mut() {
             while idx < &mut player_info.log.len() && player_info.log[*idx].timestamp < timestamp {
                 *idx += 1;
@@ -222,7 +274,7 @@ fn set_annotations(standings: &mut BTreeMap<String, PlayerInfo>, traffic: &Vec<L
         }
     };
 
-    let annotate_group = |player_logs: &mut HashMap<&String, (&mut PlayerInfo, usize)>,
+    let annotate_group = |player_logs: &mut HashMap<&str, (&mut PlayerInfo, usize)>,
                           f: &dyn Fn(Option<&Standing>, &Standing) -> bool,
                           description: &str,
                           timestamp: i64| {
@@ -315,6 +367,7 @@ fn set_annotations(standings: &mut BTreeMap<String, PlayerInfo>, traffic: &Vec<L
                 }
             }
             Target::Player(player) => {
+                let player = alts.get_main(&player);
                 if player_logs.contains_key(player) {
                     let (player_info, idx) = &mut player_logs.get_mut(player).unwrap();
                     if *idx < player_info.log.len()
@@ -432,9 +485,12 @@ pub fn run(opt: &Opt) {
         .collect::<PathBuf>(),
     );
 
-    let mut standings = load_standings(&vars_path);
-    let traffic = load_traffic(&vars_path);
-    set_annotations(&mut standings, &traffic);
+    let (alts, traffic) = load_traffic(&vars_path);
+    let mut standings = load_standings(&vars_path)
+        .into_iter()
+        .filter(|(char, _)| char == alts.get_main(char))
+        .collect::<BTreeMap<_, _>>();
+    set_annotations(&mut standings, &alts, &traffic);
 
     write_data(&standings);
 }
