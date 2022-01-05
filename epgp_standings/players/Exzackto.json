@@ -1,6 +1,6 @@
 {
-  "ep": 387,
-  "gp": 90,
+  "ep": 397,
+  "gp": 80,
   "log": [
     {
       "ep": 0,
@@ -883,6 +883,48 @@
       "gp": 90,
       "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
       "timestamp": 1640926865
+    },
+    {
+      "ep": 309,
+      "gp": 90,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641344903
+    },
+    {
+      "ep": 309,
+      "gp": 80,
+      "description": "25% weekly GP decay",
+      "timestamp": 1641344917
+    },
+    {
+      "ep": 326,
+      "gp": 80,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1641351468
+    },
+    {
+      "ep": 346,
+      "gp": 80,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1641354863
+    },
+    {
+      "ep": 363,
+      "gp": 80,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1641357196
+    },
+    {
+      "ep": 380,
+      "gp": 80,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1641358265
+    },
+    {
+      "ep": 397,
+      "gp": 80,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1641359473
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 84,
-  "gp": 321,
+  "ep": 67,
+  "gp": 253,
   "log": [
     {
       "ep": 0,
@@ -55,6 +55,18 @@
       "gp": 321,
       "description": "Add GP 146 (Full Price)\n[Bloodsea Brigand's Vest]",
       "timestamp": 1640927005
+    },
+    {
+      "ep": 67,
+      "gp": 321,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641344903
+    },
+    {
+      "ep": 67,
+      "gp": 253,
+      "description": "25% weekly GP decay",
+      "timestamp": 1641344917
     }
   ]
 }

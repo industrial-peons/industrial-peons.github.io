@@ -1,6 +1,6 @@
 {
-  "ep": 281,
-  "gp": 440,
+  "ep": 312,
+  "gp": 342,
   "log": [
     {
       "ep": 0,
@@ -211,6 +211,48 @@
       "gp": 440,
       "description": "Add GP 167 (Full Price)\n[Leggings of the Vanquished Champion] (on Lethelity)",
       "timestamp": 1640927076
+    },
+    {
+      "ep": 224,
+      "gp": 440,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641344903
+    },
+    {
+      "ep": 224,
+      "gp": 342,
+      "description": "25% weekly GP decay",
+      "timestamp": 1641344915
+    },
+    {
+      "ep": 241,
+      "gp": 342,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1641351479
+    },
+    {
+      "ep": 261,
+      "gp": 342,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1641354868
+    },
+    {
+      "ep": 278,
+      "gp": 342,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1641357200
+    },
+    {
+      "ep": 295,
+      "gp": 342,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1641358270
+    },
+    {
+      "ep": 312,
+      "gp": 342,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1641359478
     }
   ]
 }

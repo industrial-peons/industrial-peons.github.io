@@ -1,6 +1,6 @@
 {
-  "ep": 348,
-  "gp": 296,
+  "ep": 278,
+  "gp": 234,
   "log": [
     {
       "ep": 0,
@@ -565,6 +565,18 @@
       "gp": 296,
       "description": "Add GP 167 (Full Price)\n[Leggings of the Vanquished Champion]",
       "timestamp": 1640926937
+    },
+    {
+      "ep": 278,
+      "gp": 296,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641344903
+    },
+    {
+      "ep": 278,
+      "gp": 234,
+      "description": "25% weekly GP decay",
+      "timestamp": 1641344915
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 322,
-  "gp": 154,
+  "ep": 345,
+  "gp": 134,
   "log": [
     {
       "ep": 0,
@@ -655,6 +655,60 @@
       "gp": 154,
       "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
       "timestamp": 1640926865
+    },
+    {
+      "ep": 257,
+      "gp": 154,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641344903
+    },
+    {
+      "ep": 257,
+      "gp": 128,
+      "description": "25% weekly GP decay",
+      "timestamp": 1641344916
+    },
+    {
+      "ep": 274,
+      "gp": 128,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1641351468
+    },
+    {
+      "ep": 294,
+      "gp": 128,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1641354863
+    },
+    {
+      "ep": 294,
+      "gp": 131,
+      "description": "Add GP 3 (Off-spec (10%))\n[Pattern: Belt of Natural Power]",
+      "timestamp": 1641356231
+    },
+    {
+      "ep": 311,
+      "gp": 131,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1641357196
+    },
+    {
+      "ep": 328,
+      "gp": 131,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1641358265
+    },
+    {
+      "ep": 345,
+      "gp": 131,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1641359473
+    },
+    {
+      "ep": 345,
+      "gp": 134,
+      "description": "Add GP 3 (Off-spec (10%))\n[Pattern: Belt of Deep Shadow]",
+      "timestamp": 1641359641
     }
   ]
 }

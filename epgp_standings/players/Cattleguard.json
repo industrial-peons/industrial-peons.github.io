@@ -1,6 +1,6 @@
 {
-  "ep": 354,
-  "gp": 88,
+  "ep": 371,
+  "gp": 269,
   "log": [
     {
       "ep": 0,
@@ -823,6 +823,78 @@
       "gp": 88,
       "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
       "timestamp": 1640926865
+    },
+    {
+      "ep": 283,
+      "gp": 88,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641344904
+    },
+    {
+      "ep": 283,
+      "gp": 78,
+      "description": "25% weekly GP decay",
+      "timestamp": 1641344918
+    },
+    {
+      "ep": 283,
+      "gp": 85,
+      "description": "Add GP 7 (Off-spec (10%))\n[Pendant of the Perilous]",
+      "timestamp": 1641349503
+    },
+    {
+      "ep": 300,
+      "gp": 85,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1641351468
+    },
+    {
+      "ep": 300,
+      "gp": 92,
+      "description": "Add GP 7 (Off-spec (10%))\n[Ancestral Ring of Conquest]",
+      "timestamp": 1641351664
+    },
+    {
+      "ep": 320,
+      "gp": 92,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1641354863
+    },
+    {
+      "ep": 320,
+      "gp": 99,
+      "description": "Add GP 7 (Off-spec (10%))\n[Nether Vortex]",
+      "timestamp": 1641355341
+    },
+    {
+      "ep": 337,
+      "gp": 99,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1641357196
+    },
+    {
+      "ep": 354,
+      "gp": 99,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1641358265
+    },
+    {
+      "ep": 354,
+      "gp": 266,
+      "description": "Add GP +167 (Legs)",
+      "timestamp": 1641358444
+    },
+    {
+      "ep": 354,
+      "gp": 269,
+      "description": "Add GP 3 (Off-spec (10%))\n[Nether Vortex]",
+      "timestamp": 1641358806
+    },
+    {
+      "ep": 371,
+      "gp": 269,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1641359473
     }
   ]
 }

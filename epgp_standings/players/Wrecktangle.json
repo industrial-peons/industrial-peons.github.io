@@ -1,6 +1,6 @@
 {
-  "ep": 241,
-  "gp": 232,
+  "ep": 280,
+  "gp": 196,
   "log": [
     {
       "ep": 0,
@@ -187,6 +187,54 @@
       "gp": 232,
       "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
       "timestamp": 1640926865
+    },
+    {
+      "ep": 192,
+      "gp": 232,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641344898
+    },
+    {
+      "ep": 192,
+      "gp": 186,
+      "description": "25% weekly GP decay",
+      "timestamp": 1641344907
+    },
+    {
+      "ep": 192,
+      "gp": 196,
+      "description": "Add GP 10 (Off-spec (10%))\n[Pauldrons of the Wardancer]",
+      "timestamp": 1641350829
+    },
+    {
+      "ep": 209,
+      "gp": 196,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1641351467
+    },
+    {
+      "ep": 229,
+      "gp": 196,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1641354863
+    },
+    {
+      "ep": 246,
+      "gp": 196,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1641357195
+    },
+    {
+      "ep": 263,
+      "gp": 196,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1641358265
+    },
+    {
+      "ep": 280,
+      "gp": 196,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1641359473
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 182,
-  "gp": 360,
+  "ep": 145,
+  "gp": 282,
   "log": [
     {
       "ep": 0,
@@ -589,6 +589,18 @@
       "gp": 360,
       "description": "Add GP 85 (Full Price)\n[Wand of the Forgotten Star]",
       "timestamp": 1640749977
+    },
+    {
+      "ep": 145,
+      "gp": 360,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641344903
+    },
+    {
+      "ep": 145,
+      "gp": 282,
+      "description": "25% weekly GP decay",
+      "timestamp": 1641344917
     }
   ]
 }

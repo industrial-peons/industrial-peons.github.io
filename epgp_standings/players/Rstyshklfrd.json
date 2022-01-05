@@ -1,6 +1,6 @@
 {
-  "ep": 383,
-  "gp": 90,
+  "ep": 394,
+  "gp": 122,
   "log": [
     {
       "ep": 0,
@@ -877,6 +877,54 @@
       "gp": 90,
       "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
       "timestamp": 1640926865
+    },
+    {
+      "ep": 306,
+      "gp": 90,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641344903
+    },
+    {
+      "ep": 306,
+      "gp": 80,
+      "description": "25% weekly GP decay",
+      "timestamp": 1641344916
+    },
+    {
+      "ep": 323,
+      "gp": 80,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1641351468
+    },
+    {
+      "ep": 343,
+      "gp": 80,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1641354863
+    },
+    {
+      "ep": 360,
+      "gp": 80,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1641357196
+    },
+    {
+      "ep": 377,
+      "gp": 80,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1641358265
+    },
+    {
+      "ep": 394,
+      "gp": 80,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1641359473
+    },
+    {
+      "ep": 394,
+      "gp": 122,
+      "description": "Add GP 42 (Minor (50%))\n[Luminescent Rod of the Naaru]",
+      "timestamp": 1641359707
     }
   ]
 }

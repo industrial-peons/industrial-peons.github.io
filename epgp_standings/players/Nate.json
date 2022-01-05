@@ -1,6 +1,6 @@
 {
-  "ep": 64,
-  "gp": 50,
+  "ep": 139,
+  "gp": 429,
   "log": [
     {
       "ep": 0,
@@ -37,6 +37,54 @@
       "gp": 50,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1640749885
+    },
+    {
+      "ep": 51,
+      "gp": 50,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641344904
+    },
+    {
+      "ep": 51,
+      "gp": 86,
+      "description": "Add GP 36 (Minor (50%))\n[Pendant of the Perilous]",
+      "timestamp": 1641349388
+    },
+    {
+      "ep": 68,
+      "gp": 86,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1641351468
+    },
+    {
+      "ep": 88,
+      "gp": 86,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1641354863
+    },
+    {
+      "ep": 105,
+      "gp": 86,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1641357196
+    },
+    {
+      "ep": 122,
+      "gp": 86,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1641358265
+    },
+    {
+      "ep": 122,
+      "gp": 429,
+      "description": "Add GP 343 (Full Price)\n[World Breaker]",
+      "timestamp": 1641358334
+    },
+    {
+      "ep": 139,
+      "gp": 429,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1641359473
     }
   ]
 }
