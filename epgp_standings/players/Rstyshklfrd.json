@@ -1,6 +1,6 @@
 {
-  "ep": 394,
-  "gp": 122,
+  "ep": 443,
+  "gp": 271,
   "log": [
     {
       "ep": 0,
@@ -925,6 +925,54 @@
       "gp": 122,
       "description": "Add GP 42 (Minor (50%))\n[Luminescent Rod of the Naaru]",
       "timestamp": 1641359707
+    },
+    {
+      "ep": 465,
+      "gp": 122,
+      "description": null,
+      "timestamp": 1641534725
+    },
+    {
+      "ep": 372,
+      "gp": 122,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641932378
+    },
+    {
+      "ep": 372,
+      "gp": 104,
+      "description": "25% weekly GP decay",
+      "timestamp": 1641932382
+    },
+    {
+      "ep": 389,
+      "gp": 104,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1641954519
+    },
+    {
+      "ep": 406,
+      "gp": 104,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1641956489
+    },
+    {
+      "ep": 426,
+      "gp": 104,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1641957887
+    },
+    {
+      "ep": 426,
+      "gp": 271,
+      "description": "Add GP 167 (Full Price)\n[Chestguard of the Vanquished Defender]",
+      "timestamp": 1641957974
+    },
+    {
+      "ep": 443,
+      "gp": 271,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1641958931
     }
   ]
 }

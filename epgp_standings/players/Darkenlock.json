@@ -1,6 +1,6 @@
 {
-  "ep": 336,
-  "gp": 74,
+  "ep": 396,
+  "gp": 109,
   "log": [
     {
       "ep": 0,
@@ -649,6 +649,60 @@
       "gp": 74,
       "description": "Add EP 17 (Killed Morogrim Tidewalker)",
       "timestamp": 1641359473
+    },
+    {
+      "ep": 407,
+      "gp": 74,
+      "description": null,
+      "timestamp": 1641534724
+    },
+    {
+      "ep": 325,
+      "gp": 74,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641932378
+    },
+    {
+      "ep": 325,
+      "gp": 68,
+      "description": "25% weekly GP decay",
+      "timestamp": 1641932382
+    },
+    {
+      "ep": 342,
+      "gp": 68,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1641954519
+    },
+    {
+      "ep": 359,
+      "gp": 68,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1641956489
+    },
+    {
+      "ep": 379,
+      "gp": 68,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1641957887
+    },
+    {
+      "ep": 379,
+      "gp": 99,
+      "description": "Add GP 31 (Full Price)\n[Verdant Sphere]",
+      "timestamp": 1641958271
+    },
+    {
+      "ep": 396,
+      "gp": 99,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1641958931
+    },
+    {
+      "ep": 396,
+      "gp": 109,
+      "description": "Add GP 10 (Off-spec (10%))\n[Void Star Talisman]",
+      "timestamp": 1641959053
     }
   ]
 }

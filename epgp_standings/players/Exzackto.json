@@ -1,6 +1,6 @@
 {
-  "ep": 397,
-  "gp": 80,
+  "ep": 445,
+  "gp": 134,
   "log": [
     {
       "ep": 0,
@@ -925,6 +925,54 @@
       "gp": 80,
       "description": "Add EP 17 (Killed Morogrim Tidewalker)",
       "timestamp": 1641359473
+    },
+    {
+      "ep": 468,
+      "gp": 80,
+      "description": null,
+      "timestamp": 1641534718
+    },
+    {
+      "ep": 374,
+      "gp": 80,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641932373
+    },
+    {
+      "ep": 374,
+      "gp": 72,
+      "description": "25% weekly GP decay",
+      "timestamp": 1641932381
+    },
+    {
+      "ep": 391,
+      "gp": 72,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1641954519
+    },
+    {
+      "ep": 408,
+      "gp": 72,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1641956489
+    },
+    {
+      "ep": 408,
+      "gp": 134,
+      "description": "Add GP 62 (Minor (50%))\n[Pauldrons of the Vanquished Champion]",
+      "timestamp": 1641957050
+    },
+    {
+      "ep": 428,
+      "gp": 134,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1641957887
+    },
+    {
+      "ep": 445,
+      "gp": 134,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1641958931
     }
   ]
 }

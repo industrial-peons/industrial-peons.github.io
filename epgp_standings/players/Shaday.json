@@ -1,6 +1,6 @@
 {
-  "ep": 381,
-  "gp": 316,
+  "ep": 432,
+  "gp": 322,
   "log": [
     {
       "ep": 0,
@@ -877,6 +877,54 @@
       "gp": 316,
       "description": "Add EP 17 (Killed Morogrim Tidewalker)",
       "timestamp": 1641359474
+    },
+    {
+      "ep": 452,
+      "gp": 316,
+      "description": null,
+      "timestamp": 1641534726
+    },
+    {
+      "ep": 361,
+      "gp": 316,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641932379
+    },
+    {
+      "ep": 361,
+      "gp": 249,
+      "description": "25% weekly GP decay",
+      "timestamp": 1641932382
+    },
+    {
+      "ep": 378,
+      "gp": 249,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1641954520
+    },
+    {
+      "ep": 378,
+      "gp": 322,
+      "description": "Add GP 73 (Full Price)\n[Mindstorm Wristbands]",
+      "timestamp": 1641954637
+    },
+    {
+      "ep": 395,
+      "gp": 322,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1641956489
+    },
+    {
+      "ep": 415,
+      "gp": 322,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1641957887
+    },
+    {
+      "ep": 432,
+      "gp": 322,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1641958931
     }
   ]
 }

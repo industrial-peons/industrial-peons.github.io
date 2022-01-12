@@ -1,6 +1,6 @@
 {
-  "ep": 345,
-  "gp": 134,
+  "ep": 403,
+  "gp": 113,
   "log": [
     {
       "ep": 0,
@@ -709,6 +709,48 @@
       "gp": 134,
       "description": "Add GP 3 (Off-spec (10%))\n[Pattern: Belt of Deep Shadow]",
       "timestamp": 1641359641
+    },
+    {
+      "ep": 416,
+      "gp": 134,
+      "description": null,
+      "timestamp": 1641534725
+    },
+    {
+      "ep": 332,
+      "gp": 134,
+      "description": "20% weekly EP decay",
+      "timestamp": 1641932378
+    },
+    {
+      "ep": 332,
+      "gp": 113,
+      "description": "25% weekly GP decay",
+      "timestamp": 1641932381
+    },
+    {
+      "ep": 349,
+      "gp": 113,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1641954519
+    },
+    {
+      "ep": 366,
+      "gp": 113,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1641956489
+    },
+    {
+      "ep": 386,
+      "gp": 113,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1641957887
+    },
+    {
+      "ep": 403,
+      "gp": 113,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1641958931
     }
   ]
 }
