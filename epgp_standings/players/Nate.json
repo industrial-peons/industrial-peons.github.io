@@ -1,6 +1,6 @@
 {
-  "ep": 239,
-  "gp": 344,
+  "ep": 279,
+  "gp": 306,
   "log": [
     {
       "ep": 0,
@@ -127,6 +127,54 @@
       "gp": 344,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1641958931
+    },
+    {
+      "ep": 191,
+      "gp": 344,
+      "description": "20% weekly EP decay",
+      "timestamp": 1642536619
+    },
+    {
+      "ep": 191,
+      "gp": 270,
+      "description": "25% weekly GP decay",
+      "timestamp": 1642536627
+    },
+    {
+      "ep": 208,
+      "gp": 270,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642560512
+    },
+    {
+      "ep": 225,
+      "gp": 270,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642562055
+    },
+    {
+      "ep": 242,
+      "gp": 270,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642563242
+    },
+    {
+      "ep": 259,
+      "gp": 270,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642564234
+    },
+    {
+      "ep": 279,
+      "gp": 270,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642565811
+    },
+    {
+      "ep": 279,
+      "gp": 306,
+      "description": "Add GP 36 (Minor (50%))\n[Band of Vile Aggression]",
+      "timestamp": 1642567325
     }
   ]
 }

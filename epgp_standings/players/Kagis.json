@@ -1,6 +1,6 @@
 {
-  "ep": 295,
-  "gp": 398,
+  "ep": 465,
+  "gp": 579,
   "log": [
     {
       "ep": 0,
@@ -655,6 +655,114 @@
       "gp": 398,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1641958931
+    },
+    {
+      "ep": 312,
+      "gp": 398,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642128258
+    },
+    {
+      "ep": 332,
+      "gp": 398,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642129633
+    },
+    {
+      "ep": 349,
+      "gp": 398,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642131980
+    },
+    {
+      "ep": 366,
+      "gp": 398,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642132976
+    },
+    {
+      "ep": 366,
+      "gp": 565,
+      "description": "Add GP 167 (Full Price)\n[Leggings of the Vanquished Hero]",
+      "timestamp": 1642133090
+    },
+    {
+      "ep": 383,
+      "gp": 565,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642134416
+    },
+    {
+      "ep": 306,
+      "gp": 565,
+      "description": "20% weekly EP decay",
+      "timestamp": 1642536618
+    },
+    {
+      "ep": 306,
+      "gp": 436,
+      "description": "25% weekly GP decay",
+      "timestamp": 1642536626
+    },
+    {
+      "ep": 323,
+      "gp": 436,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642560512
+    },
+    {
+      "ep": 340,
+      "gp": 436,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642562055
+    },
+    {
+      "ep": 357,
+      "gp": 436,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642563242
+    },
+    {
+      "ep": 374,
+      "gp": 436,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642564233
+    },
+    {
+      "ep": 394,
+      "gp": 436,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642565811
+    },
+    {
+      "ep": 394,
+      "gp": 579,
+      "description": "Add GP 143 (Full Price)\n[Cobra-Lash Boots]",
+      "timestamp": 1642565909
+    },
+    {
+      "ep": 411,
+      "gp": 579,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1642732016
+    },
+    {
+      "ep": 428,
+      "gp": 579,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1642733767
+    },
+    {
+      "ep": 445,
+      "gp": 579,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1642735998
+    },
+    {
+      "ep": 465,
+      "gp": 579,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1642736963
     }
   ]
 }

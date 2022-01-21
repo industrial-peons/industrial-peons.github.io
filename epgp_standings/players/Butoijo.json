@@ -1,0 +1,54 @@
+{
+  "ep": 328,
+  "gp": 567,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1642568988
+    },
+    {
+      "ep": 257,
+      "gp": 50,
+      "description": "Add EP +257 (Starting EP)",
+      "timestamp": 1642569018
+    },
+    {
+      "ep": 257,
+      "gp": 513,
+      "description": "Add GP +463 (Starting GP)",
+      "timestamp": 1642569029
+    },
+    {
+      "ep": 274,
+      "gp": 513,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1642732016
+    },
+    {
+      "ep": 274,
+      "gp": 567,
+      "description": "Add GP 54 (Minor (50%))\n[Gloves of the Searing Grip]",
+      "timestamp": 1642732159
+    },
+    {
+      "ep": 291,
+      "gp": 567,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1642733767
+    },
+    {
+      "ep": 308,
+      "gp": 567,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1642735998
+    },
+    {
+      "ep": 328,
+      "gp": 567,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1642736963
+    }
+  ]
+}

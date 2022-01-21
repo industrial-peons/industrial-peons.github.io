@@ -1,6 +1,6 @@
 {
-  "ep": 260,
-  "gp": 392,
+  "ep": 349,
+  "gp": 401,
   "log": [
     {
       "ep": 0,
@@ -403,6 +403,78 @@
       "gp": 392,
       "description": "25% weekly GP decay",
       "timestamp": 1641932382
+    },
+    {
+      "ep": 277,
+      "gp": 392,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642128258
+    },
+    {
+      "ep": 297,
+      "gp": 392,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642129633
+    },
+    {
+      "ep": 314,
+      "gp": 392,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642131980
+    },
+    {
+      "ep": 331,
+      "gp": 392,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642132976
+    },
+    {
+      "ep": 348,
+      "gp": 392,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642134416
+    },
+    {
+      "ep": 278,
+      "gp": 392,
+      "description": "20% weekly EP decay",
+      "timestamp": 1642536618
+    },
+    {
+      "ep": 278,
+      "gp": 306,
+      "description": "25% weekly GP decay",
+      "timestamp": 1642536626
+    },
+    {
+      "ep": 295,
+      "gp": 306,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1642732016
+    },
+    {
+      "ep": 312,
+      "gp": 306,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1642733767
+    },
+    {
+      "ep": 329,
+      "gp": 306,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1642735998
+    },
+    {
+      "ep": 349,
+      "gp": 306,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1642736963
+    },
+    {
+      "ep": 349,
+      "gp": 401,
+      "description": "Add GP 95 (Minor (50%))\n[Leggings of Murderous Intent]",
+      "timestamp": 1642737195
     }
   ]
 }

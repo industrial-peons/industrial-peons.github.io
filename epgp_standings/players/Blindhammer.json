@@ -1,6 +1,6 @@
 {
-  "ep": 137,
-  "gp": 51,
+  "ep": 197,
+  "gp": 66,
   "log": [
     {
       "ep": 0,
@@ -721,6 +721,54 @@
       "gp": 51,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1641958931
+    },
+    {
+      "ep": 109,
+      "gp": 51,
+      "description": "20% weekly EP decay",
+      "timestamp": 1642536618
+    },
+    {
+      "ep": 109,
+      "gp": 50,
+      "description": "25% weekly GP decay",
+      "timestamp": 1642536625
+    },
+    {
+      "ep": 126,
+      "gp": 50,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642560512
+    },
+    {
+      "ep": 143,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642562055
+    },
+    {
+      "ep": 160,
+      "gp": 50,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642563241
+    },
+    {
+      "ep": 160,
+      "gp": 66,
+      "description": "Add GP 16 (Off-spec (10%))\n[Leggings of the Vanquished Champion]",
+      "timestamp": 1642563361
+    },
+    {
+      "ep": 177,
+      "gp": 66,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642564233
+    },
+    {
+      "ep": 197,
+      "gp": 66,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642565811
     }
   ]
 }

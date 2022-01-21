@@ -1,0 +1,66 @@
+{
+  "ep": 406,
+  "gp": 685,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1642564616
+    },
+    {
+      "ep": 247,
+      "gp": 50,
+      "description": "Add EP +247 (Starting EP)",
+      "timestamp": 1642564689
+    },
+    {
+      "ep": 247,
+      "gp": 375,
+      "description": "Add GP +325 (Starting GP)",
+      "timestamp": 1642564714
+    },
+    {
+      "ep": 315,
+      "gp": 375,
+      "description": "Add EP +68 (EP from partial SSC)",
+      "timestamp": 1642564744
+    },
+    {
+      "ep": 335,
+      "gp": 375,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642565812
+    },
+    {
+      "ep": 335,
+      "gp": 685,
+      "description": "Add GP +310 (Mace queso)",
+      "timestamp": 1642566089
+    },
+    {
+      "ep": 352,
+      "gp": 685,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1642732017
+    },
+    {
+      "ep": 369,
+      "gp": 685,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1642733768
+    },
+    {
+      "ep": 386,
+      "gp": 685,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1642735999
+    },
+    {
+      "ep": 406,
+      "gp": 685,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1642736964
+    }
+  ]
+}

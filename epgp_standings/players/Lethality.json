@@ -1,6 +1,6 @@
 {
-  "ep": 377,
-  "gp": 295,
+  "ep": 531,
+  "gp": 535,
   "log": [
     {
       "ep": 0,
@@ -295,6 +295,120 @@
       "gp": 295,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1641958936
+    },
+    {
+      "ep": 394,
+      "gp": 295,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642128263
+    },
+    {
+      "ep": 414,
+      "gp": 295,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642129638
+    },
+    {
+      "ep": 431,
+      "gp": 295,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642131984
+    },
+    {
+      "ep": 448,
+      "gp": 295,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642132981
+    },
+    {
+      "ep": 465,
+      "gp": 295,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642134421
+    },
+    {
+      "ep": 372,
+      "gp": 295,
+      "description": "20% weekly EP decay",
+      "timestamp": 1642536618
+    },
+    {
+      "ep": 372,
+      "gp": 233,
+      "description": "25% weekly GP decay",
+      "timestamp": 1642536625
+    },
+    {
+      "ep": 389,
+      "gp": 233,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642560514
+    },
+    {
+      "ep": 406,
+      "gp": 233,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642562060
+    },
+    {
+      "ep": 406,
+      "gp": 358,
+      "description": "Add GP 125 (Full Price)\n[Gloves of the Vanquished Champion] (on Lethelity)",
+      "timestamp": 1642562279
+    },
+    {
+      "ep": 423,
+      "gp": 358,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642563245
+    },
+    {
+      "ep": 440,
+      "gp": 358,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642564238
+    },
+    {
+      "ep": 440,
+      "gp": 368,
+      "description": "Add GP 10 (Off-spec (10%))\n[Pauldrons of the Argent Sentinel] (on Lethelity)",
+      "timestamp": 1642564266
+    },
+    {
+      "ep": 460,
+      "gp": 368,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642565816
+    },
+    {
+      "ep": 460,
+      "gp": 535,
+      "description": "Add GP 167 (Full Price)\n[Helm of the Vanquished Champion] (on Lethelity)",
+      "timestamp": 1642566067
+    },
+    {
+      "ep": 477,
+      "gp": 535,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1642732021
+    },
+    {
+      "ep": 494,
+      "gp": 535,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1642733772
+    },
+    {
+      "ep": 511,
+      "gp": 535,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1642736003
+    },
+    {
+      "ep": 531,
+      "gp": 535,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1642736968
     }
   ]
 }

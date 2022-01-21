@@ -1,6 +1,6 @@
 {
-  "ep": 424,
-  "gp": 336,
+  "ep": 568,
+  "gp": 341,
   "log": [
     {
       "ep": 0,
@@ -937,6 +937,120 @@
       "gp": 336,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1641958931
+    },
+    {
+      "ep": 441,
+      "gp": 336,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642128258
+    },
+    {
+      "ep": 461,
+      "gp": 336,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642129633
+    },
+    {
+      "ep": 478,
+      "gp": 336,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642131980
+    },
+    {
+      "ep": 478,
+      "gp": 372,
+      "description": "Add GP 36 (Minor (50%))\n[Ring of Sundered Souls]",
+      "timestamp": 1642132107
+    },
+    {
+      "ep": 495,
+      "gp": 372,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642132976
+    },
+    {
+      "ep": 512,
+      "gp": 372,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642134416
+    },
+    {
+      "ep": 409,
+      "gp": 372,
+      "description": "20% weekly EP decay",
+      "timestamp": 1642536619
+    },
+    {
+      "ep": 409,
+      "gp": 291,
+      "description": "25% weekly GP decay",
+      "timestamp": 1642536627
+    },
+    {
+      "ep": 426,
+      "gp": 291,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642560516
+    },
+    {
+      "ep": 443,
+      "gp": 291,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642562055
+    },
+    {
+      "ep": 460,
+      "gp": 291,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642563242
+    },
+    {
+      "ep": 477,
+      "gp": 291,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642564234
+    },
+    {
+      "ep": 497,
+      "gp": 291,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642565811
+    },
+    {
+      "ep": 514,
+      "gp": 291,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1642732016
+    },
+    {
+      "ep": 514,
+      "gp": 327,
+      "description": "Add GP 36 (Minor (50%))\n[Phoenix-Wing Cloak]",
+      "timestamp": 1642732070
+    },
+    {
+      "ep": 531,
+      "gp": 327,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1642733767
+    },
+    {
+      "ep": 548,
+      "gp": 327,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1642735998
+    },
+    {
+      "ep": 548,
+      "gp": 341,
+      "description": "Add GP 14 (Off-spec (10%))\n[Greaves of the Bloodwarder]",
+      "timestamp": 1642736051
+    },
+    {
+      "ep": 568,
+      "gp": 341,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1642736963
     }
   ]
 }

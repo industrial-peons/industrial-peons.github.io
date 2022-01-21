@@ -1,6 +1,6 @@
 {
-  "ep": 351,
-  "gp": 159,
+  "ep": 510,
+  "gp": 306,
   "log": [
     {
       "ep": 0,
@@ -277,6 +277,120 @@
       "gp": 159,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1641958931
+    },
+    {
+      "ep": 368,
+      "gp": 159,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642128258
+    },
+    {
+      "ep": 388,
+      "gp": 159,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642129633
+    },
+    {
+      "ep": 405,
+      "gp": 159,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642131980
+    },
+    {
+      "ep": 422,
+      "gp": 159,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642132976
+    },
+    {
+      "ep": 422,
+      "gp": 326,
+      "description": "Add GP 167 (Full Price)\n[Leggings of the Vanquished Defender]",
+      "timestamp": 1642133023
+    },
+    {
+      "ep": 439,
+      "gp": 326,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642134416
+    },
+    {
+      "ep": 351,
+      "gp": 326,
+      "description": "20% weekly EP decay",
+      "timestamp": 1642536618
+    },
+    {
+      "ep": 351,
+      "gp": 257,
+      "description": "25% weekly GP decay",
+      "timestamp": 1642536626
+    },
+    {
+      "ep": 368,
+      "gp": 257,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642560512
+    },
+    {
+      "ep": 368,
+      "gp": 292,
+      "description": "Add GP +35 (boots)",
+      "timestamp": 1642560802
+    },
+    {
+      "ep": 385,
+      "gp": 292,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642562055
+    },
+    {
+      "ep": 402,
+      "gp": 292,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642563242
+    },
+    {
+      "ep": 419,
+      "gp": 292,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642564233
+    },
+    {
+      "ep": 439,
+      "gp": 292,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642565811
+    },
+    {
+      "ep": 456,
+      "gp": 292,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1642732016
+    },
+    {
+      "ep": 473,
+      "gp": 292,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1642733767
+    },
+    {
+      "ep": 473,
+      "gp": 306,
+      "description": "Add GP 14 (Off-spec (10%))\n[Fel-Steel Warhelm]",
+      "timestamp": 1642733867
+    },
+    {
+      "ep": 490,
+      "gp": 306,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1642735998
+    },
+    {
+      "ep": 510,
+      "gp": 306,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1642736963
     }
   ]
 }

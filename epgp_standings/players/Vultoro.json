@@ -1,6 +1,6 @@
 {
-  "ep": 445,
-  "gp": 278,
+  "ep": 585,
+  "gp": 228,
   "log": [
     {
       "ep": 0,
@@ -985,6 +985,108 @@
       "gp": 278,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1641958931
+    },
+    {
+      "ep": 462,
+      "gp": 278,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642128258
+    },
+    {
+      "ep": 482,
+      "gp": 278,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642129633
+    },
+    {
+      "ep": 499,
+      "gp": 278,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642131980
+    },
+    {
+      "ep": 516,
+      "gp": 278,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642132976
+    },
+    {
+      "ep": 533,
+      "gp": 278,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642134416
+    },
+    {
+      "ep": 426,
+      "gp": 278,
+      "description": "20% weekly EP decay",
+      "timestamp": 1642536614
+    },
+    {
+      "ep": 426,
+      "gp": 221,
+      "description": "25% weekly GP decay",
+      "timestamp": 1642536621
+    },
+    {
+      "ep": 443,
+      "gp": 221,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642560512
+    },
+    {
+      "ep": 460,
+      "gp": 221,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642562055
+    },
+    {
+      "ep": 477,
+      "gp": 221,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642563242
+    },
+    {
+      "ep": 494,
+      "gp": 221,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642564234
+    },
+    {
+      "ep": 514,
+      "gp": 221,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642565811
+    },
+    {
+      "ep": 531,
+      "gp": 221,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1642732016
+    },
+    {
+      "ep": 548,
+      "gp": 221,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1642733767
+    },
+    {
+      "ep": 548,
+      "gp": 228,
+      "description": "Add GP +7 (Nethers (greed))",
+      "timestamp": 1642735614
+    },
+    {
+      "ep": 565,
+      "gp": 228,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1642735998
+    },
+    {
+      "ep": 585,
+      "gp": 228,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1642736963
     }
   ]
 }

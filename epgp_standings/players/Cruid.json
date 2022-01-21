@@ -1,6 +1,6 @@
 {
-  "ep": 403,
-  "gp": 113,
+  "ep": 551,
+  "gp": 525,
   "log": [
     {
       "ep": 0,
@@ -751,6 +751,120 @@
       "gp": 113,
       "description": "Add EP 17 (Killed High Astromancer Solarian)",
       "timestamp": 1641958931
+    },
+    {
+      "ep": 420,
+      "gp": 113,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642128258
+    },
+    {
+      "ep": 440,
+      "gp": 113,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642129633
+    },
+    {
+      "ep": 457,
+      "gp": 113,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642131980
+    },
+    {
+      "ep": 474,
+      "gp": 113,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642132976
+    },
+    {
+      "ep": 491,
+      "gp": 113,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642134416
+    },
+    {
+      "ep": 491,
+      "gp": 238,
+      "description": "Add GP 125 (Full Price)\n[Gloves of the Vanquished Defender]",
+      "timestamp": 1642134480
+    },
+    {
+      "ep": 392,
+      "gp": 238,
+      "description": "20% weekly EP decay",
+      "timestamp": 1642536618
+    },
+    {
+      "ep": 392,
+      "gp": 191,
+      "description": "25% weekly GP decay",
+      "timestamp": 1642536626
+    },
+    {
+      "ep": 409,
+      "gp": 191,
+      "description": "Add EP 17 (Killed The Lurker Below)",
+      "timestamp": 1642560512
+    },
+    {
+      "ep": 426,
+      "gp": 191,
+      "description": "Add EP 17 (Killed Leotheras the Blind)",
+      "timestamp": 1642562055
+    },
+    {
+      "ep": 443,
+      "gp": 191,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1642563242
+    },
+    {
+      "ep": 460,
+      "gp": 191,
+      "description": "Add EP 17 (Killed Morogrim Tidewalker)",
+      "timestamp": 1642564233
+    },
+    {
+      "ep": 480,
+      "gp": 191,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1642565811
+    },
+    {
+      "ep": 480,
+      "gp": 358,
+      "description": "Add GP 167 (Full Price)\n[Helm of the Vanquished Defender]",
+      "timestamp": 1642566105
+    },
+    {
+      "ep": 497,
+      "gp": 358,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1642732016
+    },
+    {
+      "ep": 514,
+      "gp": 358,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1642733767
+    },
+    {
+      "ep": 531,
+      "gp": 358,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1642735998
+    },
+    {
+      "ep": 551,
+      "gp": 358,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1642736963
+    },
+    {
+      "ep": 551,
+      "gp": 525,
+      "description": "Add GP 167 (Full Price)\n[Chestguard of the Vanquished Defender]",
+      "timestamp": 1642737251
     }
   ]
 }

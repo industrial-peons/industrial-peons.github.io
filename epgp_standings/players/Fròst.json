@@ -1,0 +1,60 @@
+{
+  "ep": 352,
+  "gp": 346,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1642709181
+    },
+    {
+      "ep": 281,
+      "gp": 50,
+      "description": "Add EP +281 (Copying from alt)",
+      "timestamp": 1642711875
+    },
+    {
+      "ep": 281,
+      "gp": 261,
+      "description": "Add GP +211 (Copying from alt)",
+      "timestamp": 1642711888
+    },
+    {
+      "ep": 298,
+      "gp": 261,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1642732016
+    },
+    {
+      "ep": 298,
+      "gp": 334,
+      "description": "Add GP 73 (Full Price)\n[Mindstorm Wristbands]",
+      "timestamp": 1642732198
+    },
+    {
+      "ep": 315,
+      "gp": 334,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1642733767
+    },
+    {
+      "ep": 315,
+      "gp": 346,
+      "description": "Add GP 12 (Off-spec (10%))\n[Pauldrons of the Vanquished Hero]",
+      "timestamp": 1642733904
+    },
+    {
+      "ep": 332,
+      "gp": 346,
+      "description": "Add EP 17 (Killed High Astromancer Solarian)",
+      "timestamp": 1642735998
+    },
+    {
+      "ep": 352,
+      "gp": 346,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1642736963
+    }
+  ]
+}
