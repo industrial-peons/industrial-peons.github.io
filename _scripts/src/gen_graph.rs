@@ -128,7 +128,7 @@ fn load_standings(vars_path: &Path) -> BTreeMap<String, PlayerInfo> {
                     .collect::<Vec<_>>();
                 if standings.len() > 1 {
                     let last_standing = standings.last().unwrap();
-                    if last_standing.ep < 50 {
+                    if last_standing.ep < 100 {
                         None
                     } else {
                         Some((
