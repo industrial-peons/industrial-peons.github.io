@@ -1,6 +1,6 @@
 {
-  "ep": 575,
-  "gp": 325,
+  "ep": 551,
+  "gp": 287,
   "log": [
     {
       "ep": 0,
@@ -1027,6 +1027,54 @@
       "gp": 325,
       "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
       "timestamp": 1642736963
+    },
+    {
+      "ep": 460,
+      "gp": 325,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643142159
+    },
+    {
+      "ep": 460,
+      "gp": 256,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643142172
+    },
+    {
+      "ep": 480,
+      "gp": 256,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1643164992
+    },
+    {
+      "ep": 497,
+      "gp": 256,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1643168067
+    },
+    {
+      "ep": 514,
+      "gp": 256,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1643170454
+    },
+    {
+      "ep": 534,
+      "gp": 256,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1643172213
+    },
+    {
+      "ep": 534,
+      "gp": 287,
+      "description": "Add GP 31 (Full Price)\n[Verdant Sphere]",
+      "timestamp": 1643172305
+    },
+    {
+      "ep": 551,
+      "gp": 287,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1643173630
     }
   ]
 }

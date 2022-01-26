@@ -1,6 +1,6 @@
 {
-  "ep": 279,
-  "gp": 306,
+  "ep": 314,
+  "gp": 416,
   "log": [
     {
       "ep": 0,
@@ -175,6 +175,66 @@
       "gp": 306,
       "description": "Add GP 36 (Minor (50%))\n[Band of Vile Aggression]",
       "timestamp": 1642567325
+    },
+    {
+      "ep": 223,
+      "gp": 306,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643142159
+    },
+    {
+      "ep": 223,
+      "gp": 242,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643142172
+    },
+    {
+      "ep": 223,
+      "gp": 284,
+      "description": "Add GP 42 (Minor (50%))\n[Serpentshrine Shuriken]",
+      "timestamp": 1643163042
+    },
+    {
+      "ep": 243,
+      "gp": 284,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1643164992
+    },
+    {
+      "ep": 260,
+      "gp": 284,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1643168067
+    },
+    {
+      "ep": 277,
+      "gp": 284,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1643170454
+    },
+    {
+      "ep": 297,
+      "gp": 284,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1643172213
+    },
+    {
+      "ep": 314,
+      "gp": 284,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1643173630
+    },
+    {
+      "ep": 314,
+      "gp": 409,
+      "description": "Add GP 125 (Full Price)\n[Pauldrons of the Vanquished Defender]",
+      "timestamp": 1643173846
+    },
+    {
+      "ep": 314,
+      "gp": 416,
+      "description": "Add GP +7 (Neat ring)",
+      "timestamp": 1643173997
     }
   ]
 }

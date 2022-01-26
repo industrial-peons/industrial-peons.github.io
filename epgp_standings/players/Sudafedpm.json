@@ -1,6 +1,6 @@
 {
-  "ep": 584,
-  "gp": 500,
+  "ep": 558,
+  "gp": 482,
   "log": [
     {
       "ep": 0,
@@ -985,6 +985,54 @@
       "gp": 500,
       "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
       "timestamp": 1642736963
+    },
+    {
+      "ep": 467,
+      "gp": 500,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643142158
+    },
+    {
+      "ep": 467,
+      "gp": 387,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643142170
+    },
+    {
+      "ep": 487,
+      "gp": 387,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1643164992
+    },
+    {
+      "ep": 504,
+      "gp": 387,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1643168067
+    },
+    {
+      "ep": 521,
+      "gp": 387,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1643170454
+    },
+    {
+      "ep": 541,
+      "gp": 387,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1643172213
+    },
+    {
+      "ep": 541,
+      "gp": 482,
+      "description": "Add GP 95 (Full Price)\n[Band of the Ranger-General]",
+      "timestamp": 1643172499
+    },
+    {
+      "ep": 558,
+      "gp": 482,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1643173630
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 406,
-  "gp": 685,
+  "ep": 324,
+  "gp": 526,
   "log": [
     {
       "ep": 0,
@@ -61,6 +61,18 @@
       "gp": 685,
       "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
       "timestamp": 1642736964
+    },
+    {
+      "ep": 324,
+      "gp": 685,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643142154
+    },
+    {
+      "ep": 324,
+      "gp": 526,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643142161
     }
   ]
 }

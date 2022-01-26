@@ -1,6 +1,6 @@
 {
-  "ep": 568,
-  "gp": 341,
+  "ep": 545,
+  "gp": 311,
   "log": [
     {
       "ep": 0,
@@ -1051,6 +1051,60 @@
       "gp": 341,
       "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
       "timestamp": 1642736963
+    },
+    {
+      "ep": 454,
+      "gp": 341,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643142159
+    },
+    {
+      "ep": 454,
+      "gp": 268,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643142172
+    },
+    {
+      "ep": 454,
+      "gp": 275,
+      "description": "Add GP 7 (Off-spec (10%))\n[Band of Vile Aggression]",
+      "timestamp": 1643164015
+    },
+    {
+      "ep": 474,
+      "gp": 275,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1643164992
+    },
+    {
+      "ep": 491,
+      "gp": 275,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1643168067
+    },
+    {
+      "ep": 491,
+      "gp": 311,
+      "description": "Add GP 36 (Minor (50%))\n[Frayed Tether of the Drowned]",
+      "timestamp": 1643168177
+    },
+    {
+      "ep": 508,
+      "gp": 311,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1643170454
+    },
+    {
+      "ep": 528,
+      "gp": 311,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1643172213
+    },
+    {
+      "ep": 545,
+      "gp": 311,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1643173630
     }
   ]
 }

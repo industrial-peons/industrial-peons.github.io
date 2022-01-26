@@ -1,6 +1,6 @@
 {
-  "ep": 379,
-  "gp": 738,
+  "ep": 394,
+  "gp": 566,
   "log": [
     {
       "ep": 0,
@@ -751,6 +751,48 @@
       "gp": 738,
       "description": "Add GP 414 (Full Price)\n[The Nexus Key]",
       "timestamp": 1642737136
+    },
+    {
+      "ep": 303,
+      "gp": 738,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643142158
+    },
+    {
+      "ep": 303,
+      "gp": 566,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643142170
+    },
+    {
+      "ep": 323,
+      "gp": 566,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1643164992
+    },
+    {
+      "ep": 340,
+      "gp": 566,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1643168067
+    },
+    {
+      "ep": 357,
+      "gp": 566,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1643170454
+    },
+    {
+      "ep": 377,
+      "gp": 566,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1643172213
+    },
+    {
+      "ep": 394,
+      "gp": 566,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1643173630
     }
   ]
 }

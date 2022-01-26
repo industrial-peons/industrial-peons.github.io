@@ -1,6 +1,6 @@
 {
-  "ep": 531,
-  "gp": 535,
+  "ep": 515,
+  "gp": 497,
   "log": [
     {
       "ep": 0,
@@ -409,6 +409,66 @@
       "gp": 535,
       "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
       "timestamp": 1642736968
+    },
+    {
+      "ep": 424,
+      "gp": 535,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643142157
+    },
+    {
+      "ep": 424,
+      "gp": 413,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643142168
+    },
+    {
+      "ep": 444,
+      "gp": 413,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1643164997
+    },
+    {
+      "ep": 444,
+      "gp": 427,
+      "description": "Add GP 14 (Off-spec (10%))\n[Glorious Gauntlets of Crestfall] (on Lethelity)",
+      "timestamp": 1643165237
+    },
+    {
+      "ep": 461,
+      "gp": 427,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1643168072
+    },
+    {
+      "ep": 461,
+      "gp": 443,
+      "description": "Add GP +16 (Leggies) (on Lethelity)",
+      "timestamp": 1643169265
+    },
+    {
+      "ep": 478,
+      "gp": 443,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1643170456
+    },
+    {
+      "ep": 478,
+      "gp": 497,
+      "description": "Add GP 54 (Minor (50%))\n[Tome of Fiery Redemption] (on Lethelity)",
+      "timestamp": 1643170596
+    },
+    {
+      "ep": 498,
+      "gp": 497,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1643172218
+    },
+    {
+      "ep": 515,
+      "gp": 497,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1643173635
     }
   ]
 }

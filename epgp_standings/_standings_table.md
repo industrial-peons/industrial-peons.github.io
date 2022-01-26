@@ -1,35 +1,34 @@
 
-_Updated 01/21/2022._
+_Updated 01/25/2022._
 
 | Name | Effort points | Gear points | Priority |
 |:-----|:-------------:|:-----------:|---------:|
-|Anzo|146|83|1.76|
-|Blindhammer|197|66|2.98|
-|Butoijo|328|567|0.58|
-|Cattleguard|568|341|1.67|
-|Crazylane|120|230|0.52|
-|Cruid|551|525|1.05|
-|Cupidz|463|412|1.12|
-|Darkenlock|546|476|1.15|
-|Drekrigg|349|401|0.87|
-|Exzackto|585|144|4.06|
-|Fròst|352|346|1.02|
-|Jokerjay|572|493|1.16|
-|Kagis|465|579|0.80|
-|Lethality|531|535|0.99|
-|Masqueso|406|685|0.59|
-|Menatplay|379|738|0.51|
-|Moragari|257|513|0.50|
-|Nate|279|306|0.91|
-|Rannveig|531|318|1.67|
-|Rstyshklfrd|583|215|2.71|
-|Savahe|585|329|1.78|
+|Anzo|116|74|1.57|
+|Blindhammer|248|90|2.76|
+|Butoijo|262|437|0.60|
+|Cattleguard|545|311|1.75|
+|Cruid|531|406|1.31|
+|Cupidz|461|488|0.94|
+|Darkenlock|436|369|1.18|
+|Drekrigg|279|313|0.89|
+|Exzackto|559|120|4.66|
+|Fròst|281|272|1.03|
+|Jokerjay|548|507|1.08|
+|Kagis|463|876|0.53|
+|Lethality|515|497|1.04|
+|Masqueso|324|526|0.62|
+|Menatplay|394|566|0.70|
+|Moragari|205|397|0.52|
+|Nate|314|416|0.75|
+|Quesogrande|415|526|0.79|
+|Rannveig|515|251|2.05|
+|Rstyshklfrd|557|376|1.48|
+|Savahe|559|426|1.31|
 |Scrimmage|205|87|2.36|
-|Shaday|575|325|1.77|
-|Sudafedpm|584|500|1.17|
+|Shaday|551|287|1.92|
+|Sudafedpm|558|482|1.16|
 |Sunshîne|195|149|1.31|
-|Taikama|407|293|1.39|
-|Vultoro|585|228|2.57|
-|Whisperes|134|51|2.63|
-|Wrecktangle|510|306|1.67|
-|Xantharl|112|83|1.35|
+|Taikama|416|439|0.95|
+|Vultoro|559|183|3.05|
+|Whisperes|107|50|2.14|
+|Wrecktangle|499|417|1.20|

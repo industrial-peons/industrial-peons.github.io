@@ -1,6 +1,6 @@
 {
-  "ep": 583,
-  "gp": 215,
+  "ep": 557,
+  "gp": 376,
   "log": [
     {
       "ep": 0,
@@ -1069,6 +1069,60 @@
       "gp": 215,
       "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
       "timestamp": 1642736963
+    },
+    {
+      "ep": 466,
+      "gp": 215,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643142158
+    },
+    {
+      "ep": 466,
+      "gp": 173,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643142169
+    },
+    {
+      "ep": 486,
+      "gp": 173,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1643164991
+    },
+    {
+      "ep": 486,
+      "gp": 340,
+      "description": "Add GP 167 (Full Price)\n[Helm of the Vanquished Defender]",
+      "timestamp": 1643165139
+    },
+    {
+      "ep": 503,
+      "gp": 340,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1643168067
+    },
+    {
+      "ep": 520,
+      "gp": 340,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1643170454
+    },
+    {
+      "ep": 520,
+      "gp": 376,
+      "description": "Add GP 36 (Minor (50%))\n[Phoenix-Ring of Rebirth]",
+      "timestamp": 1643170514
+    },
+    {
+      "ep": 540,
+      "gp": 376,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1643172213
+    },
+    {
+      "ep": 557,
+      "gp": 376,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1643173630
     }
   ]
 }

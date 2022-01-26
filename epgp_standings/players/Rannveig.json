@@ -1,6 +1,6 @@
 {
-  "ep": 531,
-  "gp": 318,
+  "ep": 515,
+  "gp": 251,
   "log": [
     {
       "ep": 0,
@@ -1147,6 +1147,48 @@
       "gp": 318,
       "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
       "timestamp": 1642736963
+    },
+    {
+      "ep": 424,
+      "gp": 318,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643142153
+    },
+    {
+      "ep": 424,
+      "gp": 251,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643142160
+    },
+    {
+      "ep": 444,
+      "gp": 251,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1643164992
+    },
+    {
+      "ep": 461,
+      "gp": 251,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1643168067
+    },
+    {
+      "ep": 478,
+      "gp": 251,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1643170454
+    },
+    {
+      "ep": 498,
+      "gp": 251,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1643172213
+    },
+    {
+      "ep": 515,
+      "gp": 251,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1643173630
     }
   ]
 }

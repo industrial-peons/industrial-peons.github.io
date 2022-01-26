@@ -1,6 +1,6 @@
 {
-  "ep": 465,
-  "gp": 579,
+  "ep": 463,
+  "gp": 876,
   "log": [
     {
       "ep": 0,
@@ -763,6 +763,60 @@
       "gp": 579,
       "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
       "timestamp": 1642736963
+    },
+    {
+      "ep": 372,
+      "gp": 579,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643142158
+    },
+    {
+      "ep": 372,
+      "gp": 446,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643142169
+    },
+    {
+      "ep": 392,
+      "gp": 446,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1643164991
+    },
+    {
+      "ep": 392,
+      "gp": 860,
+      "description": "Add GP 414 (Full Price)\n[Serpent Spine Longbow]",
+      "timestamp": 1643165077
+    },
+    {
+      "ep": 409,
+      "gp": 860,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1643168067
+    },
+    {
+      "ep": 409,
+      "gp": 876,
+      "description": "Add GP 16 (Off-spec (10%))\n[Leggings of the Vanquished Hero]",
+      "timestamp": 1643168213
+    },
+    {
+      "ep": 426,
+      "gp": 876,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1643170454
+    },
+    {
+      "ep": 446,
+      "gp": 876,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1643172213
+    },
+    {
+      "ep": 463,
+      "gp": 876,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1643173630
     }
   ]
 }

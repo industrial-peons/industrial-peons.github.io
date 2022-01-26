@@ -1,6 +1,6 @@
 {
-  "ep": 585,
-  "gp": 329,
+  "ep": 559,
+  "gp": 426,
   "log": [
     {
       "ep": 0,
@@ -1081,6 +1081,66 @@
       "gp": 329,
       "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
       "timestamp": 1642736963
+    },
+    {
+      "ep": 468,
+      "gp": 329,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643142159
+    },
+    {
+      "ep": 468,
+      "gp": 259,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643142172
+    },
+    {
+      "ep": 488,
+      "gp": 259,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1643164992
+    },
+    {
+      "ep": 505,
+      "gp": 259,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1643168067
+    },
+    {
+      "ep": 522,
+      "gp": 259,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1643170454
+    },
+    {
+      "ep": 542,
+      "gp": 259,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1643172213
+    },
+    {
+      "ep": 542,
+      "gp": 426,
+      "description": "Add GP 167 (Full Price)\n[Chestguard of the Vanquished Champion]",
+      "timestamp": 1643172341
+    },
+    {
+      "ep": 559,
+      "gp": 426,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1643173630
+    },
+    {
+      "ep": 559,
+      "gp": 440,
+      "description": "Add GP 14 (Off-spec (10%))\n[Void Reaver Greaves]",
+      "timestamp": 1643173748
+    },
+    {
+      "ep": 559,
+      "gp": 426,
+      "description": "Subtract GP -14 (No leggies)",
+      "timestamp": 1643173963
     }
   ]
 }

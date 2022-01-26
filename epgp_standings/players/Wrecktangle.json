@@ -1,6 +1,6 @@
 {
-  "ep": 510,
-  "gp": 306,
+  "ep": 499,
+  "gp": 417,
   "log": [
     {
       "ep": 0,
@@ -391,6 +391,60 @@
       "gp": 306,
       "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
       "timestamp": 1642736963
+    },
+    {
+      "ep": 408,
+      "gp": 306,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643142158
+    },
+    {
+      "ep": 408,
+      "gp": 242,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643142169
+    },
+    {
+      "ep": 408,
+      "gp": 250,
+      "description": "Add GP 8 (Off-spec (10%))\n[Serpentshrine Shuriken]",
+      "timestamp": 1643163328
+    },
+    {
+      "ep": 428,
+      "gp": 250,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1643164991
+    },
+    {
+      "ep": 445,
+      "gp": 250,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1643168067
+    },
+    {
+      "ep": 462,
+      "gp": 250,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1643170454
+    },
+    {
+      "ep": 482,
+      "gp": 250,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1643172213
+    },
+    {
+      "ep": 482,
+      "gp": 417,
+      "description": "Add GP 167 (Full Price)\n[Chestguard of the Vanquished Defender]",
+      "timestamp": 1643172453
+    },
+    {
+      "ep": 499,
+      "gp": 417,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1643173630
     }
   ]
 }

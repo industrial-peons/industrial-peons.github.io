@@ -1,6 +1,6 @@
 {
-  "ep": 197,
-  "gp": 66,
+  "ep": 248,
+  "gp": 90,
   "log": [
     {
       "ep": 0,
@@ -769,6 +769,60 @@
       "gp": 66,
       "description": "Add EP 20 (Killed Lady Vashj)",
       "timestamp": 1642565811
+    },
+    {
+      "ep": 157,
+      "gp": 66,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643142157
+    },
+    {
+      "ep": 157,
+      "gp": 62,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643142169
+    },
+    {
+      "ep": 177,
+      "gp": 62,
+      "description": "Add EP 20 (Killed Lady Vashj)",
+      "timestamp": 1643164991
+    },
+    {
+      "ep": 177,
+      "gp": 78,
+      "description": "Add GP 16 (Off-spec (10%))\n[Helm of the Vanquished Champion]",
+      "timestamp": 1643165199
+    },
+    {
+      "ep": 194,
+      "gp": 78,
+      "description": "Add EP 17 (Killed Fathom-Lord Karathress)",
+      "timestamp": 1643168067
+    },
+    {
+      "ep": 211,
+      "gp": 78,
+      "description": "Add EP 17 (Killed Al'ar)",
+      "timestamp": 1643170454
+    },
+    {
+      "ep": 231,
+      "gp": 78,
+      "description": "Add EP 20 (Killed Kael'thas Sunstrider)",
+      "timestamp": 1643172213
+    },
+    {
+      "ep": 248,
+      "gp": 78,
+      "description": "Add EP 17 (Killed Void Reaver)",
+      "timestamp": 1643173630
+    },
+    {
+      "ep": 248,
+      "gp": 90,
+      "description": "Add GP 12 (Off-spec (10%))\n[Pauldrons of the Vanquished Champion]",
+      "timestamp": 1643173794
     }
   ]
 }

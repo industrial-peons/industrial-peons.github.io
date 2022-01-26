@@ -1,6 +1,6 @@
 {
-  "ep": 349,
-  "gp": 401,
+  "ep": 279,
+  "gp": 313,
   "log": [
     {
       "ep": 0,
@@ -475,6 +475,18 @@
       "gp": 401,
       "description": "Add GP 95 (Minor (50%))\n[Leggings of Murderous Intent]",
       "timestamp": 1642737195
+    },
+    {
+      "ep": 279,
+      "gp": 401,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643142158
+    },
+    {
+      "ep": 279,
+      "gp": 313,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643142169
     }
   ]
 }
