@@ -1,6 +1,6 @@
 {
-  "ep": 545,
-  "gp": 311,
+  "ep": 625,
+  "gp": 466,
   "log": [
     {
       "ep": 0,
@@ -1105,6 +1105,48 @@
       "gp": 311,
       "description": "Add EP 17 (Killed Void Reaver)",
       "timestamp": 1643173630
+    },
+    {
+      "ep": 565,
+      "gp": 311,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643337364
+    },
+    {
+      "ep": 585,
+      "gp": 311,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643338577
+    },
+    {
+      "ep": 585,
+      "gp": 466,
+      "description": "Add GP 155 (Minor (50%))\n[The Unbreakable Will]",
+      "timestamp": 1643338680
+    },
+    {
+      "ep": 605,
+      "gp": 466,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643342729
+    },
+    {
+      "ep": 625,
+      "gp": 466,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643346196
+    },
+    {
+      "ep": 625,
+      "gp": 569,
+      "description": "Add GP 103 (Minor (50%))\n[Glory of the Defender]",
+      "timestamp": 1643346380
+    },
+    {
+      "ep": 625,
+      "gp": 466,
+      "description": "Subtract GP -103 (No Glory of the Defender :()",
+      "timestamp": 1643348947
     }
   ]
 }

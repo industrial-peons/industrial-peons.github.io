@@ -1,6 +1,6 @@
 {
-  "ep": 558,
-  "gp": 482,
+  "ep": 638,
+  "gp": 792,
   "log": [
     {
       "ep": 0,
@@ -1033,6 +1033,36 @@
       "gp": 482,
       "description": "Add EP 17 (Killed Void Reaver)",
       "timestamp": 1643173630
+    },
+    {
+      "ep": 578,
+      "gp": 482,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643337364
+    },
+    {
+      "ep": 578,
+      "gp": 792,
+      "description": "Add GP 310 (Full Price)\n[Tracker's Blade]",
+      "timestamp": 1643337453
+    },
+    {
+      "ep": 598,
+      "gp": 792,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643338577
+    },
+    {
+      "ep": 618,
+      "gp": 792,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643342729
+    },
+    {
+      "ep": 638,
+      "gp": 792,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643346196
     }
   ]
 }

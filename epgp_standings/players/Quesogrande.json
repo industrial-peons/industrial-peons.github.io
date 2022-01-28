@@ -1,6 +1,6 @@
 {
-  "ep": 415,
-  "gp": 526,
+  "ep": 495,
+  "gp": 681,
   "log": [
     {
       "ep": 0,
@@ -61,6 +61,36 @@
       "gp": 526,
       "description": "Add EP 17 (Killed Void Reaver)",
       "timestamp": 1643173630
+    },
+    {
+      "ep": 435,
+      "gp": 526,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643337364
+    },
+    {
+      "ep": 455,
+      "gp": 526,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643338576
+    },
+    {
+      "ep": 475,
+      "gp": 526,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643342729
+    },
+    {
+      "ep": 475,
+      "gp": 681,
+      "description": "Add GP 155 (Full Price)\n[Angelista's Sash]",
+      "timestamp": 1643343070
+    },
+    {
+      "ep": 495,
+      "gp": 681,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643346196
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 515,
-  "gp": 251,
+  "ep": 595,
+  "gp": 266,
   "log": [
     {
       "ep": 0,
@@ -1189,6 +1189,36 @@
       "gp": 251,
       "description": "Add EP 17 (Killed Void Reaver)",
       "timestamp": 1643173630
+    },
+    {
+      "ep": 535,
+      "gp": 251,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643337364
+    },
+    {
+      "ep": 555,
+      "gp": 251,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643338577
+    },
+    {
+      "ep": 575,
+      "gp": 251,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643342729
+    },
+    {
+      "ep": 575,
+      "gp": 266,
+      "description": "Add GP 15 (Off-spec (10%))\n[Razorfury Mantle]",
+      "timestamp": 1643343108
+    },
+    {
+      "ep": 595,
+      "gp": 266,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643346197
     }
   ]
 }

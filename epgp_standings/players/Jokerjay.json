@@ -1,5 +1,5 @@
 {
-  "ep": 548,
+  "ep": 628,
   "gp": 507,
   "log": [
     {
@@ -901,6 +901,30 @@
       "gp": 507,
       "description": "Add GP 125 (Full Price)\n[Pauldrons of the Vanquished Defender]",
       "timestamp": 1643173675
+    },
+    {
+      "ep": 568,
+      "gp": 507,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643337364
+    },
+    {
+      "ep": 588,
+      "gp": 507,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643338577
+    },
+    {
+      "ep": 608,
+      "gp": 507,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643342729
+    },
+    {
+      "ep": 628,
+      "gp": 507,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643346196
     }
   ]
 }

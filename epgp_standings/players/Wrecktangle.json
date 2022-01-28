@@ -1,6 +1,6 @@
 {
-  "ep": 499,
-  "gp": 417,
+  "ep": 579,
+  "gp": 623,
   "log": [
     {
       "ep": 0,
@@ -445,6 +445,42 @@
       "gp": 417,
       "description": "Add EP 17 (Killed Void Reaver)",
       "timestamp": 1643173630
+    },
+    {
+      "ep": 519,
+      "gp": 417,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643337364
+    },
+    {
+      "ep": 539,
+      "gp": 417,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643338577
+    },
+    {
+      "ep": 539,
+      "gp": 520,
+      "description": "Add GP 103 (Full Price)\n[Pepe's Shroud of Pacification]",
+      "timestamp": 1643338718
+    },
+    {
+      "ep": 559,
+      "gp": 520,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643342729
+    },
+    {
+      "ep": 579,
+      "gp": 520,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643346196
+    },
+    {
+      "ep": 579,
+      "gp": 623,
+      "description": "Add GP +103 (Glory of the Defender)",
+      "timestamp": 1643348938
     }
   ]
 }

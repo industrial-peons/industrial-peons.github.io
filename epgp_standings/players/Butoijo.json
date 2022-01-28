@@ -1,6 +1,6 @@
 {
-  "ep": 262,
-  "gp": 437,
+  "ep": 342,
+  "gp": 747,
   "log": [
     {
       "ep": 0,
@@ -61,6 +61,36 @@
       "gp": 437,
       "description": "25% weekly GP decay",
       "timestamp": 1643142160
+    },
+    {
+      "ep": 282,
+      "gp": 437,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643337364
+    },
+    {
+      "ep": 302,
+      "gp": 437,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643338576
+    },
+    {
+      "ep": 322,
+      "gp": 437,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643342729
+    },
+    {
+      "ep": 322,
+      "gp": 747,
+      "description": "Add GP 310 (Full Price)\n[Claw of Molten Fury]",
+      "timestamp": 1643342902
+    },
+    {
+      "ep": 342,
+      "gp": 747,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643346196
     }
   ]
 }

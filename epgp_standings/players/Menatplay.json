@@ -1,6 +1,6 @@
 {
-  "ep": 394,
-  "gp": 566,
+  "ep": 474,
+  "gp": 617,
   "log": [
     {
       "ep": 0,
@@ -793,6 +793,36 @@
       "gp": 566,
       "description": "Add EP 17 (Killed Void Reaver)",
       "timestamp": 1643173630
+    },
+    {
+      "ep": 414,
+      "gp": 566,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643337364
+    },
+    {
+      "ep": 434,
+      "gp": 566,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643338577
+    },
+    {
+      "ep": 454,
+      "gp": 566,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643342729
+    },
+    {
+      "ep": 454,
+      "gp": 617,
+      "description": "Add GP 51 (Minor (50%))\n[Hellfire-Encased Pendant]",
+      "timestamp": 1643342834
+    },
+    {
+      "ep": 474,
+      "gp": 617,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643346196
     }
   ]
 }

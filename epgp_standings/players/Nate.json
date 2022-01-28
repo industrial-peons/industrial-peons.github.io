@@ -1,5 +1,5 @@
 {
-  "ep": 314,
+  "ep": 394,
   "gp": 416,
   "log": [
     {
@@ -235,6 +235,30 @@
       "gp": 416,
       "description": "Add GP +7 (Neat ring)",
       "timestamp": 1643173997
+    },
+    {
+      "ep": 334,
+      "gp": 416,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643337364
+    },
+    {
+      "ep": 354,
+      "gp": 416,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643338577
+    },
+    {
+      "ep": 374,
+      "gp": 416,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643342729
+    },
+    {
+      "ep": 394,
+      "gp": 416,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643346196
     }
   ]
 }

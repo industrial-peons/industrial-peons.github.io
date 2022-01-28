@@ -1,5 +1,5 @@
 {
-  "ep": 461,
+  "ep": 541,
   "gp": 488,
   "log": [
     {
@@ -775,6 +775,30 @@
       "gp": 488,
       "description": "Add EP 17 (Killed Void Reaver)",
       "timestamp": 1643173630
+    },
+    {
+      "ep": 481,
+      "gp": 488,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643337364
+    },
+    {
+      "ep": 501,
+      "gp": 488,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643338576
+    },
+    {
+      "ep": 521,
+      "gp": 488,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643342729
+    },
+    {
+      "ep": 541,
+      "gp": 488,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643346196
     }
   ]
 }

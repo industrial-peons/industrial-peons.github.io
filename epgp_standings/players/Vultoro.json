@@ -1,6 +1,6 @@
 {
-  "ep": 559,
-  "gp": 183,
+  "ep": 639,
+  "gp": 338,
   "log": [
     {
       "ep": 0,
@@ -1129,6 +1129,36 @@
       "gp": 183,
       "description": "Add EP 17 (Killed Void Reaver)",
       "timestamp": 1643173630
+    },
+    {
+      "ep": 579,
+      "gp": 183,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643337364
+    },
+    {
+      "ep": 579,
+      "gp": 338,
+      "description": "Add GP 155 (Full Price)\n[Stillwater Boots]",
+      "timestamp": 1643337503
+    },
+    {
+      "ep": 599,
+      "gp": 338,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643338577
+    },
+    {
+      "ep": 619,
+      "gp": 338,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643342729
+    },
+    {
+      "ep": 639,
+      "gp": 338,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643346196
     }
   ]
 }
