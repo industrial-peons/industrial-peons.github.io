@@ -1,6 +1,6 @@
 {
-  "ep": 541,
-  "gp": 488,
+  "ep": 534,
+  "gp": 378,
   "log": [
     {
       "ep": 0,
@@ -799,6 +799,48 @@
       "gp": 488,
       "description": "Add EP 20 (Killed Azgalor)",
       "timestamp": 1643346196
+    },
+    {
+      "ep": 432,
+      "gp": 488,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643747152
+    },
+    {
+      "ep": 432,
+      "gp": 378,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643747160
+    },
+    {
+      "ep": 452,
+      "gp": 378,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643768550
+    },
+    {
+      "ep": 472,
+      "gp": 378,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643769581
+    },
+    {
+      "ep": 492,
+      "gp": 378,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643771216
+    },
+    {
+      "ep": 512,
+      "gp": 378,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643774787
+    },
+    {
+      "ep": 534,
+      "gp": 378,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1643778091
     }
   ]
 }

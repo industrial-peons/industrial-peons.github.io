@@ -1,6 +1,6 @@
 {
-  "ep": 474,
-  "gp": 617,
+  "ep": 379,
+  "gp": 475,
   "log": [
     {
       "ep": 0,
@@ -823,6 +823,18 @@
       "gp": 617,
       "description": "Add EP 20 (Killed Azgalor)",
       "timestamp": 1643346196
+    },
+    {
+      "ep": 379,
+      "gp": 617,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643747152
+    },
+    {
+      "ep": 379,
+      "gp": 475,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643747161
     }
   ]
 }

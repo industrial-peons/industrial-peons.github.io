@@ -1,6 +1,6 @@
 {
-  "ep": 496,
-  "gp": 439,
+  "ep": 498,
+  "gp": 577,
   "log": [
     {
       "ep": 0,
@@ -997,6 +997,54 @@
       "gp": 439,
       "description": "Add EP 20 (Killed Azgalor)",
       "timestamp": 1643346196
+    },
+    {
+      "ep": 396,
+      "gp": 439,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643747152
+    },
+    {
+      "ep": 396,
+      "gp": 341,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643747161
+    },
+    {
+      "ep": 416,
+      "gp": 341,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643768550
+    },
+    {
+      "ep": 436,
+      "gp": 341,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643769581
+    },
+    {
+      "ep": 456,
+      "gp": 341,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643771216
+    },
+    {
+      "ep": 476,
+      "gp": 341,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643774787
+    },
+    {
+      "ep": 498,
+      "gp": 341,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1643778091
+    },
+    {
+      "ep": 498,
+      "gp": 577,
+      "description": "Add GP 236 (Full Price)\n[Helm of the Forgotten Vanquisher]",
+      "timestamp": 1643778291
     }
   ]
 }

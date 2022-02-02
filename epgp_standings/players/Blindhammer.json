@@ -1,6 +1,6 @@
 {
-  "ep": 248,
-  "gp": 90,
+  "ep": 300,
+  "gp": 350,
   "log": [
     {
       "ep": 0,
@@ -823,6 +823,54 @@
       "gp": 90,
       "description": "Add GP 12 (Off-spec (10%))\n[Pauldrons of the Vanquished Champion]",
       "timestamp": 1643173794
+    },
+    {
+      "ep": 198,
+      "gp": 90,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643747152
+    },
+    {
+      "ep": 198,
+      "gp": 80,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643747160
+    },
+    {
+      "ep": 218,
+      "gp": 80,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643768550
+    },
+    {
+      "ep": 238,
+      "gp": 80,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643769581
+    },
+    {
+      "ep": 258,
+      "gp": 80,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643771216
+    },
+    {
+      "ep": 278,
+      "gp": 80,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643774787
+    },
+    {
+      "ep": 300,
+      "gp": 80,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1643778091
+    },
+    {
+      "ep": 300,
+      "gp": 350,
+      "description": "Add GP 270 (Full Price)\n[Midnight Chestguard]",
+      "timestamp": 1643778245
     }
   ]
 }

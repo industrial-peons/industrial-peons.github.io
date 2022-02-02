@@ -1,6 +1,6 @@
 {
-  "ep": 639,
-  "gp": 426,
+  "ep": 613,
+  "gp": 539,
   "log": [
     {
       "ep": 0,
@@ -1165,6 +1165,54 @@
       "gp": 426,
       "description": "Add EP 20 (Killed Azgalor)",
       "timestamp": 1643346196
+    },
+    {
+      "ep": 511,
+      "gp": 426,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643747148
+    },
+    {
+      "ep": 511,
+      "gp": 332,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643747155
+    },
+    {
+      "ep": 531,
+      "gp": 332,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643768550
+    },
+    {
+      "ep": 551,
+      "gp": 332,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643769581
+    },
+    {
+      "ep": 571,
+      "gp": 332,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643771216
+    },
+    {
+      "ep": 591,
+      "gp": 332,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643774788
+    },
+    {
+      "ep": 591,
+      "gp": 539,
+      "description": "Add GP 207 (Full Price)\n[Bow-stitched Leggings]",
+      "timestamp": 1643774875
+    },
+    {
+      "ep": 613,
+      "gp": 539,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1643778091
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 394,
-  "gp": 416,
+  "ep": 417,
+  "gp": 578,
   "log": [
     {
       "ep": 0,
@@ -259,6 +259,60 @@
       "gp": 416,
       "description": "Add EP 20 (Killed Azgalor)",
       "timestamp": 1643346196
+    },
+    {
+      "ep": 315,
+      "gp": 416,
+      "description": "20% weekly EP decay",
+      "timestamp": 1643747153
+    },
+    {
+      "ep": 315,
+      "gp": 324,
+      "description": "25% weekly GP decay",
+      "timestamp": 1643747161
+    },
+    {
+      "ep": 335,
+      "gp": 324,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1643768550
+    },
+    {
+      "ep": 335,
+      "gp": 401,
+      "description": "Add GP 77 (Minor (50%))\n[Blood-stained Pauldrons]",
+      "timestamp": 1643768679
+    },
+    {
+      "ep": 355,
+      "gp": 401,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1643769581
+    },
+    {
+      "ep": 375,
+      "gp": 401,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1643771216
+    },
+    {
+      "ep": 395,
+      "gp": 401,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1643774787
+    },
+    {
+      "ep": 395,
+      "gp": 578,
+      "description": "Add GP 177 (Full Price)\n[Gloves of the Forgotten Protector]",
+      "timestamp": 1643774983
+    },
+    {
+      "ep": 417,
+      "gp": 578,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1643778091
     }
   ]
 }
