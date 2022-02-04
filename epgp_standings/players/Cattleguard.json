@@ -1,6 +1,6 @@
 {
-  "ep": 602,
-  "gp": 362,
+  "ep": 682,
+  "gp": 403,
   "log": [
     {
       "ep": 0,
@@ -1189,6 +1189,36 @@
       "gp": 362,
       "description": "Add EP 22 (Killed Archimonde)",
       "timestamp": 1643778091
+    },
+    {
+      "ep": 622,
+      "gp": 362,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1643941351
+    },
+    {
+      "ep": 642,
+      "gp": 362,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1643944509
+    },
+    {
+      "ep": 662,
+      "gp": 362,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1643947945
+    },
+    {
+      "ep": 682,
+      "gp": 362,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1643950469
+    },
+    {
+      "ep": 682,
+      "gp": 403,
+      "description": "Add GP 41 (Off-spec (10%))\n[Rifle of the Stoic Guardian]",
+      "timestamp": 1643950529
     }
   ]
 }

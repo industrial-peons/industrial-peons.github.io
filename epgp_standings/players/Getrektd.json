@@ -1,5 +1,5 @@
 {
-  "ep": 397,
+  "ep": 477,
   "gp": 505,
   "log": [
     {
@@ -85,6 +85,30 @@
       "gp": 505,
       "description": "Add EP 22 (Killed Archimonde)",
       "timestamp": 1643778091
+    },
+    {
+      "ep": 417,
+      "gp": 505,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1643941351
+    },
+    {
+      "ep": 437,
+      "gp": 505,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1643944508
+    },
+    {
+      "ep": 457,
+      "gp": 505,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1643947945
+    },
+    {
+      "ep": 477,
+      "gp": 505,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1643950469
     }
   ]
 }

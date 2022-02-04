@@ -1,5 +1,5 @@
 {
-  "ep": 578,
+  "ep": 658,
   "gp": 798,
   "log": [
     {
@@ -547,6 +547,30 @@
       "gp": 798,
       "description": "Add GP 236 (Full Price)\n[Helm of the Forgotten Conqueror] (on Lethelity)",
       "timestamp": 1643778169
+    },
+    {
+      "ep": 598,
+      "gp": 798,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1643941356
+    },
+    {
+      "ep": 618,
+      "gp": 798,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1643944514
+    },
+    {
+      "ep": 638,
+      "gp": 798,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1643947951
+    },
+    {
+      "ep": 658,
+      "gp": 798,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1643950474
     }
   ]
 }

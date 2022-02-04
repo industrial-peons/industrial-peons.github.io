@@ -1,34 +1,34 @@
 
-_Updated 02/01/2022._
+_Updated 02/04/2022._
 
 | Name | Effort points | Gear points | Priority |
 |:-----|:-------------:|:-----------:|---------:|
 |Blindhammer|300|350|0.86|
-|Butoijo|375|572|0.66|
-|Cattleguard|602|362|1.66|
-|Cruid|590|449|1.31|
-|Cupidz|534|378|1.41|
+|Butoijo|455|649|0.70|
+|Cattleguard|682|403|1.69|
+|Cruid|670|449|1.49|
+|Cupidz|614|378|1.62|
 |Darkenlock|348|289|1.20|
-|Drekrigg|287|247|1.16|
-|Exzackto|613|309|1.98|
+|Drekrigg|367|247|1.49|
+|Exzackto|693|386|1.80|
 |Fròst|224|216|1.04|
-|Getrektd|397|505|0.79|
+|Getrektd|477|505|0.94|
 |Jatte|357|501|0.71|
-|Jokerjay|604|443|1.36|
-|Kagis|536|669|0.80|
-|Lethality|578|798|0.72|
+|Jokerjay|684|443|1.54|
+|Kagis|616|778|0.79|
+|Lethality|658|798|0.82|
 |Menatplay|379|475|0.80|
-|Moragari|164|310|0.53|
+|Moragari|244|310|0.79|
 |Nate|417|578|0.72|
-|Quesogrande|498|523|0.95|
-|Rannveig|578|212|2.73|
-|Rstyshklfrd|611|309|1.98|
-|Savahe|613|539|1.14|
+|Quesogrande|578|523|1.11|
+|Rannveig|658|356|1.85|
+|Rstyshklfrd|691|309|2.24|
+|Savahe|693|539|1.29|
 |Scrimmage|205|87|2.36|
-|Shaday|606|656|0.92|
-|Sudafedpm|612|606|1.01|
+|Shaday|686|656|1.05|
+|Sudafedpm|692|761|0.91|
 |Sunshîne|195|149|1.31|
-|Taikama|498|577|0.86|
-|Vultoro|613|266|2.30|
-|Wrecktangle|565|479|1.18|
-|ßeckøn|306|598|0.51|
+|Taikama|578|577|1.00|
+|Vultoro|693|266|2.61|
+|Wrecktangle|645|634|1.02|
+|ßeckøn|386|598|0.65|

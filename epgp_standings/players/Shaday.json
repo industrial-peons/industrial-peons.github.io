@@ -1,5 +1,5 @@
 {
-  "ep": 606,
+  "ep": 686,
   "gp": 656,
   "log": [
     {
@@ -1153,6 +1153,30 @@
       "gp": 656,
       "description": "Add GP 405 (Full Price)\n[Tempest of Chaos]",
       "timestamp": 1643778200
+    },
+    {
+      "ep": 626,
+      "gp": 656,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1643941351
+    },
+    {
+      "ep": 646,
+      "gp": 656,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1643944509
+    },
+    {
+      "ep": 666,
+      "gp": 656,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1643947945
+    },
+    {
+      "ep": 686,
+      "gp": 656,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1643950469
     }
   ]
 }

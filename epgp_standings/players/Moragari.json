@@ -1,5 +1,5 @@
 {
-  "ep": 164,
+  "ep": 244,
   "gp": 310,
   "log": [
     {
@@ -43,6 +43,30 @@
       "gp": 310,
       "description": "25% weekly GP decay",
       "timestamp": 1643747155
+    },
+    {
+      "ep": 184,
+      "gp": 310,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1643941351
+    },
+    {
+      "ep": 204,
+      "gp": 310,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1643944508
+    },
+    {
+      "ep": 224,
+      "gp": 310,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1643947945
+    },
+    {
+      "ep": 244,
+      "gp": 310,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1643950469
     }
   ]
 }
