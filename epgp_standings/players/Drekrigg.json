@@ -1,6 +1,6 @@
 {
-  "ep": 367,
-  "gp": 247,
+  "ep": 393,
+  "gp": 197,
   "log": [
     {
       "ep": 0,
@@ -547,6 +547,54 @@
       "gp": 247,
       "description": "Add EP 20 (Killed Teron Gorefiend)",
       "timestamp": 1643950469
+    },
+    {
+      "ep": 293,
+      "gp": 197,
+      "description": "20% weekly EP decay",
+      "timestamp": 1644352119
+    },
+    {
+      "ep": 313,
+      "gp": 197,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1644545659
+    },
+    {
+      "ep": 333,
+      "gp": 197,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1644547024
+    },
+    {
+      "ep": 353,
+      "gp": 197,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1644549229
+    },
+    {
+      "ep": 353,
+      "gp": 212,
+      "description": "Add GP 15 (Off-spec (10%))\n[Shadow-walker's Cord]",
+      "timestamp": 1644549293
+    },
+    {
+      "ep": 353,
+      "gp": 197,
+      "description": "Subtract GP -15 (Refund)",
+      "timestamp": 1644549335
+    },
+    {
+      "ep": 373,
+      "gp": 197,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1644551515
+    },
+    {
+      "ep": 393,
+      "gp": 197,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1644555324
     }
   ]
 }

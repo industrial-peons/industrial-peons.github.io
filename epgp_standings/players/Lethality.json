@@ -1,6 +1,6 @@
 {
-  "ep": 658,
-  "gp": 798,
+  "ep": 728,
+  "gp": 869,
   "log": [
     {
       "ep": 0,
@@ -571,6 +571,84 @@
       "gp": 798,
       "description": "Add EP 20 (Killed Teron Gorefiend)",
       "timestamp": 1643950474
+    },
+    {
+      "ep": 526,
+      "gp": 611,
+      "description": "20% weekly EP decay",
+      "timestamp": 1644352118
+    },
+    {
+      "ep": 546,
+      "gp": 611,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1644373565
+    },
+    {
+      "ep": 566,
+      "gp": 611,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1644374601
+    },
+    {
+      "ep": 586,
+      "gp": 611,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1644376194
+    },
+    {
+      "ep": 606,
+      "gp": 611,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1644378198
+    },
+    {
+      "ep": 628,
+      "gp": 611,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1644380207
+    },
+    {
+      "ep": 648,
+      "gp": 611,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1644545665
+    },
+    {
+      "ep": 648,
+      "gp": 766,
+      "description": "Add GP 155 (Full Price)\n[Tide-stomper's Greaves] (on Lethelity)",
+      "timestamp": 1644545735
+    },
+    {
+      "ep": 668,
+      "gp": 766,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1644547029
+    },
+    {
+      "ep": 668,
+      "gp": 869,
+      "description": "Add GP 103 (Full Price)\n[Illidari Runeshield] (on Lethelity)",
+      "timestamp": 1644547944
+    },
+    {
+      "ep": 688,
+      "gp": 869,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1644549230
+    },
+    {
+      "ep": 708,
+      "gp": 869,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1644551518
+    },
+    {
+      "ep": 728,
+      "gp": 869,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1644555329
     }
   ]
 }

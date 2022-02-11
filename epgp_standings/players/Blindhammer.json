@@ -1,6 +1,6 @@
 {
-  "ep": 300,
-  "gp": 350,
+  "ep": 342,
+  "gp": 275,
   "log": [
     {
       "ep": 0,
@@ -871,6 +871,42 @@
       "gp": 350,
       "description": "Add GP 270 (Full Price)\n[Midnight Chestguard]",
       "timestamp": 1643778245
+    },
+    {
+      "ep": 240,
+      "gp": 275,
+      "description": "20% weekly EP decay",
+      "timestamp": 1644352119
+    },
+    {
+      "ep": 260,
+      "gp": 275,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1644373563
+    },
+    {
+      "ep": 280,
+      "gp": 275,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1644374594
+    },
+    {
+      "ep": 300,
+      "gp": 275,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1644376188
+    },
+    {
+      "ep": 320,
+      "gp": 275,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1644378193
+    },
+    {
+      "ep": 342,
+      "gp": 275,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1644380202
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "ep": 684,
-  "gp": 443,
+  "ep": 749,
+  "gp": 462,
   "log": [
     {
       "ep": 0,
@@ -997,6 +997,84 @@
       "gp": 443,
       "description": "Add EP 20 (Killed Teron Gorefiend)",
       "timestamp": 1643950469
+    },
+    {
+      "ep": 547,
+      "gp": 344,
+      "description": "20% weekly EP decay",
+      "timestamp": 1644352120
+    },
+    {
+      "ep": 567,
+      "gp": 344,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1644373563
+    },
+    {
+      "ep": 587,
+      "gp": 344,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1644374594
+    },
+    {
+      "ep": 587,
+      "gp": 359,
+      "description": "Add GP 15 (Off-spec (10%))\n[Anetheron's Noose]",
+      "timestamp": 1644374714
+    },
+    {
+      "ep": 607,
+      "gp": 359,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1644376188
+    },
+    {
+      "ep": 627,
+      "gp": 359,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1644378193
+    },
+    {
+      "ep": 649,
+      "gp": 359,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1644380202
+    },
+    {
+      "ep": 669,
+      "gp": 359,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1644545659
+    },
+    {
+      "ep": 689,
+      "gp": 359,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1644547024
+    },
+    {
+      "ep": 709,
+      "gp": 359,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1644549229
+    },
+    {
+      "ep": 729,
+      "gp": 359,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1644551515
+    },
+    {
+      "ep": 749,
+      "gp": 359,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1644555324
+    },
+    {
+      "ep": 749,
+      "gp": 462,
+      "description": "Add GP 103 (Full Price)\n[Translucent Spellthread Necklace]",
+      "timestamp": 1644555421
     }
   ]
 }

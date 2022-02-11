@@ -1,0 +1,108 @@
+{
+  "ep": 479,
+  "gp": 799,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1643313763
+    },
+    {
+      "ep": 277,
+      "gp": 50,
+      "description": "Add EP +277 (Starting EP)",
+      "timestamp": 1644372540
+    },
+    {
+      "ep": 277,
+      "gp": 458,
+      "description": "Add GP +408 (Starting GP)",
+      "timestamp": 1644372568
+    },
+    {
+      "ep": 297,
+      "gp": 458,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1644373563
+    },
+    {
+      "ep": 317,
+      "gp": 458,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1644374594
+    },
+    {
+      "ep": 317,
+      "gp": 561,
+      "description": "Add GP 103 (Full Price)\n[Hellfire-Encased Pendant]",
+      "timestamp": 1644374762
+    },
+    {
+      "ep": 337,
+      "gp": 561,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1644376188
+    },
+    {
+      "ep": 357,
+      "gp": 561,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1644378193
+    },
+    {
+      "ep": 357,
+      "gp": 592,
+      "description": "Add GP 31 (Full Price)\n[Pattern: Mantle of Nimble Thought]",
+      "timestamp": 1644378457
+    },
+    {
+      "ep": 379,
+      "gp": 592,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1644380202
+    },
+    {
+      "ep": 399,
+      "gp": 592,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1644545659
+    },
+    {
+      "ep": 419,
+      "gp": 592,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1644547024
+    },
+    {
+      "ep": 419,
+      "gp": 747,
+      "description": "Add GP 155 (Full Price)\n[Waistwrap of Infinity]",
+      "timestamp": 1644547114
+    },
+    {
+      "ep": 439,
+      "gp": 747,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1644549229
+    },
+    {
+      "ep": 459,
+      "gp": 747,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1644551514
+    },
+    {
+      "ep": 459,
+      "gp": 799,
+      "description": "Add GP +52 (Heart of Darkness (MS))",
+      "timestamp": 1644552487
+    },
+    {
+      "ep": 479,
+      "gp": 799,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1644555324
+    }
+  ]
+}

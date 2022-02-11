@@ -1,34 +1,37 @@
 
-_Updated 02/04/2022._
+_Updated 02/10/2022._
 
 | Name | Effort points | Gear points | Priority |
 |:-----|:-------------:|:-----------:|---------:|
-|Blindhammer|300|350|0.86|
-|Butoijo|455|649|0.70|
-|Cattleguard|682|403|1.69|
-|Cruid|670|449|1.49|
-|Cupidz|614|378|1.62|
-|Darkenlock|348|289|1.20|
-|Drekrigg|367|247|1.49|
-|Exzackto|693|386|1.80|
-|Fròst|224|216|1.04|
-|Getrektd|477|505|0.94|
-|Jatte|357|501|0.71|
-|Jokerjay|684|443|1.54|
-|Kagis|616|778|0.79|
-|Lethality|658|798|0.82|
-|Menatplay|379|475|0.80|
-|Moragari|244|310|0.79|
-|Nate|417|578|0.72|
-|Quesogrande|578|523|1.11|
-|Rannveig|658|356|1.85|
-|Rstyshklfrd|691|309|2.24|
-|Savahe|693|539|1.29|
+|Aslåug|479|799|0.60|
+|Aychbar|428|579|0.74|
+|Blindhammer|342|275|1.24|
+|Butoijo|566|669|0.85|
+|Cattleguard|747|742|1.01|
+|Cruid|738|585|1.26|
+|Cupidz|693|296|2.34|
+|Darkenlock|278|229|1.21|
+|Drekrigg|393|197|1.99|
+|Exzackto|756|322|2.35|
+|Fròst|381|277|1.38|
+|Getrektd|583|391|1.49|
+|Jatte|387|388|1.00|
+|Jokerjay|749|462|1.62|
+|Kagis|694|773|0.90|
+|Lethality|728|869|0.84|
+|Menatplay|505|638|0.79|
+|Moragari|397|245|1.62|
+|Nate|435|446|0.98|
+|Quesogrande|664|404|1.64|
+|Rannveig|728|317|2.30|
+|Rstyshklfrd|754|321|2.35|
+|Savahe|756|534|1.42|
 |Scrimmage|205|87|2.36|
-|Shaday|686|656|1.05|
-|Sudafedpm|692|761|0.91|
+|Shaday|750|740|1.01|
+|Sudafedpm|755|760|0.99|
 |Sunshîne|195|149|1.31|
-|Taikama|578|577|1.00|
-|Vultoro|693|266|2.61|
-|Wrecktangle|645|634|1.02|
+|Taikama|664|445|1.49|
+|Vultoro|756|470|1.61|
+|Wrecktangle|718|488|1.47|
+|Yoursèlf|479|799|0.60|
 |ßeckøn|386|598|0.65|
