@@ -1,6 +1,6 @@
 {
-  "ep": 397,
-  "gp": 245,
+  "ep": 519,
+  "gp": 424,
   "log": [
     {
       "ep": 0,
@@ -139,6 +139,84 @@
       "gp": 245,
       "description": "Add EP 20 (Killed Reliquary of Souls)",
       "timestamp": 1644555323
+    },
+    {
+      "ep": 317,
+      "gp": 196,
+      "description": null,
+      "timestamp": 1644975028
+    },
+    {
+      "ep": 337,
+      "gp": 196,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1644977612
+    },
+    {
+      "ep": 357,
+      "gp": 196,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1644979187
+    },
+    {
+      "ep": 377,
+      "gp": 196,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1644980733
+    },
+    {
+      "ep": 397,
+      "gp": 196,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1644982867
+    },
+    {
+      "ep": 417,
+      "gp": 196,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1644985005
+    },
+    {
+      "ep": 437,
+      "gp": 196,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1645150275
+    },
+    {
+      "ep": 457,
+      "gp": 196,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1645151263
+    },
+    {
+      "ep": 477,
+      "gp": 196,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1645154288
+    },
+    {
+      "ep": 477,
+      "gp": 247,
+      "description": "Add GP 51 (MS Minor (50%))\n[Nethervoid Cloak]",
+      "timestamp": 1645154542
+    },
+    {
+      "ep": 497,
+      "gp": 247,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1645157355
+    },
+    {
+      "ep": 497,
+      "gp": 424,
+      "description": "Add GP 177 (Full Price)\n[Gloves of the Forgotten Conqueror]",
+      "timestamp": 1645157504
+    },
+    {
+      "ep": 519,
+      "gp": 424,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1645158898
     }
   ]
 }

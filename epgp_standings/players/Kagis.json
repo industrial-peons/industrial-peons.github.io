@@ -1,6 +1,6 @@
 {
-  "ep": 694,
-  "gp": 773,
+  "ep": 757,
+  "gp": 633,
   "log": [
     {
       "ep": 0,
@@ -985,6 +985,90 @@
       "gp": 773,
       "description": "Add EP 20 (Killed Reliquary of Souls)",
       "timestamp": 1644555324
+    },
+    {
+      "ep": 555,
+      "gp": 592,
+      "description": null,
+      "timestamp": 1644975035
+    },
+    {
+      "ep": 575,
+      "gp": 592,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1644977613
+    },
+    {
+      "ep": 595,
+      "gp": 592,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1644979187
+    },
+    {
+      "ep": 615,
+      "gp": 592,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1644980733
+    },
+    {
+      "ep": 615,
+      "gp": 607,
+      "description": "Add GP 15 (Off-spec (10%))\n[Shoulders of the Hidden Predator]",
+      "timestamp": 1644980851
+    },
+    {
+      "ep": 635,
+      "gp": 607,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1644982867
+    },
+    {
+      "ep": 655,
+      "gp": 607,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1644985005
+    },
+    {
+      "ep": 675,
+      "gp": 607,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1645150275
+    },
+    {
+      "ep": 695,
+      "gp": 607,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1645151263
+    },
+    {
+      "ep": 715,
+      "gp": 607,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1645154288
+    },
+    {
+      "ep": 735,
+      "gp": 607,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1645157355
+    },
+    {
+      "ep": 757,
+      "gp": 607,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1645158898
+    },
+    {
+      "ep": 757,
+      "gp": 613,
+      "description": "Add GP 6 (MS Minor (50%))\n[Heart of Darkness]",
+      "timestamp": 1645159270
+    },
+    {
+      "ep": 757,
+      "gp": 633,
+      "description": "Add GP +20 (The other 3)",
+      "timestamp": 1645159280
     }
   ]
 }

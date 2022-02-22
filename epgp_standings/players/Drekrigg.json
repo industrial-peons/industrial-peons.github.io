@@ -1,6 +1,6 @@
 {
-  "ep": 393,
-  "gp": 197,
+  "ep": 416,
+  "gp": 396,
   "log": [
     {
       "ep": 0,
@@ -595,6 +595,48 @@
       "gp": 197,
       "description": "Add EP 20 (Killed Reliquary of Souls)",
       "timestamp": 1644555324
+    },
+    {
+      "ep": 314,
+      "gp": 160,
+      "description": null,
+      "timestamp": 1644975035
+    },
+    {
+      "ep": 334,
+      "gp": 160,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1645150275
+    },
+    {
+      "ep": 354,
+      "gp": 160,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1645151263
+    },
+    {
+      "ep": 374,
+      "gp": 160,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1645154288
+    },
+    {
+      "ep": 394,
+      "gp": 160,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1645157355
+    },
+    {
+      "ep": 416,
+      "gp": 160,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1645158898
+    },
+    {
+      "ep": 416,
+      "gp": 396,
+      "description": "Add GP 236 (Full Price)\n[Helm of the Forgotten Protector]",
+      "timestamp": 1645159021
     }
   ]
 }

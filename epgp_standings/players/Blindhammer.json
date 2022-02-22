@@ -1,6 +1,6 @@
 {
-  "ep": 342,
-  "gp": 275,
+  "ep": 273,
+  "gp": 218,
   "log": [
     {
       "ep": 0,
@@ -907,6 +907,12 @@
       "gp": 275,
       "description": "Add EP 22 (Killed Archimonde)",
       "timestamp": 1644380202
+    },
+    {
+      "ep": 273,
+      "gp": 218,
+      "description": null,
+      "timestamp": 1644975035
     }
   ]
 }

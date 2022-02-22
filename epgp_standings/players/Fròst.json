@@ -1,6 +1,6 @@
 {
-  "ep": 381,
-  "gp": 277,
+  "ep": 304,
+  "gp": 220,
   "log": [
     {
       "ep": 0,
@@ -157,6 +157,12 @@
       "gp": 277,
       "description": "Add EP 20 (Killed Reliquary of Souls)",
       "timestamp": 1644555323
+    },
+    {
+      "ep": 304,
+      "gp": 220,
+      "description": null,
+      "timestamp": 1644975029
     }
   ]
 }

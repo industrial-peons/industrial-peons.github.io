@@ -1,6 +1,6 @@
 {
-  "ep": 693,
-  "gp": 296,
+  "ep": 756,
+  "gp": 524,
   "log": [
     {
       "ep": 0,
@@ -931,6 +931,84 @@
       "gp": 296,
       "description": "Add EP 20 (Killed Reliquary of Souls)",
       "timestamp": 1644555324
+    },
+    {
+      "ep": 554,
+      "gp": 234,
+      "description": null,
+      "timestamp": 1644975028
+    },
+    {
+      "ep": 574,
+      "gp": 234,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1644977613
+    },
+    {
+      "ep": 594,
+      "gp": 234,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1644979187
+    },
+    {
+      "ep": 614,
+      "gp": 234,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1644980733
+    },
+    {
+      "ep": 634,
+      "gp": 234,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1644982867
+    },
+    {
+      "ep": 634,
+      "gp": 369,
+      "description": "Add GP 135 (Full Price)\n[Blessed Band of Karabor]",
+      "timestamp": 1644983976
+    },
+    {
+      "ep": 654,
+      "gp": 369,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1644985005
+    },
+    {
+      "ep": 674,
+      "gp": 369,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1645150275
+    },
+    {
+      "ep": 674,
+      "gp": 524,
+      "description": "Add GP 155 (Full Price)\n[Stillwater Boots]",
+      "timestamp": 1645150337
+    },
+    {
+      "ep": 694,
+      "gp": 524,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1645151263
+    },
+    {
+      "ep": 714,
+      "gp": 524,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1645154288
+    },
+    {
+      "ep": 734,
+      "gp": 524,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1645157355
+    },
+    {
+      "ep": 756,
+      "gp": 524,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1645158898
     }
   ]
 }

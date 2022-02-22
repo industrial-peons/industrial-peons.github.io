@@ -1,6 +1,6 @@
 {
-  "ep": 664,
-  "gp": 404,
+  "ep": 631,
+  "gp": 418,
   "log": [
     {
       "ep": 0,
@@ -229,6 +229,54 @@
       "gp": 404,
       "description": "Add EP 20 (Killed Reliquary of Souls)",
       "timestamp": 1644555324
+    },
+    {
+      "ep": 531,
+      "gp": 315,
+      "description": null,
+      "timestamp": 1644975028
+    },
+    {
+      "ep": 551,
+      "gp": 315,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1644977612
+    },
+    {
+      "ep": 551,
+      "gp": 335,
+      "description": "Add GP 20 (Off-spec (10%))\n[Guise of the Tidal Lurker]",
+      "timestamp": 1644977780
+    },
+    {
+      "ep": 571,
+      "gp": 335,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1644979187
+    },
+    {
+      "ep": 591,
+      "gp": 335,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1644980733
+    },
+    {
+      "ep": 611,
+      "gp": 335,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1644982867
+    },
+    {
+      "ep": 631,
+      "gp": 335,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1644985005
+    },
+    {
+      "ep": 631,
+      "gp": 418,
+      "description": "Add GP +83 (Sometimes you win.. sometimes you unwin....)",
+      "timestamp": 1644988017
     }
   ]
 }
