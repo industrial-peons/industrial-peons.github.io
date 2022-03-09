@@ -1,0 +1,114 @@
+{
+  "ep": 371,
+  "gp": 303,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1624660238
+    },
+    {
+      "ep": 322,
+      "gp": 50,
+      "description": "Add EP +322 (Initial EP)",
+      "timestamp": 1645582458
+    },
+    {
+      "ep": 322,
+      "gp": 475,
+      "description": "Add GP +425 (Initial GP)",
+      "timestamp": 1645582489
+    },
+    {
+      "ep": 342,
+      "gp": 475,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1645582932
+    },
+    {
+      "ep": 362,
+      "gp": 475,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1645585171
+    },
+    {
+      "ep": 382,
+      "gp": 475,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1645586657
+    },
+    {
+      "ep": 402,
+      "gp": 475,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1645589024
+    },
+    {
+      "ep": 422,
+      "gp": 475,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1645591706
+    },
+    {
+      "ep": 337,
+      "gp": 475,
+      "description": "20% weekly EP decay",
+      "timestamp": 1646167478
+    },
+    {
+      "ep": 337,
+      "gp": 368,
+      "description": "25% weekly GP decay",
+      "timestamp": 1646167490
+    },
+    {
+      "ep": 269,
+      "gp": 368,
+      "description": "20% weekly EP decay",
+      "timestamp": 1646790341
+    },
+    {
+      "ep": 269,
+      "gp": 288,
+      "description": "25% weekly GP decay",
+      "timestamp": 1646790349
+    },
+    {
+      "ep": 289,
+      "gp": 288,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1646792508
+    },
+    {
+      "ep": 289,
+      "gp": 303,
+      "description": "Add GP +15 (Blood-stained Pauldrons)",
+      "timestamp": 1646792585
+    },
+    {
+      "ep": 309,
+      "gp": 303,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1646793602
+    },
+    {
+      "ep": 329,
+      "gp": 303,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1646795174
+    },
+    {
+      "ep": 349,
+      "gp": 303,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1646798752
+    },
+    {
+      "ep": 371,
+      "gp": 303,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1646799542
+    }
+  ]
+}

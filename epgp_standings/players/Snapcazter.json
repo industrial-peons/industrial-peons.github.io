@@ -1,0 +1,108 @@
+{
+  "ep": 518,
+  "gp": 654,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1645583514
+    },
+    {
+      "ep": 418,
+      "gp": 50,
+      "description": "Add EP +418 (Initial EP)",
+      "timestamp": 1646359219
+    },
+    {
+      "ep": 418,
+      "gp": 573,
+      "description": "Add GP +523 (Initial GP)",
+      "timestamp": 1646359228
+    },
+    {
+      "ep": 438,
+      "gp": 573,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1646360277
+    },
+    {
+      "ep": 458,
+      "gp": 573,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1646361358
+    },
+    {
+      "ep": 478,
+      "gp": 573,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1646364026
+    },
+    {
+      "ep": 498,
+      "gp": 573,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1646365505
+    },
+    {
+      "ep": 520,
+      "gp": 573,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1646367235
+    },
+    {
+      "ep": 520,
+      "gp": 843,
+      "description": "Add GP 270 (Full Price)\n[Robes of Rhonin]",
+      "timestamp": 1646367368
+    },
+    {
+      "ep": 520,
+      "gp": 856,
+      "description": null,
+      "timestamp": 1646522489
+    },
+    {
+      "ep": 416,
+      "gp": 856,
+      "description": "20% weekly EP decay",
+      "timestamp": 1646790339
+    },
+    {
+      "ep": 416,
+      "gp": 654,
+      "description": "25% weekly GP decay",
+      "timestamp": 1646790352
+    },
+    {
+      "ep": 436,
+      "gp": 654,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1646792506
+    },
+    {
+      "ep": 456,
+      "gp": 654,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1646793599
+    },
+    {
+      "ep": 476,
+      "gp": 654,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1646795170
+    },
+    {
+      "ep": 496,
+      "gp": 654,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1646798750
+    },
+    {
+      "ep": 518,
+      "gp": 654,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1646799540
+    }
+  ]
+}

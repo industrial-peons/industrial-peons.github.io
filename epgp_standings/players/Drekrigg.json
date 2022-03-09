@@ -1,6 +1,6 @@
 {
-  "ep": 416,
-  "gp": 396,
+  "ep": 212,
+  "gp": 195,
   "log": [
     {
       "ep": 0,
@@ -637,6 +637,36 @@
       "gp": 396,
       "description": "Add GP 236 (Full Price)\n[Helm of the Forgotten Protector]",
       "timestamp": 1645159021
+    },
+    {
+      "ep": 332,
+      "gp": 309,
+      "description": null,
+      "timestamp": 1645579448
+    },
+    {
+      "ep": 265,
+      "gp": 309,
+      "description": "20% weekly EP decay",
+      "timestamp": 1646167484
+    },
+    {
+      "ep": 265,
+      "gp": 244,
+      "description": "25% weekly GP decay",
+      "timestamp": 1646167496
+    },
+    {
+      "ep": 212,
+      "gp": 244,
+      "description": "20% weekly EP decay",
+      "timestamp": 1646790339
+    },
+    {
+      "ep": 212,
+      "gp": 195,
+      "description": "25% weekly GP decay",
+      "timestamp": 1646790353
     }
   ]
 }

@@ -1,0 +1,114 @@
+{
+  "ep": 518,
+  "gp": 755,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1645399749
+    },
+    {
+      "ep": 418,
+      "gp": 50,
+      "description": "Add EP +418 (Initial EP)",
+      "timestamp": 1646359238
+    },
+    {
+      "ep": 418,
+      "gp": 573,
+      "description": "Add GP +523 (Initial GP)",
+      "timestamp": 1646359245
+    },
+    {
+      "ep": 438,
+      "gp": 573,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1646360277
+    },
+    {
+      "ep": 438,
+      "gp": 676,
+      "description": "Add GP 103 (Full Price)\n[Deadly Cuffs]",
+      "timestamp": 1646360344
+    },
+    {
+      "ep": 458,
+      "gp": 676,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1646361358
+    },
+    {
+      "ep": 478,
+      "gp": 676,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1646364026
+    },
+    {
+      "ep": 498,
+      "gp": 676,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1646365505
+    },
+    {
+      "ep": 498,
+      "gp": 853,
+      "description": "Add GP 177 (Full Price)\n[Gloves of the Forgotten Protector]",
+      "timestamp": 1646365583
+    },
+    {
+      "ep": 520,
+      "gp": 853,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1646367235
+    },
+    {
+      "ep": 416,
+      "gp": 853,
+      "description": "20% weekly EP decay",
+      "timestamp": 1646790339
+    },
+    {
+      "ep": 416,
+      "gp": 652,
+      "description": "25% weekly GP decay",
+      "timestamp": 1646790352
+    },
+    {
+      "ep": 436,
+      "gp": 652,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1646792506
+    },
+    {
+      "ep": 456,
+      "gp": 652,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1646793599
+    },
+    {
+      "ep": 476,
+      "gp": 652,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1646795170
+    },
+    {
+      "ep": 496,
+      "gp": 652,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1646798750
+    },
+    {
+      "ep": 496,
+      "gp": 755,
+      "description": "Add GP 103 (MS Minor (50%))\n[Shady Dealer's Pantaloons]",
+      "timestamp": 1646798809
+    },
+    {
+      "ep": 518,
+      "gp": 755,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1646799540
+    }
+  ]
+}

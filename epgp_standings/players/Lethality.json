@@ -1,6 +1,6 @@
 {
-  "ep": 784,
-  "gp": 829,
+  "ep": 842,
+  "gp": 581,
   "log": [
     {
       "ep": 0,
@@ -727,6 +727,210 @@
       "gp": 829,
       "description": "Add EP 22 (Killed Archimonde)",
       "timestamp": 1645158904
+    },
+    {
+      "ep": 627,
+      "gp": 634,
+      "description": null,
+      "timestamp": 1645579448
+    },
+    {
+      "ep": 647,
+      "gp": 634,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1645582932
+    },
+    {
+      "ep": 667,
+      "gp": 634,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1645585171
+    },
+    {
+      "ep": 687,
+      "gp": 634,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1645586656
+    },
+    {
+      "ep": 707,
+      "gp": 634,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1645589023
+    },
+    {
+      "ep": 727,
+      "gp": 634,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1645591706
+    },
+    {
+      "ep": 747,
+      "gp": 634,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1645756407
+    },
+    {
+      "ep": 767,
+      "gp": 634,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1645757449
+    },
+    {
+      "ep": 787,
+      "gp": 634,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1645759206
+    },
+    {
+      "ep": 807,
+      "gp": 634,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1645761013
+    },
+    {
+      "ep": 829,
+      "gp": 634,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1645761823
+    },
+    {
+      "ep": 663,
+      "gp": 634,
+      "description": "20% weekly EP decay",
+      "timestamp": 1646167484
+    },
+    {
+      "ep": 663,
+      "gp": 488,
+      "description": "25% weekly GP decay",
+      "timestamp": 1646167495
+    },
+    {
+      "ep": 683,
+      "gp": 488,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1646187057
+    },
+    {
+      "ep": 703,
+      "gp": 488,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1646188361
+    },
+    {
+      "ep": 723,
+      "gp": 488,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1646189762
+    },
+    {
+      "ep": 743,
+      "gp": 488,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1646191453
+    },
+    {
+      "ep": 763,
+      "gp": 488,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1646193502
+    },
+    {
+      "ep": 783,
+      "gp": 488,
+      "description": "Add EP 20 (Killed Gurtogg Bloodboil)",
+      "timestamp": 1646195938
+    },
+    {
+      "ep": 783,
+      "gp": 503,
+      "description": "Add GP 15 (Off-spec (10%))\n[Shadowmoon Insignia] (on Lethelity)",
+      "timestamp": 1646196003
+    },
+    {
+      "ep": 823,
+      "gp": 749,
+      "description": null,
+      "timestamp": 1646357331
+    },
+    {
+      "ep": 843,
+      "gp": 749,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1646360283
+    },
+    {
+      "ep": 863,
+      "gp": 749,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1646361364
+    },
+    {
+      "ep": 883,
+      "gp": 749,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1646364033
+    },
+    {
+      "ep": 883,
+      "gp": 759,
+      "description": "Add GP 10 (Off-spec (10%))\n[Pepe's Shroud of Pacification] (on Lethelity)",
+      "timestamp": 1646364143
+    },
+    {
+      "ep": 903,
+      "gp": 759,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1646365512
+    },
+    {
+      "ep": 925,
+      "gp": 759,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1646367244
+    },
+    {
+      "ep": 740,
+      "gp": 759,
+      "description": "20% weekly EP decay",
+      "timestamp": 1646790339
+    },
+    {
+      "ep": 740,
+      "gp": 581,
+      "description": "25% weekly GP decay",
+      "timestamp": 1646790352
+    },
+    {
+      "ep": 760,
+      "gp": 581,
+      "description": "Add EP 20 (Killed Rage Winterchill)",
+      "timestamp": 1646792512
+    },
+    {
+      "ep": 780,
+      "gp": 581,
+      "description": "Add EP 20 (Killed Anetheron)",
+      "timestamp": 1646793607
+    },
+    {
+      "ep": 800,
+      "gp": 581,
+      "description": "Add EP 20 (Killed Kaz'rogal)",
+      "timestamp": 1646795180
+    },
+    {
+      "ep": 820,
+      "gp": 581,
+      "description": "Add EP 20 (Killed Azgalor)",
+      "timestamp": 1646798756
+    },
+    {
+      "ep": 842,
+      "gp": 581,
+      "description": "Add EP 22 (Killed Archimonde)",
+      "timestamp": 1646799546
     }
   ]
 }
