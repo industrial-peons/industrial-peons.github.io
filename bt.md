@@ -5,6 +5,8 @@ title: BT
 
 # Black Temple
 
+![Sounds like the only unprepared one here is you]({{site.baseurl}}/assets/illidan.jpg)
+
 | Name                                  | Prio                                                                                          |
 | ------------------------------------- | --------------------------------------------------------------------------------------------- |
 | Shroud of the Highborne               | Holy priest/holy paladin/resto shaman                                                         |
