@@ -1,6 +1,6 @@
 {
-  "ep": 740,
-  "gp": 631,
+  "ep": 891,
+  "gp": 509,
   "log": [
     {
       "ep": 0,
@@ -379,6 +379,96 @@
       "gp": 631,
       "description": "Add EP 22 (Killed Archimonde)",
       "timestamp": 1646799541
+    },
+    {
+      "ep": 860,
+      "gp": 631,
+      "description": null,
+      "timestamp": 1646961648
+    },
+    {
+      "ep": 880,
+      "gp": 631,
+      "description": "Add EP 20 (Killed Mother Shahraz)",
+      "timestamp": 1646965625
+    },
+    {
+      "ep": 900,
+      "gp": 631,
+      "description": "Add EP 20 (Killed The Illidari Council)",
+      "timestamp": 1646970184
+    },
+    {
+      "ep": 900,
+      "gp": 867,
+      "description": "Add GP 236 (Full Price)\n[Leggings of the Forgotten Vanquisher]",
+      "timestamp": 1646970262
+    },
+    {
+      "ep": 720,
+      "gp": 867,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647373221
+    },
+    {
+      "ep": 720,
+      "gp": 662,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647373226
+    },
+    {
+      "ep": 964,
+      "gp": 662,
+      "description": null,
+      "timestamp": 1647817171
+    },
+    {
+      "ep": 771,
+      "gp": 662,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647995452
+    },
+    {
+      "ep": 771,
+      "gp": 509,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647995461
+    },
+    {
+      "ep": 791,
+      "gp": 509,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1648000026
+    },
+    {
+      "ep": 811,
+      "gp": 509,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1648001327
+    },
+    {
+      "ep": 831,
+      "gp": 509,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1648003371
+    },
+    {
+      "ep": 851,
+      "gp": 509,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1648006007
+    },
+    {
+      "ep": 871,
+      "gp": 509,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1648007581
+    },
+    {
+      "ep": 891,
+      "gp": 509,
+      "description": "Add EP 20 (Killed Gurtogg Bloodboil)",
+      "timestamp": 1648008575
     }
   ]
 }

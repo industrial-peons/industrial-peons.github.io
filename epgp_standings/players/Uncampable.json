@@ -1,0 +1,72 @@
+{
+  "ep": 557,
+  "gp": 618,
+  "log": [
+    {
+      "ep": 0,
+      "gp": 50,
+      "description": null,
+      "timestamp": 1647817171
+    },
+    {
+      "ep": 437,
+      "gp": 50,
+      "description": "Add EP +437 (Initial EP)",
+      "timestamp": 1647996308
+    },
+    {
+      "ep": 437,
+      "gp": 505,
+      "description": "Add GP +455 (Initial GP)",
+      "timestamp": 1647996338
+    },
+    {
+      "ep": 457,
+      "gp": 505,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1648000026
+    },
+    {
+      "ep": 477,
+      "gp": 505,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1648001327
+    },
+    {
+      "ep": 477,
+      "gp": 515,
+      "description": "Add GP 10 (Off-spec (10%))\n[Band of the Abyssal Lord]",
+      "timestamp": 1648001360
+    },
+    {
+      "ep": 497,
+      "gp": 515,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1648003371
+    },
+    {
+      "ep": 497,
+      "gp": 618,
+      "description": "Add GP 103 (Full Price)\n[Ring of Deceitful Intent]",
+      "timestamp": 1648003445
+    },
+    {
+      "ep": 517,
+      "gp": 618,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1648006007
+    },
+    {
+      "ep": 537,
+      "gp": 618,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1648007581
+    },
+    {
+      "ep": 557,
+      "gp": 618,
+      "description": "Add EP 20 (Killed Gurtogg Bloodboil)",
+      "timestamp": 1648008575
+    }
+  ]
+}

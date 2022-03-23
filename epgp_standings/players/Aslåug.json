@@ -1,6 +1,6 @@
 {
-  "ep": 740,
-  "gp": 563,
+  "ep": 576,
+  "gp": 338,
   "log": [
     {
       "ep": 0,
@@ -385,6 +385,48 @@
       "gp": 563,
       "description": "Add EP 22 (Killed Archimonde)",
       "timestamp": 1646799540
+    },
+    {
+      "ep": 860,
+      "gp": 563,
+      "description": null,
+      "timestamp": 1646961647
+    },
+    {
+      "ep": 880,
+      "gp": 563,
+      "description": "Add EP 20 (Killed Mother Shahraz)",
+      "timestamp": 1646965624
+    },
+    {
+      "ep": 900,
+      "gp": 563,
+      "description": "Add EP 20 (Killed The Illidari Council)",
+      "timestamp": 1646970184
+    },
+    {
+      "ep": 720,
+      "gp": 563,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647373221
+    },
+    {
+      "ep": 720,
+      "gp": 434,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647373226
+    },
+    {
+      "ep": 576,
+      "gp": 434,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647995452
+    },
+    {
+      "ep": 576,
+      "gp": 338,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647995461
     }
   ]
 }

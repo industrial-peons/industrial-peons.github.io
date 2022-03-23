@@ -1,6 +1,6 @@
 {
-  "ep": 770,
-  "gp": 328,
+  "ep": 942,
+  "gp": 222,
   "log": [
     {
       "ep": 0,
@@ -1537,6 +1537,96 @@
       "gp": 328,
       "description": "Add EP 22 (Killed Archimonde)",
       "timestamp": 1646799541
+    },
+    {
+      "ep": 890,
+      "gp": 338,
+      "description": null,
+      "timestamp": 1646961647
+    },
+    {
+      "ep": 910,
+      "gp": 338,
+      "description": "Add EP 20 (Killed Mother Shahraz)",
+      "timestamp": 1646965625
+    },
+    {
+      "ep": 930,
+      "gp": 338,
+      "description": "Add EP 20 (Killed The Illidari Council)",
+      "timestamp": 1646970184
+    },
+    {
+      "ep": 744,
+      "gp": 338,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647373221
+    },
+    {
+      "ep": 744,
+      "gp": 266,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647373226
+    },
+    {
+      "ep": 1028,
+      "gp": 266,
+      "description": null,
+      "timestamp": 1647817171
+    },
+    {
+      "ep": 822,
+      "gp": 266,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647995457
+    },
+    {
+      "ep": 822,
+      "gp": 212,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647995467
+    },
+    {
+      "ep": 842,
+      "gp": 212,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1648000026
+    },
+    {
+      "ep": 862,
+      "gp": 212,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1648001327
+    },
+    {
+      "ep": 882,
+      "gp": 212,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1648003371
+    },
+    {
+      "ep": 902,
+      "gp": 212,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1648006007
+    },
+    {
+      "ep": 922,
+      "gp": 212,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1648007581
+    },
+    {
+      "ep": 922,
+      "gp": 222,
+      "description": "Add GP 10 (Off-spec (10%))\n[Touch of Inspiration]",
+      "timestamp": 1648007677
+    },
+    {
+      "ep": 942,
+      "gp": 222,
+      "description": "Add EP 20 (Killed Gurtogg Bloodboil)",
+      "timestamp": 1648008575
     }
   ]
 }

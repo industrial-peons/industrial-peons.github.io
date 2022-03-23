@@ -1,6 +1,6 @@
 {
-  "ep": 679,
-  "gp": 647,
+  "ep": 858,
+  "gp": 617,
   "log": [
     {
       "ep": 0,
@@ -499,6 +499,90 @@
       "gp": 647,
       "description": "Add GP 236 (Full Price)\n[Helm of the Forgotten Protector]",
       "timestamp": 1646799656
+    },
+    {
+      "ep": 759,
+      "gp": 647,
+      "description": null,
+      "timestamp": 1646961641
+    },
+    {
+      "ep": 779,
+      "gp": 647,
+      "description": "Add EP 20 (Killed Mother Shahraz)",
+      "timestamp": 1646965624
+    },
+    {
+      "ep": 799,
+      "gp": 647,
+      "description": "Add EP 20 (Killed The Illidari Council)",
+      "timestamp": 1646970184
+    },
+    {
+      "ep": 639,
+      "gp": 647,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647373215
+    },
+    {
+      "ep": 639,
+      "gp": 497,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647373224
+    },
+    {
+      "ep": 923,
+      "gp": 807,
+      "description": null,
+      "timestamp": 1647817171
+    },
+    {
+      "ep": 738,
+      "gp": 807,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647995452
+    },
+    {
+      "ep": 738,
+      "gp": 617,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647995461
+    },
+    {
+      "ep": 758,
+      "gp": 617,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1648000026
+    },
+    {
+      "ep": 778,
+      "gp": 617,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1648001327
+    },
+    {
+      "ep": 798,
+      "gp": 617,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1648003371
+    },
+    {
+      "ep": 818,
+      "gp": 617,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1648006007
+    },
+    {
+      "ep": 838,
+      "gp": 617,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1648007581
+    },
+    {
+      "ep": 858,
+      "gp": 617,
+      "description": "Add EP 20 (Killed Gurtogg Bloodboil)",
+      "timestamp": 1648008575
     }
   ]
 }

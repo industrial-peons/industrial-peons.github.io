@@ -1,6 +1,6 @@
 {
-  "ep": 772,
-  "gp": 495,
+  "ep": 943,
+  "gp": 574,
   "log": [
     {
       "ep": 0,
@@ -883,6 +883,90 @@
       "gp": 495,
       "description": "Add EP 22 (Killed Archimonde)",
       "timestamp": 1646799541
+    },
+    {
+      "ep": 892,
+      "gp": 536,
+      "description": null,
+      "timestamp": 1646961648
+    },
+    {
+      "ep": 912,
+      "gp": 536,
+      "description": "Add EP 20 (Killed Mother Shahraz)",
+      "timestamp": 1646965625
+    },
+    {
+      "ep": 932,
+      "gp": 536,
+      "description": "Add EP 20 (Killed The Illidari Council)",
+      "timestamp": 1646970184
+    },
+    {
+      "ep": 745,
+      "gp": 536,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647373221
+    },
+    {
+      "ep": 745,
+      "gp": 414,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647373226
+    },
+    {
+      "ep": 1029,
+      "gp": 749,
+      "description": null,
+      "timestamp": 1647817171
+    },
+    {
+      "ep": 823,
+      "gp": 749,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647995457
+    },
+    {
+      "ep": 823,
+      "gp": 574,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647995467
+    },
+    {
+      "ep": 843,
+      "gp": 574,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1648000026
+    },
+    {
+      "ep": 863,
+      "gp": 574,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1648001327
+    },
+    {
+      "ep": 883,
+      "gp": 574,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1648003371
+    },
+    {
+      "ep": 903,
+      "gp": 574,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1648006007
+    },
+    {
+      "ep": 923,
+      "gp": 574,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1648007581
+    },
+    {
+      "ep": 943,
+      "gp": 574,
+      "description": "Add EP 20 (Killed Gurtogg Bloodboil)",
+      "timestamp": 1648008575
     }
   ]
 }

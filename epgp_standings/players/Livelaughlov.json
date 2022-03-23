@@ -1,6 +1,6 @@
 {
-  "ep": 371,
-  "gp": 303,
+  "ep": 236,
+  "gp": 191,
   "log": [
     {
       "ep": 0,
@@ -109,6 +109,30 @@
       "gp": 303,
       "description": "Add EP 22 (Killed Archimonde)",
       "timestamp": 1646799542
+    },
+    {
+      "ep": 296,
+      "gp": 303,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647373217
+    },
+    {
+      "ep": 296,
+      "gp": 239,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647373226
+    },
+    {
+      "ep": 236,
+      "gp": 239,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647995453
+    },
+    {
+      "ep": 236,
+      "gp": 191,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647995463
     }
   ]
 }

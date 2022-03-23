@@ -1,6 +1,6 @@
 {
-  "ep": 782,
-  "gp": 399,
+  "ep": 949,
+  "gp": 495,
   "log": [
     {
       "ep": 0,
@@ -457,6 +457,108 @@
       "gp": 399,
       "description": "Add EP 22 (Killed Archimonde)",
       "timestamp": 1646799540
+    },
+    {
+      "ep": 902,
+      "gp": 399,
+      "description": null,
+      "timestamp": 1646961647
+    },
+    {
+      "ep": 922,
+      "gp": 399,
+      "description": "Add EP 20 (Killed Mother Shahraz)",
+      "timestamp": 1646965625
+    },
+    {
+      "ep": 942,
+      "gp": 399,
+      "description": "Add EP 20 (Killed The Illidari Council)",
+      "timestamp": 1646970184
+    },
+    {
+      "ep": 753,
+      "gp": 399,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647373221
+    },
+    {
+      "ep": 753,
+      "gp": 311,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647373226
+    },
+    {
+      "ep": 1037,
+      "gp": 591,
+      "description": null,
+      "timestamp": 1647817161
+    },
+    {
+      "ep": 829,
+      "gp": 591,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647995457
+    },
+    {
+      "ep": 829,
+      "gp": 455,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647995467
+    },
+    {
+      "ep": 849,
+      "gp": 455,
+      "description": "Add EP 20 (Killed High Warlord Naj'entus)",
+      "timestamp": 1648000026
+    },
+    {
+      "ep": 869,
+      "gp": 455,
+      "description": "Add EP 20 (Killed Supremus)",
+      "timestamp": 1648001327
+    },
+    {
+      "ep": 889,
+      "gp": 455,
+      "description": "Add EP 20 (Killed Shade of Akama)",
+      "timestamp": 1648003371
+    },
+    {
+      "ep": 909,
+      "gp": 455,
+      "description": "Add EP 20 (Killed Teron Gorefiend)",
+      "timestamp": 1648006007
+    },
+    {
+      "ep": 909,
+      "gp": 470,
+      "description": "Add GP 15 (Off-spec (10%))\n[Girdle of Lordaeron's Fallen]",
+      "timestamp": 1648006166
+    },
+    {
+      "ep": 929,
+      "gp": 470,
+      "description": "Add EP 20 (Killed Reliquary of Souls)",
+      "timestamp": 1648007581
+    },
+    {
+      "ep": 929,
+      "gp": 480,
+      "description": "Add GP 10 (Off-spec (10%))\n[Pendant of Titans]",
+      "timestamp": 1648007636
+    },
+    {
+      "ep": 949,
+      "gp": 480,
+      "description": "Add EP 20 (Killed Gurtogg Bloodboil)",
+      "timestamp": 1648008575
+    },
+    {
+      "ep": 949,
+      "gp": 495,
+      "description": "Add GP 15 (Off-spec (10%))\n[Shadowmoon Insignia]",
+      "timestamp": 1648008668
     }
   ]
 }

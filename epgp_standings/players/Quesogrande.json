@@ -1,6 +1,6 @@
 {
-  "ep": 698,
-  "gp": 478,
+  "ep": 776,
+  "gp": 474,
   "log": [
     {
       "ep": 0,
@@ -463,6 +463,54 @@
       "gp": 478,
       "description": "Add GP 118 (MS Minor (50%))\n[Helm of the Forgotten Vanquisher]",
       "timestamp": 1646799685
+    },
+    {
+      "ep": 818,
+      "gp": 478,
+      "description": null,
+      "timestamp": 1646961647
+    },
+    {
+      "ep": 838,
+      "gp": 478,
+      "description": "Add EP 20 (Killed Mother Shahraz)",
+      "timestamp": 1646965625
+    },
+    {
+      "ep": 858,
+      "gp": 478,
+      "description": "Add EP 20 (Killed The Illidari Council)",
+      "timestamp": 1646970184
+    },
+    {
+      "ep": 686,
+      "gp": 478,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647373221
+    },
+    {
+      "ep": 686,
+      "gp": 371,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647373226
+    },
+    {
+      "ep": 970,
+      "gp": 616,
+      "description": null,
+      "timestamp": 1647817171
+    },
+    {
+      "ep": 776,
+      "gp": 616,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647995457
+    },
+    {
+      "ep": 776,
+      "gp": 474,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647995467
     }
   ]
 }

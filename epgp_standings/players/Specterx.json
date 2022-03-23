@@ -1,6 +1,6 @@
 {
-  "ep": 614,
-  "gp": 798,
+  "ep": 871,
+  "gp": 796,
   "log": [
     {
       "ep": 0,
@@ -193,6 +193,30 @@
       "gp": 798,
       "description": "Add GP 54 (Off-spec (10%))\n[Apostle of Argus]",
       "timestamp": 1646799624
+    },
+    {
+      "ep": 734,
+      "gp": 1025,
+      "description": null,
+      "timestamp": 1646961647
+    },
+    {
+      "ep": 587,
+      "gp": 1025,
+      "description": "20% weekly EP decay",
+      "timestamp": 1647373221
+    },
+    {
+      "ep": 587,
+      "gp": 781,
+      "description": "25% weekly GP decay",
+      "timestamp": 1647373225
+    },
+    {
+      "ep": 871,
+      "gp": 796,
+      "description": null,
+      "timestamp": 1647817160
     }
   ]
 }
